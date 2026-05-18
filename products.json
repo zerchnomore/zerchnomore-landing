@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T04:59:08.788Z"
+    "last_updated": "2026-05-18T04:59:39.112Z"
   },
   "productos": [
+    {
+      "id": "MLC1598265323",
+      "titulo": "Impresora Multifunción A Color Hp Smart Tank 583 Con Wifi Blanco",
+      "precio": 174990,
+      "precio_original": 174990,
+      "descuento": "16% OFF",
+      "moneda": "CLP",
+      "rating": 4.7,
+      "reviews_count": 542,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779080376/zerch/MLC1598265323/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2A7G5k5",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T04:59:39.112Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2A7G5k5",
       "titulo": "",
