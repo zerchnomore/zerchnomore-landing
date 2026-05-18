@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:43:15.479Z"
+    "last_updated": "2026-05-18T05:48:26.322Z"
   },
   "productos": [
+    {
+      "id": "MLC1957641521",
+      "titulo": "Pack 15 Sobres Para Álbum Mundial",
+      "precio": 24990,
+      "precio_original": 24990,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": "+25",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779083303/zerch/MLC1957641521/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1957641521",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:48:26.322Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1482141103",
       "titulo": "Poleron Sudadera Con Capucha Superlarga Para Mujer De Polar Sherpa Con Suave Calienta Rapido Invierno Regalo Mama Dia De Las Madre Manta De Sherpa De",
@@ -174,23 +191,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T04:59:08.788Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2uYuim8",
-      "titulo": "",
-      "precio": 184990,
-      "precio_original": 184990,
-      "descuento": "23% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779079914/zerch/https:/meli.la/2uYuim8/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BExa46%2F4RTuqFUn3Sx6IU19DDjgfnIAtdMm84hf5eiOErUJe8UgyEnhfL8wFCH5ykGmrrU2lTi179Z5K1m5vvhAwx%2FCTpg01VTA8AsGNdUx3IpyIN9bL%2BWiyOUyOOEOWw9CK6lf8HEGjzhPERL%2F0wifxWQVWSgpH5TPi1b6TbQxYGsBiNunlF4FqV31y2Iqg4nuzgjk%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T04:51:57.201Z",
       "instagram_post_id": null
     }
   ]
