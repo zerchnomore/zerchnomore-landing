@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:48:26.322Z"
+    "last_updated": "2026-05-18T05:52:25.074Z"
   },
   "productos": [
+    {
+      "id": "MLC3553467948",
+      "titulo": "Conjunto Buzo Pantalon Y Poleron De Algodon Nacional Unisex",
+      "precio": 18990,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 4.5,
+      "reviews_count": 2,
+      "vendidos": "+5",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779083541/zerch/MLC3553467948/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3553467948",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:52:25.073Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1957641521",
       "titulo": "Pack 15 Sobres Para Álbum Mundial",
@@ -174,23 +191,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T04:59:58.219Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2A7G5k5",
-      "titulo": "",
-      "precio": 174990,
-      "precio_original": 174990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779080346/zerch/https:/meli.la/2A7G5k5/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKYxKMi9uSK%2Fukr%2FOmdvRclvEZGgTc6XCt4f2w3zp1vE7xodAsHxkkh2WThkcHT%2FRcpwCBRgyxV7VRC2cEiKf6EA1myHVmOj4Nl9o38G3JbBHPPlQ5rIlMXhipjd57yZNMlPrQHoZjH7kWIJwXywtejuhTSxun4ipiHQ%2FqtfYAe5uCHDiU6supqE8PwoXRYYiNaAWFw%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T04:59:08.788Z",
       "instagram_post_id": null
     }
   ]
