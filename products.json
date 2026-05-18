@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:35:01.768Z"
+    "last_updated": "2026-05-18T05:39:08.478Z"
   },
   "productos": [
+    {
+      "id": "MLC3956622008",
+      "titulo": "Kit 6 Pares Calcetines Deportivos Antideslizantes Football",
+      "precio": 6364,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082746/zerch/MLC3956622008/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3956622008",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:39:08.478Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3343443466",
       "titulo": "Camiseta Local Hombre adidas Kg854 Selección Chilena 26 Rojo",
