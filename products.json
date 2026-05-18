@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T19:33:30.837Z"
+    "last_updated": "2026-05-18T21:57:01.439Z"
   },
   "productos": [
+    {
+      "id": "MLC3360849616",
+      "titulo": "Extensor De Pantalla Para Notebook Portátil 14 Full Hd Windows Negro",
+      "precio": 399990,
+      "precio_original": 399990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": 4.5,
+      "reviews_count": 2,
+      "vendidos": "+5",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779141418/zerch/MLC3360849616/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3360849616",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-18T21:57:01.439Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2032134294",
       "titulo": "Adaptador Hub Usb Tipo C 8 En 1 Con Rj45 Para Mac, Windows",
