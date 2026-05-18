@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:57:39.392Z"
+    "last_updated": "2026-05-18T10:48:10.350Z"
   },
   "productos": [
+    {
+      "id": "MLC3899793144",
+      "titulo": "Energizer 10000mah Batería Usb C Pd Qi Inalámbrica Negro",
+      "precio": 55430,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779101286/zerch/MLC3899793144/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3899793144",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-18T10:48:10.349Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3285331584",
       "titulo": "Playstation Astro Bot Gran Turismo 7 Digital Playstation 5 Slim Cfi-2115b01x 825gb Playstation 5 Digital Blanco",
