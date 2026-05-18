@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:39:08.478Z"
+    "last_updated": "2026-05-18T05:43:15.479Z"
   },
   "productos": [
+    {
+      "id": "MLC1482141103",
+      "titulo": "Poleron Sudadera Con Capucha Superlarga Para Mujer De Polar Sherpa Con Suave Calienta Rapido Invierno Regalo Mama Dia De Las Madre Manta De Sherpa De",
+      "precio": 21342,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 95,
+      "vendidos": "+500",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082992/zerch/MLC1482141103/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1482141103",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:43:15.479Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3956622008",
       "titulo": "Kit 6 Pares Calcetines Deportivos Antideslizantes Football",
@@ -175,23 +192,6 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T04:51:57.201Z",
       "instagram_post_id": null
-    },
-    {
-      "id": "MLC453683688",
-      "titulo": "Manguera Jardín Reforzada 1/2 Pulgada 30 Mts Mas Accesorios",
-      "precio": 14938,
-      "precio_original": 18675,
-      "descuento": "20%",
-      "moneda": "CLP",
-      "rating": 4.5,
-      "reviews_count": 1702,
-      "vendidos": "+5mil",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779074831/zerch/MLC453683688/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/manguera-jardin-reforzada-12-pulgada-30-mts-mas-accesorios/up/MLCU55348251?pdp_filters=item_id%3AMLC453683688&matt_tool=94515950",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T03:25:31.000Z",
-      "instagram_post_id": "18102452032825995"
     }
   ]
 }
