@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "site": "ZERCH NO MORE",
+    "url": "https://zerchnomore.app",
+    "instagram": "@zerch_nomore",
+    "last_updated": "2026-05-18T03:30:00.000Z"
+  },
+  "productos": [
+    {
+      "id": "MLC453683688",
+      "titulo": "Manguera Jardín Reforzada 1/2 Pulgada 30 Mts Mas Accesorios",
+      "precio": 14938,
+      "precio_original": 18675,
+      "descuento": "20%",
+      "moneda": "CLP",
+      "rating": 4.5,
+      "reviews_count": 1702,
+      "vendidos": "+5mil",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779074831/zerch/MLC453683688/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/manguera-jardin-reforzada-12-pulgada-30-mts-mas-accesorios/up/MLCU55348251?pdp_filters=item_id%3AMLC453683688&matt_tool=94515950",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T03:25:31.000Z",
+      "instagram_post_id": "18102452032825995"
+    }
+  ]
+}

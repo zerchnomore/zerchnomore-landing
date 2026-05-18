@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZERCH NO MORE — Hallazgos premium</title>
+<meta name="description" content="Hallazgos premium a precios inteligentes. Para el que trabaja duro y compra inteligente.">
+<meta property="og:title" content="ZERCH NO MORE">
+<meta property="og:description" content="Hallazgos premium para gente que trabaja duro.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          'zerch-bg': '#0a0a0a',
+          'zerch-char': '#121212',
+          'zerch-lime': '#B7FF2A',
+          'zerch-white': '#F5F5F5',
+          'zerch-gray': '#B0B0B0',
+          'zerch-dim': '#444'
+        },
+        fontFamily: {
+          'zerch': ['-apple-system', 'BlinkMacSystemFont', 'Helvetica Neue', 'sans-serif']
+        }
+      }
+    }
+  }
+</script>
+<style>
+  body { background: #0a0a0a; color: #F5F5F5; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif; }
+  .gradient-lime { background: linear-gradient(135deg, #0a0a0a 0%, #1a1f08 100%); }
+  .product-card { transition: all 0.2s ease; }
+  .product-card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(183,255,42,0.15); }
+  .btn-cta {
+    background: #B7FF2A;
+    color: #000;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    transition: all 0.2s;
+  }
+  .btn-cta:hover { background: #fff; transform: scale(1.02); }
+  .skeleton {
+    background: linear-gradient(90deg, #1a1a1a 25%, #2a2a2a 50%, #1a1a1a 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+  @keyframes shimmer {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+</style>
+</head>
+<body class="min-h-screen">
+
+<!-- ═════════════ HEADER ═════════════ -->
+<header class="border-b border-zinc-900 py-8 px-6">
+  <div class="max-w-3xl mx-auto text-center">
+    <div class="inline-block bg-zerch-lime text-black px-3 py-1 text-xs font-black tracking-widest mb-4">
+      ⚡ HALLAZGOS PREMIUM
+    </div>
+    <h1 class="text-5xl md:text-6xl font-black tracking-tight mb-2">
+      ZERCH <span class="text-zerch-lime">NO MORE</span>
+    </h1>
+    <p class="text-zerch-gray text-sm md:text-base">
+      Para el que trabaja duro y compra inteligente.
+    </p>
+    <p class="text-zerch-dim text-xs mt-2 tracking-widest">@ZERCH_NOMORE · #PUBLICIDAD</p>
+  </div>
+</header>
+
+<!-- ═════════════ ÚLTIMO HALLAZGO ═════════════ -->
+<section class="py-12 px-6 gradient-lime border-b border-zinc-900">
+  <div class="max-w-3xl mx-auto">
+    <h2 class="text-zerch-lime text-xs font-bold tracking-widest mb-6 text-center">🔥 ÚLTIMO HALLAZGO</h2>
+    <div id="featured-product">
+      <!-- Renderizado dinámicamente por app.js -->
+      <div class="skeleton h-96 rounded-lg"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═════════════ CATEGORÍAS ═════════════ -->
+<section class="py-12 px-6">
+  <div class="max-w-5xl mx-auto">
+    <h2 class="text-zerch-white text-xs font-bold tracking-widest mb-6 text-center">📦 EXPLORÁ POR CATEGORÍA</h2>
+    <div id="categories-nav" class="flex flex-wrap justify-center gap-3 mb-12">
+      <!-- Renderizado dinámicamente -->
+    </div>
+
+    <div id="products-list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Renderizado dinámicamente -->
+      <div class="skeleton h-64 rounded-lg"></div>
+      <div class="skeleton h-64 rounded-lg"></div>
+      <div class="skeleton h-64 rounded-lg"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═════════════ FOOTER ═════════════ -->
+<footer class="border-t border-zinc-900 py-12 px-6 mt-12">
+  <div class="max-w-3xl mx-auto text-center">
+    <a href="https://instagram.com/zerch_nomore" target="_blank" rel="noopener"
+       class="inline-block btn-cta px-8 py-4 rounded-full mb-6">
+      📲 VER FEED COMPLETO →
+    </a>
+    <p class="text-zerch-dim text-xs tracking-widest">
+      ZERCH NO MORE © 2026 · Santiago, Chile
+    </p>
+    <p class="text-zerch-dim text-xs mt-2">
+      #publicidad · Cumplimiento SERNAC Chile · Todos los links son de afiliado
+    </p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

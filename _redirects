@@ -1,0 +1,6 @@
+# Cloudflare Pages _redirects
+# Health check
+/health  /index.html  200
+
+# Click tracking endpoint (Cloudflare Worker)
+# /click  https://click-tracker.zerchnomore.workers.dev/track  200
