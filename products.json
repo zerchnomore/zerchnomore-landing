@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T17:46:30.305Z"
+    "last_updated": "2026-05-18T19:33:30.837Z"
   },
   "productos": [
+    {
+      "id": "MLC2032134294",
+      "titulo": "Adaptador Hub Usb Tipo C 8 En 1 Con Rj45 Para Mac, Windows",
+      "precio": 8850,
+      "precio_original": 8850,
+      "descuento": "8% OFF",
+      "moneda": "CLP",
+      "rating": 4.5,
+      "reviews_count": 230,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779132807/zerch/MLC2032134294/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-2032134294",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-18T19:33:30.837Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3737889686",
       "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
