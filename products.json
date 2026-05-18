@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T10:48:10.350Z"
+    "last_updated": "2026-05-18T10:54:20.652Z"
   },
   "productos": [
+    {
+      "id": "MLC1952303831",
+      "titulo": "Limpiador De Vapor A Presión De Alta Temperatura De 2500w Blanco",
+      "precio": 21363,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 4.3,
+      "reviews_count": 774,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779101656/zerch/MLC1952303831/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1952303831",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T10:54:20.652Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3899793144",
       "titulo": "Energizer 10000mah Batería Usb C Pd Qi Inalámbrica Negro",
@@ -191,23 +208,6 @@
       "categoria_id": "outdoor",
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-18T05:15:06.068Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2DmJQqA",
-      "titulo": "",
-      "precio": 79900,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779081259/zerch/https:/meli.la/2DmJQqA/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEmmD8SEbv2Dk3PhUB0wxEajfO2e%2B4dqnpQfJd0eG8OynXxgatA02IaQETdXIQDn2%2BWu3NRtSvtTScagJunfNwpafZGbf2Omq%2BKkSSebheot4LgGpzPtRquR38yHChnM%2B331I4HQ0s3rF5BY73CmXYM4uF4ySeZoj8KF2yC8B%2FfImdMBcNafwkEr4KE6oiGghOjW5SDX7WPyJqUT",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T05:14:22.534Z",
       "instagram_post_id": null
     }
   ]
