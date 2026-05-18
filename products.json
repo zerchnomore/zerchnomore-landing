@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T04:51:57.201Z"
+    "last_updated": "2026-05-18T04:59:08.788Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2A7G5k5",
+      "titulo": "",
+      "precio": 174990,
+      "precio_original": 174990,
+      "descuento": "16% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779080346/zerch/https:/meli.la/2A7G5k5/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKYxKMi9uSK%2Fukr%2FOmdvRclvEZGgTc6XCt4f2w3zp1vE7xodAsHxkkh2WThkcHT%2FRcpwCBRgyxV7VRC2cEiKf6EA1myHVmOj4Nl9o38G3JbBHPPlQ5rIlMXhipjd57yZNMlPrQHoZjH7kWIJwXywtejuhTSxun4ipiHQ%2FqtfYAe5uCHDiU6supqE8PwoXRYYiNaAWFw%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T04:59:08.788Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2uYuim8",
       "titulo": "",
