@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:15:06.069Z"
+    "last_updated": "2026-05-18T05:22:52.947Z"
   },
   "productos": [
+    {
+      "id": "MLC1570949369",
+      "titulo": "25000lm Linterna Táctica Alta Potencia Con Pantalla Digital Blanco Negro",
+      "precio": 40990,
+      "precio_original": 40990,
+      "descuento": "22% OFF",
+      "moneda": "CLP",
+      "rating": 4.7,
+      "reviews_count": 17,
+      "vendidos": "+50",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779081769/zerch/MLC1570949369/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1570949369",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-18T05:22:52.947Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2498158802",
       "titulo": "Navaja Outrider Rojo Victorinox Rojo",
