@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:32:02.154Z"
+    "last_updated": "2026-05-18T05:35:01.768Z"
   },
   "productos": [
+    {
+      "id": "MLC3343443466",
+      "titulo": "Camiseta Local Hombre adidas Kg854 Selección Chilena 26 Rojo",
+      "precio": 69990,
+      "precio_original": 69990,
+      "descuento": "9% OFF",
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 1,
+      "vendidos": "+5",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082499/zerch/MLC3343443466/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3343443466",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:35:01.767Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1600106707",
       "titulo": "Chaleco Geologo Minero Orbit Plus",
