@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:52:25.074Z"
+    "last_updated": "2026-05-18T05:57:39.392Z"
   },
   "productos": [
+    {
+      "id": "MLC3285331584",
+      "titulo": "Playstation Astro Bot Gran Turismo 7 Digital Playstation 5 Slim Cfi-2115b01x 825gb Playstation 5 Digital Blanco",
+      "precio": 583226,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 1417,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779083856/zerch/MLC3285331584/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3285331584",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:57:39.392Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3553467948",
       "titulo": "Conjunto Buzo Pantalon Y Poleron De Algodon Nacional Unisex",
@@ -174,23 +191,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T05:14:22.534Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1598265323",
-      "titulo": "Impresora Multifunción A Color Hp Smart Tank 583 Con Wifi Blanco",
-      "precio": 174990,
-      "precio_original": 174990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": 4.7,
-      "reviews_count": 542,
-      "vendidos": "+1000",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779080376/zerch/MLC1598265323/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1598265323",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T04:59:58.219Z",
       "instagram_post_id": null
     }
   ]
