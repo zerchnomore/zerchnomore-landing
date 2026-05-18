@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T22:50:07.289Z"
+    "last_updated": "2026-05-18T22:54:18.619Z"
   },
   "productos": [
+    {
+      "id": "MLC3885415408",
+      "titulo": "Impresora Foto Portable Xiaomi Photo Printer 1s Modelo 2025 Blanco",
+      "precio": 69990,
+      "precio_original": 69990,
+      "descuento": "27% OFF",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 51,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779144855/zerch/MLC3885415408/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3885415408",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-18T22:54:18.618Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2851682696",
       "titulo": "Termoventilador Mademsa 1800w 2 Velocidades Termostato Tv300 Blanco",
