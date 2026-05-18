@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T12:00:15.362Z"
+    "last_updated": "2026-05-18T17:46:30.305Z"
   },
   "productos": [
+    {
+      "id": "MLC3737889686",
+      "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
+      "precio": 226990,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 14,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779126387/zerch/MLC3737889686/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3737889686",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-18T17:46:30.304Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2937858696",
       "titulo": "Televisor Smart 55 Qled Q7fa 4k Vision Ai Samsung",
