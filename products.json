@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T11:49:40.024Z"
+    "last_updated": "2026-05-18T12:00:15.362Z"
   },
   "productos": [
+    {
+      "id": "MLC2937858696",
+      "titulo": "Televisor Smart 55 Qled Q7fa 4k Vision Ai Samsung",
+      "precio": 629990,
+      "precio_original": 629990,
+      "descuento": "39% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 304,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779105612/zerch/MLC2937858696/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-2937858696",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T12:00:15.362Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2712124022",
       "titulo": "Afeitadora Kemei Km-2028 Inalámbrica Recargable Resistente Al Agua 0",
@@ -157,23 +174,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T05:48:26.322Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1482141103",
-      "titulo": "Poleron Sudadera Con Capucha Superlarga Para Mujer De Polar Sherpa Con Suave Calienta Rapido Invierno Regalo Mama Dia De Las Madre Manta De Sherpa De",
-      "precio": 21342,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 95,
-      "vendidos": "+500",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082992/zerch/MLC1482141103/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1482141103",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T05:43:15.479Z",
       "instagram_post_id": null
     },
     {
