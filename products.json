@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:26:51.156Z"
+    "last_updated": "2026-05-18T05:32:02.154Z"
   },
   "productos": [
+    {
+      "id": "MLC1600106707",
+      "titulo": "Chaleco Geologo Minero Orbit Plus",
+      "precio": 19980,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 4.6,
+      "reviews_count": 82,
+      "vendidos": "+500",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082318/zerch/MLC1600106707/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1600106707",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T05:32:02.154Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1472443623",
       "titulo": "Chaqueta Trade Executive Unisex",
