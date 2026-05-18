@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T10:54:20.652Z"
+    "last_updated": "2026-05-18T11:04:13.696Z"
   },
   "productos": [
+    {
+      "id": "MLC1948609429",
+      "titulo": "Espejo De Maquillaje Ovente Iluminado De Sobremesa De 7 PuLG",
+      "precio": 59478,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779102250/zerch/MLC1948609429/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1948609429",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-18T11:04:13.695Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1952303831",
       "titulo": "Limpiador De Vapor A Presión De Alta Temperatura De 2500w Blanco",
