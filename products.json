@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T21:57:01.439Z"
+    "last_updated": "2026-05-18T22:02:29.352Z"
   },
   "productos": [
+    {
+      "id": "MLC3038892162",
+      "titulo": "2nlf Cámaras De Seguridad Wifi Exterior Ip 360° 3 Lentes 3 Pantalla Resistente Conversación Bidireccional Seguimiento De Movimiento Alarma Móvil Visión Nocturna A Todo Color Negro",
+      "precio": 90712,
+      "precio_original": 90712,
+      "descuento": "59% OFF",
+      "moneda": "CLP",
+      "rating": 4.6,
+      "reviews_count": 344,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779141741/zerch/MLC3038892162/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3038892162",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T22:02:29.352Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3360849616",
       "titulo": "Extensor De Pantalla Para Notebook Portátil 14 Full Hd Windows Negro",
@@ -208,23 +225,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T05:52:25.073Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1957641521",
-      "titulo": "Pack 15 Sobres Para Álbum Mundial",
-      "precio": 24990,
-      "precio_original": 24990,
-      "descuento": "5% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": "+25",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779083303/zerch/MLC1957641521/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1957641521",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T05:48:26.322Z",
       "instagram_post_id": null
     },
     {
