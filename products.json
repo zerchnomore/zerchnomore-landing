@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T05:14:22.534Z"
+    "last_updated": "2026-05-18T05:15:06.069Z"
   },
   "productos": [
+    {
+      "id": "MLC2498158802",
+      "titulo": "Navaja Outrider Rojo Victorinox Rojo",
+      "precio": 79900,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 1,
+      "vendidos": "3",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779081301/zerch/MLC2498158802/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-2498158802",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-05-18T05:15:06.068Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2DmJQqA",
       "titulo": "",
