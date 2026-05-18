@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T11:18:31.659Z"
+    "last_updated": "2026-05-18T11:32:24.832Z"
   },
   "productos": [
+    {
+      "id": "MLC2750387364",
+      "titulo": "Antifaz Para Dormir Ajustable",
+      "precio": 9158,
+      "precio_original": 9158,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 215,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779103940/zerch/MLC2750387364/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-2750387364",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-18T11:32:24.832Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3956318182",
       "titulo": "Sombreros Cálidos De Invierno Y Exteriores Para Mujer, De Fo",
@@ -157,23 +174,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T05:39:08.478Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3343443466",
-      "titulo": "Camiseta Local Hombre adidas Kg854 Selección Chilena 26 Rojo",
-      "precio": 69990,
-      "precio_original": 69990,
-      "descuento": "9% OFF",
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 1,
-      "vendidos": "+5",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082499/zerch/MLC3343443466/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-3343443466",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T05:35:01.767Z",
       "instagram_post_id": null
     },
     {
