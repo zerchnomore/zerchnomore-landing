@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T19:23:15.525Z"
+    "last_updated": "2026-05-19T19:39:47.410Z"
   },
   "productos": [
+    {
+      "id": "MLC1023135805",
+      "titulo": "Audífonos Inalámbricos Con Noise Cancelling Wh-1000xm5 Color Plata Plateado",
+      "precio": 399990,
+      "precio_original": 399990,
+      "descuento": "32% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 480,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218559/zerch/MLC1023135805/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1023135805",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-19T19:39:47.410Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1494906071",
       "titulo": "Parlante Jbl Charge 5 Jblcharge5 Portátil Con Bluetooth Waterproof Black",
@@ -55,23 +72,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-19T19:22:55.345Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1023135805",
-      "titulo": "Audífonos Inalámbricos Con Noise Cancelling Wh-1000xm5 Color Plata Plateado",
-      "precio": 399990,
-      "precio_original": 399990,
-      "descuento": "32% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 480,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218559/zerch/MLC1023135805/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1023135805",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-19T19:22:43.664Z",
       "instagram_post_id": null
     },
     {
