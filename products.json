@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T17:48:30.427Z"
+    "last_updated": "2026-05-19T19:22:43.665Z"
   },
   "productos": [
+    {
+      "id": "MLC1023135805",
+      "titulo": "Audífonos Inalámbricos Con Noise Cancelling Wh-1000xm5 Color Plata Plateado",
+      "precio": 399990,
+      "precio_original": 399990,
+      "descuento": "32% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 480,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218559/zerch/MLC1023135805/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1023135805",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-19T19:22:43.664Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC2971424008",
       "titulo": "Aspiradora Ciclonica Compact Power Xxl Ro4b25ea Rowenta Gris",
@@ -191,23 +208,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T12:00:15.362Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC2712124022",
-      "titulo": "Afeitadora Kemei Km-2028 Inalámbrica Recargable Resistente Al Agua 0",
-      "precio": 26990,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 4.6,
-      "reviews_count": 1311,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779104977/zerch/MLC2712124022/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-2712124022",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T11:49:40.024Z",
       "instagram_post_id": null
     },
     {
