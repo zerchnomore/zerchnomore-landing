@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T19:22:55.346Z"
+    "last_updated": "2026-05-19T19:23:04.897Z"
   },
   "productos": [
+    {
+      "id": "MLC1423099729",
+      "titulo": "Taladro Percutor 340w + Esmeril Angular Dewalt Dck248p1-b2 + Batería 5ah Amarillo",
+      "precio": 529960,
+      "precio_original": 529960,
+      "descuento": "41% OFF",
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 118,
+      "vendidos": "+500",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218580/zerch/MLC1423099729/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1423099729",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-19T19:23:04.897Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1509647599",
       "titulo": "Smartwatch Samsung Galaxy Watch 7 44mm Bluetooth Ai Color Plateado Blanca Mesh Plateada",
