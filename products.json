@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T19:22:43.665Z"
+    "last_updated": "2026-05-19T19:22:55.346Z"
   },
   "productos": [
+    {
+      "id": "MLC1509647599",
+      "titulo": "Smartwatch Samsung Galaxy Watch 7 44mm Bluetooth Ai Color Plateado Blanca Mesh Plateada",
+      "precio": 379990,
+      "precio_original": 379990,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 99,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218569/zerch/MLC1509647599/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1509647599",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-19T19:22:55.345Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1023135805",
       "titulo": "Audífonos Inalámbricos Con Noise Cancelling Wh-1000xm5 Color Plata Plateado",
