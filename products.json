@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-18T22:54:18.619Z"
+    "last_updated": "2026-05-19T11:31:31.943Z"
   },
   "productos": [
+    {
+      "id": "MLC3314349828",
+      "titulo": "Cafetera Automática Oster, Primalatte, Roja Bvstem6604r Rojo",
+      "precio": 189990,
+      "precio_original": 189990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": 4.3,
+      "reviews_count": 28,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779190287/zerch/MLC3314349828/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-3314349828",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-19T11:31:31.942Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3885415408",
       "titulo": "Impresora Foto Portable Xiaomi Photo Printer 1s Modelo 2025 Blanco",
@@ -225,23 +242,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-18T10:48:10.349Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3285331584",
-      "titulo": "Playstation Astro Bot Gran Turismo 7 Digital Playstation 5 Slim Cfi-2115b01x 825gb Playstation 5 Digital Blanco",
-      "precio": 583226,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 1417,
-      "vendidos": "+1000",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779083856/zerch/MLC3285331584/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-3285331584",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T05:57:39.392Z",
       "instagram_post_id": null
     },
     {
