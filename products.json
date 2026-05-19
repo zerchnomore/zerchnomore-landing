@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T17:40:26.904Z"
+    "last_updated": "2026-05-19T17:46:55.774Z"
   },
   "productos": [
+    {
+      "id": "MLC2971424008",
+      "titulo": "Aspiradora Ciclonica Compact Power Xxl Ro4b25ea Rowenta Gris",
+      "precio": 109990,
+      "precio_original": 109990,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 281,
+      "vendidos": "+1000",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779212812/zerch/MLC2971424008/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-2971424008",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-19T17:46:55.774Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3144412280",
       "titulo": "Limpiador De Piscinas Robótico Aiper Scuba Se - Automático Gris",
@@ -191,23 +208,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-18T11:49:40.024Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC2750387364",
-      "titulo": "Antifaz Para Dormir Ajustable",
-      "precio": 9158,
-      "precio_original": 9158,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 215,
-      "vendidos": "+1000",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779103940/zerch/MLC2750387364/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-2750387364",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T11:32:24.832Z",
       "instagram_post_id": null
     },
     {
