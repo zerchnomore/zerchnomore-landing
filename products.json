@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T11:33:17.848Z"
+    "last_updated": "2026-05-19T15:59:10.504Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2uYuim8",
+      "titulo": "",
+      "precio": 184990,
+      "precio_original": 184990,
+      "descuento": "23% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779206345/zerch/https:/meli.la/2uYuim8/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BExa46%2F4RTuqFUn3Sx6IU19DDjgfnIAtdMm84hf5eiOErUJe8UgyEnhfL8wFCH5ykGmrrU2lTi179Z5K1m5vvhAwx%2FCTpg01VTA8AsGNdUx3IpyIN9bL%2BWiyOUyOOEOWw9CK6lf8HEGjzhPERL%2F0wifxWQVWSgpH5TPi1b6TbQxYGsBiNunlF4FqV31y2Iqg4nuzgjk%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-19T15:59:10.503Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC3314349828",
       "titulo": "Cafetera Automática Oster, Primalatte, Roja Bvstem6604r Rojo",
@@ -208,23 +225,6 @@
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-18T11:04:13.695Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1952303831",
-      "titulo": "Limpiador De Vapor A Presión De Alta Temperatura De 2500w Blanco",
-      "precio": 21363,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 4.3,
-      "reviews_count": 774,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779101656/zerch/MLC1952303831/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1952303831",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-18T10:54:20.652Z",
       "instagram_post_id": null
     },
     {
