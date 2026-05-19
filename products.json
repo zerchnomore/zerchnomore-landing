@@ -3,9 +3,26 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-19T19:23:04.897Z"
+    "last_updated": "2026-05-19T19:23:15.525Z"
   },
   "productos": [
+    {
+      "id": "MLC1494906071",
+      "titulo": "Parlante Jbl Charge 5 Jblcharge5 Portátil Con Bluetooth Waterproof Black",
+      "precio": 189990,
+      "precio_original": 189990,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 1539,
+      "vendidos": "+100",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218590/zerch/MLC1494906071/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1494906071",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-19T19:23:15.525Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC1423099729",
       "titulo": "Taladro Percutor 340w + Esmeril Angular Dewalt Dck248p1-b2 + Batería 5ah Amarillo",
