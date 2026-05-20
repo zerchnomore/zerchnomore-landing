@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T11:35:18.921Z"
+    "last_updated": "2026-05-20T15:28:17.098Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2FZBM2q",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "",
+      "precio": 529990,
+      "precio_original": 599990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290892/zerch/https:/meli.la/2FZBM2q/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLFEZ7dDvymsWKwzasR%2FQIIew5qyRshaDYuoiNTf4KwDbN4gfWAacjoMlw3hkjnZQSimcJugCSUY13B%2BcrphDiksQWwtiXvLQDUVuNIFDvvWQXY%2Btk6z3l8Ko2Dba1dAQStjNPC8ZSy6FEpjUGlo%2BsOycBTHdCDB%2BcKPrXJ4X%2B%2Bh0gfCWZpSXtVtbm6izVp7yA2GVys%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-20T15:28:17.097Z",
+      "instagram_post_id": null
+    },
     {
       "id": "FAL143351592",
       "source": "falabella",
@@ -161,23 +181,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-19T21:29:06.688Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1023135805",
-      "titulo": "Audífonos Inalámbricos Con Noise Cancelling Wh-1000xm5 Color Plata Plateado",
-      "precio": 399990,
-      "precio_original": 399990,
-      "descuento": "32% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 480,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218559/zerch/MLC1023135805/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1023135805",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-19T19:41:02.084Z",
       "instagram_post_id": null
     },
     {
