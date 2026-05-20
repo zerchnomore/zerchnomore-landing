@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T15:28:17.098Z"
+    "last_updated": "2026-05-20T15:28:56.704Z"
   },
   "productos": [
+    {
+      "id": "MLC40284977",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Mercado Libre",
+      "precio": null,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290931/zerch/MLC40284977/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-40284977",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-20T15:28:56.704Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2FZBM2q",
       "source": "mercadolibre",
@@ -164,23 +184,6 @@
       "categoria_id": "jardin",
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-20T03:33:34.646Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC2847998132",
-      "titulo": "Liderazgo Sin Limites - Heifetz, Ronald",
-      "precio": 24740,
-      "precio_original": 27489,
-      "descuento": "10% OFF",
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 10,
-      "vendidos": "+50",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779226103/zerch/MLC2847998132/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-2847998132",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-19T21:29:06.688Z",
       "instagram_post_id": null
     },
     {
