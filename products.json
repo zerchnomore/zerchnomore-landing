@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T15:30:06.305Z"
+    "last_updated": "2026-05-20T20:43:02.753Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2FZBM2q",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "",
+      "precio": 529990,
+      "precio_original": 599990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290892/zerch/https:/meli.la/2FZBM2q/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2FZBM2q",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-20T20:43:02.752Z",
+      "instagram_post_id": null
+    },
     {
       "id": "FAL136023224",
       "source": "falabella",
@@ -44,26 +64,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T15:28:56.704Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2FZBM2q",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "",
-      "precio": 529990,
-      "precio_original": 599990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290892/zerch/https:/meli.la/2FZBM2q/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLFEZ7dDvymsWKwzasR%2FQIIew5qyRshaDYuoiNTf4KwDbN4gfWAacjoMlw3hkjnZQSimcJugCSUY13B%2BcrphDiksQWwtiXvLQDUVuNIFDvvWQXY%2Btk6z3l8Ko2Dba1dAQStjNPC8ZSy6FEpjUGlo%2BsOycBTHdCDB%2BcKPrXJ4X%2B%2Bh0gfCWZpSXtVtbm6izVp7yA2GVys%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T15:28:17.097Z",
       "instagram_post_id": null
     },
     {
