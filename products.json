@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T11:34:17.643Z"
+    "last_updated": "2026-05-20T11:34:37.822Z"
   },
   "productos": [
+    {
+      "id": "MLC1684260782",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Jackery Explorer 1000 Estación De Energía Portátil Negro",
+      "precio": null,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779276869/zerch/MLC1684260782/carrusel/slide_02_hero.png",
+      "link": "https://articulo.mercadolibre.cl/MLC-1684260782",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-20T11:34:37.822Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC37180963",
       "source": "mercadolibre",
@@ -206,23 +226,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-19T17:48:30.427Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3144412280",
-      "titulo": "Limpiador De Piscinas Robótico Aiper Scuba Se - Automático Gris",
-      "precio": 249990,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 4.2,
-      "reviews_count": 75,
-      "vendidos": "4",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779212421/zerch/MLC3144412280/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-3144412280",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-19T17:40:26.904Z",
       "instagram_post_id": null
     },
     {
