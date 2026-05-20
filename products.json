@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T15:28:56.704Z"
+    "last_updated": "2026-05-20T15:30:06.305Z"
   },
   "productos": [
+    {
+      "id": "FAL136023224",
+      "source": "falabella",
+      "source_label": "Falabella",
+      "source_emoji": "🛍",
+      "titulo": "GoPro HERO 13 Acción De Cámara - Negro",
+      "precio": null,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": null,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779291001/zerch/FAL136023224/carrusel/slide_02_hero.png",
+      "link": "https://www.falabella.com/falabella-cl/product/136023224/GoPro-HERO-13-Accion-De-Camara-Negro/136023225",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-20T15:30:06.304Z",
+      "instagram_post_id": null
+    },
     {
       "id": "MLC40284977",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T11:32:35.872Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "FAL146641661",
-      "source": "falabella",
-      "source_label": "Falabella",
-      "source_emoji": "🛍",
-      "titulo": "Smartwatch fenix 8 - 47mm Carbon Gray",
-      "precio": 1449990,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": null,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779249463/zerch/FAL146641661/carrusel/slide_02_hero.png",
-      "link": "https://creators.falabella.com/-1OMi",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T03:58:22.385Z",
       "instagram_post_id": null
     },
     {
