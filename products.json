@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:48:12.610Z"
+    "last_updated": "2026-05-21T14:51:00.744Z"
   },
   "productos": [
+    {
+      "id": "melila1jn5hMY",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Termómetro Arteria Temporal Bebé Y Adultos Exergen Blanco",
+      "precio": 39990,
+      "precio_original": 49988,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375055/zerch/melila1jn5hMY/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMnJm5m9iInBnBvuWQKXmLn20aphRVdaYgnPkLZauIaMDqp2MJap4OOgvk61DgZLXYTmYoyM2Omc2FDtLxmZM5opEU9b0yjJH7f7izgjczSf41kQcaJ0GbiABAco6mxOLl7SvwFiIkp1YKCU8famHh1npsCGFwS7x27Ajr7B2ncsGxW8eId8JHoY%2FnPF32rXBhrW7BNq2KLnMusgDpQuZpUggICy2ATSpIQSmdP11pSzpwHE",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:51:00.744Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2zPoLTk",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T04:06:44.723Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2FZBM2q",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "",
-      "precio": 529990,
-      "precio_original": 599990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290892/zerch/https:/meli.la/2FZBM2q/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2FZBM2q",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T20:45:59.109Z",
       "instagram_post_id": null
     },
     {
