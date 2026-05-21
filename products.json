@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:31:37.685Z"
+    "last_updated": "2026-05-21T14:38:08.061Z"
   },
   "productos": [
+    {
+      "id": "melila2CqqFVj",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Televisor Smart 55 Qled Q7fa 4k Vision Ai Samsung",
+      "precio": 369990,
+      "precio_original": 629990,
+      "descuento": "41% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779374283/zerch/melila2CqqFVj/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNFmfULmdrYQiyBUxnF79T6SzPmNxsWvrKu1Ruf1Rlu7Ic6oyeXXNA81UUS%2F0ywfgkNLIjDOmvaLuuXnpGRyGUq6TmDdI2wEamv1LnIvJuEZ8a5Rr0T0fm4vgDfrg8WrrA9CaBRJ85BpQIPtsjEPAVWBstMgC%2BxT7e7hMjJt4q4Y7UzVeMezeCC9vHNnS0GvG2eCfZg%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:38:08.060Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2oKrRz7",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T15:30:06.304Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC40284977",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Mercado Libre",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779290931/zerch/MLC40284977/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-40284977",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T15:28:56.704Z",
       "instagram_post_id": null
     },
     {
