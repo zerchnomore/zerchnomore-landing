@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:55:19.387Z"
+    "last_updated": "2026-05-21T14:56:56.096Z"
   },
   "productos": [
+    {
+      "id": "melila2UU72JU",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Impresora Foto Portable Xiaomi Photo Printer 1s Modelo 2025 Blanco",
+      "precio": 50690,
+      "precio_original": 69990,
+      "descuento": "27% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375411/zerch/melila2UU72JU/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLzSu4zuOkWBQq86w%2FXKkIQGtFkT%2BHZJtKAxtsvvoGiZXBPrvTiyhcKceGOgAGBFzA2EWrxCg68DS7sEaSkrtKVunbthMGpHAqlgwTHj%2FSodYNBrhnfs16TwqV3EXZYwHEMpkjBWqe6VHaIv4WsCFJHxIJeFEeFzuQppJgw7P%2BrPbePxuoeTSCAUMPT%2Bs48TQfTuyjw%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:56:56.096Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila33KFgBg",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T14:31:37.685Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1A9UTxG",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
-      "precio": 29990,
-      "precio_original": 59990,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779361854/zerch/melila1A9UTxG/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJd4o9UbeLpjfbvd6aKP%2FkTjdrg7aiVwVw8eqzgbnuxH1voG07xusG2DtPSv%2FewL8ZClxZiRQ8TBph6xQ7JTSx4i0e1A5tUbQ1KlK6w5cubNwlRDOGRKrnwUUQqp2rj79ny9UtxEIUOVOjbDGuzVlQGFArKy9SOKUGuzLPryr2FHxmTKo7v6A7gsAdY8CKfz5GK1zD4%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T11:10:58.803Z",
       "instagram_post_id": null
     },
     {
