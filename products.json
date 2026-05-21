@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:03:49.044Z"
+    "last_updated": "2026-05-21T15:04:14.065Z"
   },
   "productos": [
+    {
+      "id": "melila2pfYrTc",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Nintendo Switch 2 System Negro",
+      "precio": 544574,
+      "precio_original": 629990,
+      "descuento": "13% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375849/zerch/melila2pfYrTc/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BE%2Fdk6UmZOvkfP5iQFcqnENE8Kn0lyPo0TmC%2FsZ3xnbTPGb8WNWzzXwcKA%2BGAgN%2FFDOGys0iUXiJhYZyPIuy5LzRAg4OCIsknegVqjzkdUHpkof8yWAWQXzeGbddpjQF9R9EQlCsWFxC%2F%2FmiyHG0axCRkhhkx5RtQMDVr1X1vRPgGzaFySpwcr7i7yG8tOa5XYKDiaM%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:04:14.064Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2PmJcDM",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T14:58:21.608Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2DmJQqA",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Navaja Outrider Rojo Victorinox Rojo",
-      "precio": 79900,
-      "precio_original": 55900,
-      "descuento": "10% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375467/zerch/melila2DmJQqA/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEmmD8SEbv2Dk3PhUB0wxEajfO2e%2B4dqnpQfJd0eG8OynXxgatA02IaQETdXIQDn2%2BWu3NRtSvtTScagJunfNwpafZGbf2Omq%2BKkSSebheot4LgGpzPtRquR38yHChnM%2B331I4HQ0s3rF5BY73CmXYM4uF4ySeZoj8KF2yC8B%2FfImdMBcNafwkEr4KE6oiGghOjW5SDX7WPyJqUT",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:57:52.176Z",
       "instagram_post_id": null
     },
     {
