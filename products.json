@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:52:17.203Z"
+    "last_updated": "2026-05-21T14:53:19.026Z"
   },
   "productos": [
+    {
+      "id": "melila1SMsNGW",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Estufa Parafina Mecha Fensa F 1120+ Grafito",
+      "precio": 119990,
+      "precio_original": 169990,
+      "descuento": "29% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375195/zerch/melila1SMsNGW/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO4porFD9zWKt1%2FupO52f949jHv9wspN5YEgotX7Gsdv%2BMsWhfdwrEbOemoYGb%2F6%2FNqZkAJRtozrajRQXkslqf6tzr4%2BD5ZaEa6QJ5yHNRo3KPAcRryI3WBmoJqjrODUZ7NpKIdWaSNiPJL9SytilsJVOLZ17kcKoM47K%2FF46q%2Bo7W26MT%2F8ObiGDO%2Bsgi8J7FM8ZCS72CNTSpVBqX9bvakEVUcYRuF2QucgsD%2FcY7JGUg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:53:19.026Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1Gix7Fs",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T04:10:39.234Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2eNbPjG",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "",
-      "precio": 55000,
-      "precio_original": 12625,
-      "descuento": "46% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779336401/zerch/https:/meli.la/2eNbPjG/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2fwubuH",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T04:06:44.723Z",
       "instagram_post_id": null
     },
     {
