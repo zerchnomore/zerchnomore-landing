@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:19:08.199Z"
+    "last_updated": "2026-05-21T15:21:53.773Z"
   },
   "productos": [
+    {
+      "id": "melila2zXqoZS",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Lamina Espejada Film Privacidad Vidrio Ventana 50 Cm * 10 M",
+      "precio": 6295,
+      "precio_original": 19890,
+      "descuento": "68% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779376910/zerch/melila2zXqoZS/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCszcC06raS9bFbiXdlJvJbxl%2BCI%2FAAD6IsuighwFB4EbVJm6DCdyGrGiF74bUc1u9isxJt6ZViPFCXGPAgY8G891pHq5AZ1E6tO%2FYgG%2FTak2uHrgJy0UVPKGWqX0qrfV5KxhSvN1vqYYULt81sPXNkL9mq3CfqS4Tnir5rXNVYV6lbk6eAkh0qlxk2yXrWPqeD%2BhA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:21:53.772Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2AqhGEZ",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:00:17.575Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2UmTjyC",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Soldadora Indura Nanoweld 160 + Máscara Flame Grado 11 Color Verde",
-      "precio": 119990,
-      "precio_original": 199990,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375555/zerch/melila2UmTjyC/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHbAWvKAH11AbNGWNvgtGFgovIQYfrj1MieJun7025CGXOEQ6vj%2FMKzyyJpCSEMvSMsELqKK%2FLA1n%2FOMSRhf%2Fm%2BED9Y2m6gzTZMEwhGTJbX%2FqYcytLJl4FNCD3vDcj0uTsg8RfhrlHaux2hbdoUK77bFe5WKV1kRDaPZxL3dj93hv1AUmi3C%2B1%2BzyFLzDLo%2BMRn2jf0%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:59:19.819Z",
       "instagram_post_id": null
     },
     {
