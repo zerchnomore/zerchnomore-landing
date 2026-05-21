@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T11:10:58.803Z"
+    "last_updated": "2026-05-21T14:31:37.685Z"
   },
   "productos": [
+    {
+      "id": "melila2oKrRz7",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Rampas Para Motocicleta Aleación Acero Carga 350kg Plateado",
+      "precio": 39597,
+      "precio_original": 119990,
+      "descuento": "67% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779373893/zerch/melila2oKrRz7/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDeYnxP4L4R8Q%2F2Zy8%2FW%2FujLzH9wM5DCn%2BsbKgPB%2BQ9a7qTMoocnz5dxkJmEwb6rt%2FZwjJw3uinlOOrSOEFug4RYYBVZM9DHGRimbdQc6MIp8mDlsvqvPDzgjY9UhBgzb%2FuCLZxiVBxOxfhcbIItW6rtdqQj%2FzG3De6IYcIiXsivE1g18zuXOKMzTJc8x0FrQMbmGnUBdFZP8yLZasWQt2sq8n6zOyy4oDdUYVT8S%2FQGF6Z%2B",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:31:37.685Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1A9UTxG",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T15:28:56.704Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "FAL143351592",
-      "source": "falabella",
-      "source_label": "Falabella",
-      "source_emoji": "🛍",
-      "titulo": "Estación de Energía Portátil Jackery Explorer 1000 V2",
-      "precio": 739990,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": null,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779276914/zerch/FAL143351592/carrusel/slide_02_hero.png",
-      "link": "https://www.falabella.com/falabella-cl/product/143351592/Estacion-de-Energia-Portatil-Jackery-Explorer-1000-V2/143351593",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T11:35:18.921Z",
       "instagram_post_id": null
     },
     {
