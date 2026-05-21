@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:01:28.685Z"
+    "last_updated": "2026-05-21T15:02:46.726Z"
   },
   "productos": [
+    {
+      "id": "melila19o9YSE",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Reloj Pulsera Casio Mtp-v001d-1budf Con Correa De Acero Inoxidable Color Plateado - Fondo Negro",
+      "precio": 28135,
+      "precio_original": 51814,
+      "descuento": "63% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375762/zerch/melila19o9YSE/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDeNBWctHLvaQn9u3f32CAOZbwCqtoM2Rk7SQwTiovtg0IyebgVLJx1ATecxoAjPMedF0EtmWR3K8HyVHVZYQvkI7etutbCB7Nht80SfDSD5ZZZT9lQnMiAKxhtP2XhZU8fvnyPu97Cr%2BKwtAHwvTibFwTPj0udM5ZTpxuOGu8GIc1IITX382Bx3V%2FHZPBKP0lnlQv4%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:02:46.726Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1DBktGm",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T14:56:56.096Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila33KFgBg",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Micrófono De Solapa Inalámbrico Para iPhone Pc Y Android Negro",
-      "precio": 6991,
-      "precio_original": 15990,
-      "descuento": "56% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375313/zerch/melila33KFgBg/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC93mVQvw7pn8pLCrDCLOvn%2BnCoZcvJAAfspzEBEen8rcKwV56ARMsD7bbWSRyy3xargOHZl6LbM9DPLw4fWdHEEYxnEyOUAQir2ujfkf1zjwPQIYuSZ%2BkcimrS%2B8Va%2BeVD52FxvDHttAf29a9H039vzcjLsRl5kMhtmFTjFerL0dtgMJsubuabuY3V6naeh%2FnzZee1cdT9iujEL%2FE%2BMI9JZ1M7OqxuYn9i3upxzL%2B9lFJVf",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:55:19.386Z",
       "instagram_post_id": null
     },
     {
