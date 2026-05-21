@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:54:22.322Z"
+    "last_updated": "2026-05-21T14:55:19.387Z"
   },
   "productos": [
+    {
+      "id": "melila33KFgBg",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Micrófono De Solapa Inalámbrico Para iPhone Pc Y Android Negro",
+      "precio": 6991,
+      "precio_original": 15990,
+      "descuento": "56% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375313/zerch/melila33KFgBg/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC93mVQvw7pn8pLCrDCLOvn%2BnCoZcvJAAfspzEBEen8rcKwV56ARMsD7bbWSRyy3xargOHZl6LbM9DPLw4fWdHEEYxnEyOUAQir2ujfkf1zjwPQIYuSZ%2BkcimrS%2B8Va%2BeVD52FxvDHttAf29a9H039vzcjLsRl5kMhtmFTjFerL0dtgMJsubuabuY3V6naeh%2FnzZee1cdT9iujEL%2FE%2BMI9JZ1M7OqxuYn9i3upxzL%2B9lFJVf",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:55:19.386Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2D7JHAc",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-21T04:59:01.413Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2wzLBsE",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "",
-      "precio": 299990,
-      "precio_original": 519990,
-      "descuento": "42% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779338754/zerch/melila2wzLBsE/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2wzLBsE",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T04:45:56.987Z",
       "instagram_post_id": null
     },
     {
