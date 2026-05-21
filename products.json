@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-20T20:45:59.109Z"
+    "last_updated": "2026-05-21T04:05:40.794Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2fwubuH",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "",
+      "precio": 212990,
+      "precio_original": 274990,
+      "descuento": "22% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779336337/zerch/https:/meli.la/2fwubuH/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2fwubuH",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T04:05:40.793Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2FZBM2q",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T11:32:49.487Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC31089542",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Mercado Libre",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779276751/zerch/MLC31089542/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/p/MLC31089542",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T11:32:35.872Z",
       "instagram_post_id": null
     },
     {
