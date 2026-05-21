@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:56:56.096Z"
+    "last_updated": "2026-05-21T14:57:52.177Z"
   },
   "productos": [
+    {
+      "id": "melila2DmJQqA",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Navaja Outrider Rojo Victorinox Rojo",
+      "precio": 79900,
+      "precio_original": 55900,
+      "descuento": "10% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375467/zerch/melila2DmJQqA/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEmmD8SEbv2Dk3PhUB0wxEajfO2e%2B4dqnpQfJd0eG8OynXxgatA02IaQETdXIQDn2%2BWu3NRtSvtTScagJunfNwpafZGbf2Omq%2BKkSSebheot4LgGpzPtRquR38yHChnM%2B331I4HQ0s3rF5BY73CmXYM4uF4ySeZoj8KF2yC8B%2FfImdMBcNafwkEr4KE6oiGghOjW5SDX7WPyJqUT",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:57:52.176Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2UU72JU",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T14:38:08.060Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2oKrRz7",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Rampas Para Motocicleta Aleación Acero Carga 350kg Plateado",
-      "precio": 39597,
-      "precio_original": 119990,
-      "descuento": "67% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779373893/zerch/melila2oKrRz7/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDeYnxP4L4R8Q%2F2Zy8%2FW%2FujLzH9wM5DCn%2BsbKgPB%2BQ9a7qTMoocnz5dxkJmEwb6rt%2FZwjJw3uinlOOrSOEFug4RYYBVZM9DHGRimbdQc6MIp8mDlsvqvPDzgjY9UhBgzb%2FuCLZxiVBxOxfhcbIItW6rtdqQj%2FzG3De6IYcIiXsivE1g18zuXOKMzTJc8x0FrQMbmGnUBdFZP8yLZasWQt2sq8n6zOyy4oDdUYVT8S%2FQGF6Z%2B",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:31:37.685Z",
       "instagram_post_id": null
     },
     {
