@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T04:45:56.988Z"
+    "last_updated": "2026-05-21T04:59:01.413Z"
   },
   "productos": [
+    {
+      "id": "MLC3176680276",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Watch8 Galaxy Classic Bluetooth V5.3 Samsung Negro Hybrid Negro Plateado",
+      "precio": null,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779339537/zerch/MLC3176680276/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2wzLBsE",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-21T04:59:01.413Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2wzLBsE",
       "source": "mercadolibre",
