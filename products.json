@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:21:53.773Z"
+    "last_updated": "2026-05-21T15:25:44.977Z"
   },
   "productos": [
+    {
+      "id": "melila23BqnXB",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Corta Viento Hombre Impermeable Engomada Termica",
+      "precio": 19980,
+      "precio_original": 17590,
+      "descuento": "6% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779377140/zerch/melila23BqnXB/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFBbiDTFcXdJGRz%2BVZFpv9%2BoS6RVVLYP8%2FCLeS%2FwDIq00v5nW8zWXXbuFdnkvffbPp%2BO7RRTv20fzRMd5GI6%2FUvEXOSFrTo3r2v8bttsiLa4zhkyeaiLVCycI0E%2BGFd94FDAbZNQtZZm5E2DujgBe4ApJOTT5hMxYEki%2BpePFZbj7PhvlXjFNY7TWG8EyBXzORK7Zw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:25:44.977Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2zXqoZS",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:01:06.948Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1xpoGKN",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sandisk Ultra Memoria Micro Sd De 128gb 100mbps",
-      "precio": 24990,
-      "precio_original": 39990,
-      "descuento": "37% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375611/zerch/melila1xpoGKN/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEtKriXflCvNKdPiFzPLMDPAqiiW%2FUqvV%2FdZ9EJOYBGStI%2BVSTN1vkOh4m8JaktugWgihMkzke8Ip5dOkKd3mMQiS6EHN6oMN8zFGzuBF1CrK3tVHApUhOA%2Bzm26beuhycH3DYQwFIlNPAkUGINDkhq2U2%2FEWVCETIhIZ5V8GG5Zmzsnw%2F10tgWg6fgBodXa7gdH4u8%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:00:17.575Z",
       "instagram_post_id": null
     },
     {
