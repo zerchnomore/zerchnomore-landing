@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:51:00.744Z"
+    "last_updated": "2026-05-21T14:52:17.203Z"
   },
   "productos": [
+    {
+      "id": "melila1Gix7Fs",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Carrito Camping Plegable Multiuso 100kg Ruedas 360° Negro",
+      "precio": 18999,
+      "precio_original": 36980,
+      "descuento": "48% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375132/zerch/melila1Gix7Fs/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNoA115reDn3CrTt6nkqB1xlxuUQBa51H6eVVtnQ2RUE1xqpxoYV3xpcIyQFqW59sV6gheC%2FIH%2FDfcepK7m5z5h12%2BdDKtkGbjpU4faBDbcYGsy8iJI4HDMqltqeFSsoVIzCYSYx2aSPBkXcs8%2B1mXsCyCFMRWF%2BvfaBttj3LjO5aADN41nVFA5emPErHQt4hEu%2F5Fk2BtK1sfcPXkv6KxsUeVgbMsosI9yWGw%3D%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-05-21T14:52:17.202Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1jn5hMY",
       "source": "mercadolibre",
