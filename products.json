@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:58:21.609Z"
+    "last_updated": "2026-05-21T14:59:19.820Z"
   },
   "productos": [
+    {
+      "id": "melila2UmTjyC",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Soldadora Indura Nanoweld 160 + Máscara Flame Grado 11 Color Verde",
+      "precio": 119990,
+      "precio_original": 199990,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375555/zerch/melila2UmTjyC/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHbAWvKAH11AbNGWNvgtGFgovIQYfrj1MieJun7025CGXOEQ6vj%2FMKzyyJpCSEMvSMsELqKK%2FLA1n%2FOMSRhf%2Fm%2BED9Y2m6gzTZMEwhGTJbX%2FqYcytLJl4FNCD3vDcj0uTsg8RfhrlHaux2hbdoUK77bFe5WKV1kRDaPZxL3dj93hv1AUmi3C%2B1%2BzyFLzDLo%2BMRn2jf0%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:59:19.819Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2jtHmNE",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-21T14:48:12.610Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2rQb6Zf",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Afeitadora Kemei Km-2028 Inalámbrica Recargable Resistente Al Agua 0",
-      "precio": 26990,
-      "precio_original": 31940,
-      "descuento": "18% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779374766/zerch/melila2rQb6Zf/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BF9A50blF23phYpGnA2yq8Yvz59xs5K0tJT6c1CCiad4Vy3Y23awE6rdzAB%2B6PBBuHkxZl67xZ3wrGd9uWg77f%2Fxrqc1ndzzYpqKaFXpKFpimwymzVLe1pcet3stUxuWjg1%2FflbHFxoAJuPwKgSJ9znZaFdWXpa%2FYpIe5dGMbzDgN1ZuPUdOYx5lFN5V2izxuH9mXxc%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:46:11.442Z",
       "instagram_post_id": null
     },
     {
