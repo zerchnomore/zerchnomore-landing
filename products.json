@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T11:03:33.097Z"
+    "last_updated": "2026-05-21T11:10:58.803Z"
   },
   "productos": [
+    {
+      "id": "melila1A9UTxG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
+      "precio": 29990,
+      "precio_original": 59990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779361854/zerch/melila1A9UTxG/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJd4o9UbeLpjfbvd6aKP%2FkTjdrg7aiVwVw8eqzgbnuxH1voG07xusG2DtPSv%2FewL8ZClxZiRQ8TBph6xQ7JTSx4i0e1A5tUbQ1KlK6w5cubNwlRDOGRKrnwUUQqp2rj79ny9UtxEIUOVOjbDGuzVlQGFArKy9SOKUGuzLPryr2FHxmTKo7v6A7gsAdY8CKfz5GK1zD4%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T11:10:58.803Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila34dWm96",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T11:35:18.921Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1684260782",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Jackery Explorer 1000 Estación De Energía Portátil Negro",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779276869/zerch/MLC1684260782/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1684260782",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T11:34:37.822Z",
       "instagram_post_id": null
     },
     {
