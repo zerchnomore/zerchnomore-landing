@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:53:19.026Z"
+    "last_updated": "2026-05-21T14:54:22.322Z"
   },
   "productos": [
+    {
+      "id": "melila2D7JHAc",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Zapatillas Hombre Brooklyn Ls Negro/blanco Vans Negro Lisa 425 Cl",
+      "precio": 23990,
+      "precio_original": 39990,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375258/zerch/melila2D7JHAc/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BERAjsHaaRg4h2AyA2fIDPJDDiEBh9fj5nMiwcSdDFZoFTBv6zLjILN8WqvKxnlMYMs%2B77V4fFwnwbLKJXIyur4k9eqsaX3lsRSGaVU8plpcyjoO3O2aeDTb2NTM%2FAMr7Aa9mSopRXHvXpRrxee%2B%2FDQYcIbyz7kFX%2BlYZn3O80MkHER0SMdZKcAp9KPAocafGGqd8BCkFFgOpniyxVvfpPoEY3NPPf7%2FQYdmM2Lxw5bBV1PF",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:54:22.322Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1SMsNGW",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T04:45:56.987Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://meli.la/2fwubuH",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "",
-      "precio": 212990,
-      "precio_original": 274990,
-      "descuento": "22% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779336635/zerch/meli_la_2fwubuH/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2fwubuH",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T04:10:39.234Z",
       "instagram_post_id": null
     },
     {
