@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:14:57.155Z"
+    "last_updated": "2026-05-21T15:19:08.199Z"
   },
   "productos": [
+    {
+      "id": "melila2AqhGEZ",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Rastreador Samsung Smarttag 2 Blanco",
+      "precio": 13490,
+      "precio_original": 29990,
+      "descuento": "55% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779376744/zerch/melila2AqhGEZ/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFbbLthGscBoyNnmTAK1w5CwBkTXNh6nJBsIsbKcf5lSQ0fnUlGYchQLopQ8dY9fcvw9J9K%2Fa2leFRC3fxtCSB69u5JLFh4kjZEUfImnicD8MtTcE%2B9t5rr%2FE5Cao7lTSUI%2B7LXR4zjoxOAxbKmfwC7Ih4XAHuIApNexTzATrtJWali0sIjMhnK%2F9i7Qqg6X9jvnvbA%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:19:08.198Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila28i7Vi3",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T14:59:19.819Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2jtHmNE",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cama Catre Clínico Eléctrica 10 Posiciones Pro Con Colchón Inodoro Bandeja Livelia 260kg A601 Acero Inoxidable Mando Con Audio Motor Silencio Blanco",
-      "precio": 592909,
-      "precio_original": 999988,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375496/zerch/melila2jtHmNE/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BIHg9M%2F%2F0xye6zehj7LmxRuhMhAr53dfLFToYZ75UOIyksfTEgAgIgyrOVSbBSbVcXLROnsIfsOUMug25PnpDwx2YbA3m4Y8RmTnkVRD80KXzsJm4WPQ4JUNYkevfsZi%2FGVJ6eH6IE7BB2JdYBHHycsSIrNH5UGtOCl2oxFMbpV%2FdI5U0Jb%2BBFXzNshbWjMr0mtxSD0%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T14:58:21.608Z",
       "instagram_post_id": null
     },
     {
