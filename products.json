@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:25:44.977Z"
+    "last_updated": "2026-05-21T15:33:29.610Z"
   },
   "productos": [
+    {
+      "id": "melila1MC5rqY",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Aspiradora De Cenizas Bosca Color Negro",
+      "precio": 53990,
+      "precio_original": 89850,
+      "descuento": "39% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779377605/zerch/melila1MC5rqY/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOmA09TSNO2jyFf2fjaTb5gjY4gNNwkFzE60%2ByQhqeB8SXCoczVcI7zAr9SqendWQjfsMJlXuMr3gES2PrVxfmHEM9wKxRP6Fc0n0cOEwS4u9kP8fAaa7YtUr%2Bvg6muTzV5NedXrYhNPKyczUYAZHQvuO7adRQE8TJDIUG6O3XHVDvcvZZijsyr0OvB9FhYckfpbrVI%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T15:33:29.610Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila23BqnXB",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:01:28.685Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila26qBq8N",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Display 50 Sobres Láminas Mundial De Futbol Fifa 2026",
-      "precio": 55000,
-      "precio_original": 12648,
-      "descuento": "46% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375662/zerch/melila26qBq8N/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHeopB%2F2Urjm%2F9Kiw37BMj9mz6NkRuSQwOUv%2B1WGMqdROs%2F9r7mRKrmAr8TRFQcEhH%2FkkNtGJi6P47YGjnD4AqcYhbq3trQ93FAE7o%2FnYMHe1nOA%2BnbfyCZjDyYenJcVw0joBhRCVXk9Bpr7yCUnn4gR5FT0F7baUkiU81wcVHA2WeDVjpqOyNzPcqxRUAaKtRBalnU%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:01:06.948Z",
       "instagram_post_id": null
     },
     {
