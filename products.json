@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:46:11.442Z"
+    "last_updated": "2026-05-21T14:48:12.610Z"
   },
   "productos": [
+    {
+      "id": "melila2zPoLTk",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "25000lm Linterna Táctica Alta Potencia Con Pantalla Digital Blanco Negro",
+      "precio": 31808,
+      "precio_original": 40990,
+      "descuento": "22% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779374885/zerch/melila2zPoLTk/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC%2B1yeBmJVJtYVQ9ynPkkxx1qxpgULl19I5JXGNuOM3WxJcndGffzuTzvBlksUq5suy6sXKQ%2FD7%2FwWfIzYta2%2Bt%2FPoWT1xLGWrkyt9UfcxxdVQ6bJs5nG%2Fow7KkFiPodDbzW0VkOMh8dPWgdChCZ5XtDt%2FIPD0yfh0BdiEo4S3HgfJwl8Oac7oAXrP9C%2FLq31vm%2BygtKSCCJyxKewA%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-21T14:48:12.610Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2rQb6Zf",
       "source": "mercadolibre",
