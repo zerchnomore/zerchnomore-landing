@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T04:05:40.794Z"
+    "last_updated": "2026-05-21T04:06:44.723Z"
   },
   "productos": [
+    {
+      "id": "https://meli.la/2eNbPjG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "",
+      "precio": 55000,
+      "precio_original": 12625,
+      "descuento": "46% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779336401/zerch/https:/meli.la/2eNbPjG/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2fwubuH",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T04:06:44.723Z",
+      "instagram_post_id": null
+    },
     {
       "id": "https://meli.la/2fwubuH",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T11:34:17.642Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "https://listado.mercadolibre.cl/ecoflow-estacion-energia-portatil",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Ecoflow Estacion Energia Portatil | MercadoLibre 📦",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779276764/zerch/https:/listado.mercadolibre.cl/ecoflow-estacion-energia-portatil/carrusel/slide_02_hero.png",
-      "link": "https://listado.mercadolibre.cl/ecoflow-estacion-energia-portatil",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T11:32:49.487Z",
       "instagram_post_id": null
     },
     {
