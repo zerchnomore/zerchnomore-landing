@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T14:38:08.061Z"
+    "last_updated": "2026-05-21T14:46:11.442Z"
   },
   "productos": [
+    {
+      "id": "melila2rQb6Zf",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Afeitadora Kemei Km-2028 Inalámbrica Recargable Resistente Al Agua 0",
+      "precio": 26990,
+      "precio_original": 31940,
+      "descuento": "18% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779374766/zerch/melila2rQb6Zf/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BF9A50blF23phYpGnA2yq8Yvz59xs5K0tJT6c1CCiad4Vy3Y23awE6rdzAB%2B6PBBuHkxZl67xZ3wrGd9uWg77f%2Fxrqc1ndzzYpqKaFXpKFpimwymzVLe1pcet3stUxuWjg1%2FflbHFxoAJuPwKgSJ9znZaFdWXpa%2FYpIe5dGMbzDgN1ZuPUdOYx5lFN5V2izxuH9mXxc%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-21T14:46:11.442Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2CqqFVj",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-20T20:45:59.109Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "FAL136023224",
-      "source": "falabella",
-      "source_label": "Falabella",
-      "source_emoji": "🛍",
-      "titulo": "GoPro HERO 13 Acción De Cámara - Negro",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": null,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779291001/zerch/FAL136023224/carrusel/slide_02_hero.png",
-      "link": "https://www.falabella.com/falabella-cl/product/136023224/GoPro-HERO-13-Accion-De-Camara-Negro/136023225",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-20T15:30:06.304Z",
       "instagram_post_id": null
     },
     {
