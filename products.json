@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:16:03.081Z"
+    "last_updated": "2026-05-22T19:16:27.636Z"
   },
   "productos": [
+    {
+      "id": "melila16AShkM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Termo Botella Agua Termica Acero Inoxidable 700 Ml Buffer + Tapas Citrus Green",
+      "precio": 9980,
+      "precio_original": 16990,
+      "descuento": "41% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477383/zerch/melila16AShkM/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJjqW%2BuDLGxcscULYo3u6hH0d3lV9kXMAWUY6jvybGwqrKShiTRrsR3qzEP0kQ%2BFEyJzmJddD3K%2Bl5kHp1mXRQn21PjM5JWpZfQnNoTmJV8fqq23TrJadWjATblWWiDeBLU9G2w0btNxlwsKjrthkKmKMqUn5KTgT6A7xZW2mdTY%2BofqERQ9vY3%2FAsEzXGcI6YTjSCGeBX4jHmBUa%2FEE0d8MBrjWS8UpYabwjQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-22T19:16:27.635Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1ZrM4eJ",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:04:14.064Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2PmJcDM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Libreta Geologica Rite In The Rain 540f",
-      "precio": 36600,
-      "precio_original": 20053,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375825/zerch/melila2PmJcDM/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO0zWwOJL1EQWcmxUwYLcM8Xxt6aV0X08DoD%2BHwuneYt8k8EzhhffGfpjppbTyZiYWJN%2FpAxU8HDZkl3FeHd3PCJ8ltNjuaD49FSbV9LITYBLI14n0mq7%2FcXCVL5USVa7VEfyglExccWqqmrY96oDx%2FrG6MB0g3kZY%2F15yXrh35sajWlLcERFvA6sOXl0IWUGmC48D0%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:03:49.043Z",
       "instagram_post_id": null
     },
     {
