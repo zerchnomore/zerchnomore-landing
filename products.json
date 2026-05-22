@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:16:58.797Z"
+    "last_updated": "2026-05-22T19:20:08.831Z"
   },
   "productos": [
+    {
+      "id": "melila275dsYD",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Guirnalda Solar Maxwell 10m Luces Exterior Terraza Impermeab Amarillo Cálida",
+      "precio": 17990,
+      "precio_original": 10990,
+      "descuento": "55% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477603/zerch/melila275dsYD/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCF7rrN4heLRzNwDN0Ylocc8SqQ6R9KtcC4x3xvO6qP2QJETGd1kQXhwoUq3j2%2BKmYtdvR961Mkh2DR5RoMy%2Bu7pDqen43QGdv9lXvPI9G15YR44EQ6syBBXphHUEL0wrRJi7hqLdgprbHc3EpkYc0C9AGx0hmECoSmst7sSLn3qH2yhrMN2S4FO6NN59hosf8ePZAajm5wTzEWrnznv7f0QF1ae1P%2FERSrLmA%3D%3D",
+      "categoria_id": "jardin",
+      "categoria_label": "🌿 JARDÍN",
+      "fecha_publicacion": "2026-05-22T19:20:08.831Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila229yC1i",
       "source": "mercadolibre",
