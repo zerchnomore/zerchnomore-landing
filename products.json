@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:27:20.272Z"
+    "last_updated": "2026-05-22T20:13:20.373Z"
   },
   "productos": [
+    {
+      "id": "melila1vwJ6qP",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Audífonos Over-ear Hd B630 Wireless Anc Sennheiser Negro Negro",
+      "precio": 449990,
+      "precio_original": 604990,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779480795/zerch/melila1vwJ6qP/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOM8GUXqwFc%2F44cKjLiKLrS0KwZXU7kO1XZ8lY1NlPOGk4zvCpAU%2FJLOIQRSv2BuoSWzET3hAgvYEwiL3zDZ1%2FSbaD5oSOgwaNV1yNfpqvfpEkDkJCiThQMYOil5scvroVT2j2HHFzvgW9xJBnR3i%2B4MLMj1eBSxE1rMRtkc6B5CauH90us%2FJxp%2F5Rz2yZTKrhyoGcM3iCtW27XfvKyfvHnzlpwdffYlfuYR4i27nPWbkdl4",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-22T20:13:20.372Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2xmT4mK",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:21:53.772Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2AqhGEZ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Rastreador Samsung Smarttag 2 Blanco",
-      "precio": 13490,
-      "precio_original": 29990,
-      "descuento": "55% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779376744/zerch/melila2AqhGEZ/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFbbLthGscBoyNnmTAK1w5CwBkTXNh6nJBsIsbKcf5lSQ0fnUlGYchQLopQ8dY9fcvw9J9K%2Fa2leFRC3fxtCSB69u5JLFh4kjZEUfImnicD8MtTcE%2B9t5rr%2FE5Cao7lTSUI%2B7LXR4zjoxOAxbKmfwC7Ih4XAHuIApNexTzATrtJWali0sIjMhnK%2F9i7Qqg6X9jvnvbA%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:19:08.198Z",
       "instagram_post_id": null
     },
     {
