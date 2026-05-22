@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:16:27.636Z"
+    "last_updated": "2026-05-22T19:16:58.797Z"
   },
   "productos": [
+    {
+      "id": "melila229yC1i",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Guirnalda Luces Solar 7,6mt Exterior Ace +25 Ampolletas Amarillo",
+      "precio": 14796,
+      "precio_original": 36990,
+      "descuento": "60% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477413/zerch/melila229yC1i/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMAlrgZYYoxSnqyyUK5gzlx6V2Hvu3JkfRsJ5itzquWgcix5oFDxFk21LAjVVGDTqHVDGP8Fzarau476EMe5S4xjTCQBlA4yLjLQjqQjZf2qItafhho5o3lodhSg9KsPMddOjMfK0sBkKYZizsBFvGZ4yZXh%2F%2FIPNYGkeMwk0KtFHs208Rj4DywZ1QCIX5QabqkZitUhW%2BD5Q4JbcJPwpGjx0oh8RJ%2Foz7kr1DyCeZKjj63Y",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-22T19:16:58.796Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila16AShkM",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "outdoor",
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-21T15:05:25.305Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2pfYrTc",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Nintendo Switch 2 System Negro",
-      "precio": 544574,
-      "precio_original": 629990,
-      "descuento": "13% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375849/zerch/melila2pfYrTc/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BE%2Fdk6UmZOvkfP5iQFcqnENE8Kn0lyPo0TmC%2FsZ3xnbTPGb8WNWzzXwcKA%2BGAgN%2FFDOGys0iUXiJhYZyPIuy5LzRAg4OCIsknegVqjzkdUHpkof8yWAWQXzeGbddpjQF9R9EQlCsWFxC%2F%2FmiyHG0axCRkhhkx5RtQMDVr1X1vRPgGzaFySpwcr7i7yG8tOa5XYKDiaM%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:04:14.064Z",
       "instagram_post_id": null
     },
     {
