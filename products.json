@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-21T15:33:29.610Z"
+    "last_updated": "2026-05-22T19:08:31.068Z"
   },
   "productos": [
+    {
+      "id": "melila1pj2VJd",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Velador Blanco Moderno Con 2 Cajones Y 3 Niveles De 100 Cm Brillante Blanco/oak",
+      "precio": 32590,
+      "precio_original": 52990,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779476907/zerch/melila1pj2VJd/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFiuuMi71rhySyIBbu1wXrHuJMXihOzByR0JBYR%2BCLBCAh%2Bu8NGNap5TCMrlMeCqugmFoavn43eesdBCULcLz%2BfJLsrQbYymVDM4kFdfHgX3KRYuhF4OE2uL0IMIoN3XFBLazo4fxFOil4KvtiRZayuOFbJE35H8ZdxLltHwjYEwuj4GDrAId7uGk%2FQXAvfpPBrCmad4p%2BU%2FSNQvpoYU1xs0SKUdc12GFbFtog%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-22T19:08:31.067Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1MC5rqY",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:02:46.726Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1DBktGm",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Pantufla Térmica Softshoes Quintay Adulto Bosscamp",
-      "precio": 24990,
-      "precio_original": 29990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375684/zerch/melila1DBktGm/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGIHqm7Z7c1ZehJWBlN%2B9TzkaWfGhKG5RfUvOZtrOZjtmAGBqbFG%2FW8v4%2F6GSHzmkA3YBlKTPE6vNIldgz6zI8PQJWPMU7G%2FQDBaNq2cpVpqySCjEKrtBtvXXtgsOmyeOu3bygErkEPOvD4k4LCxjxPIm6zjhx7EhqpgLizJHKK7HJrhBdGcy85HzH%2Fqa1R3o2NPMQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:01:28.685Z",
       "instagram_post_id": null
     },
     {
