@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:08:31.068Z"
+    "last_updated": "2026-05-22T19:16:03.081Z"
   },
   "productos": [
+    {
+      "id": "melila1ZrM4eJ",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Freidora De Aire Air Fryer Chic Prime 5 L Con Visor Easyways Negro",
+      "precio": 49990,
+      "precio_original": 129990,
+      "descuento": "61% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477359/zerch/melila1ZrM4eJ/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNqj10wNC5Lb2cnDq4ieyotkhZuNCxqPa4h%2Bxtx8Mr7HvvcgoW%2BXlz%2FSbxTFCG340XDhC8d1Qoc%2F%2FLAraVPVC1hUyx5hylp46kk5Yep2T%2Ff0QLIjE89DSDZRuMUQyJfHMUylaMHZMPb720q%2FYcbAp3s4iuNHh6tnl98LvE%2FOjQtOYRedfJq3xyPGargwP3LsjsqrFbSIAVb%2B%2FlpKit%2F7llkkLQVhr5AYcIK8xg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-22T19:16:03.081Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1pj2VJd",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-21T15:03:49.043Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila19o9YSE",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Reloj Pulsera Casio Mtp-v001d-1budf Con Correa De Acero Inoxidable Color Plateado - Fondo Negro",
-      "precio": 28135,
-      "precio_original": 51814,
-      "descuento": "63% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375762/zerch/melila19o9YSE/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDeNBWctHLvaQn9u3f32CAOZbwCqtoM2Rk7SQwTiovtg0IyebgVLJx1ATecxoAjPMedF0EtmWR3K8HyVHVZYQvkI7etutbCB7Nht80SfDSD5ZZZT9lQnMiAKxhtP2XhZU8fvnyPu97Cr%2BKwtAHwvTibFwTPj0udM5ZTpxuOGu8GIc1IITX382Bx3V%2FHZPBKP0lnlQv4%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-21T15:02:46.726Z",
       "instagram_post_id": null
     },
     {
