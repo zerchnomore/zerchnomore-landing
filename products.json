@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-22T19:25:14.281Z"
+    "last_updated": "2026-05-22T19:27:20.272Z"
   },
   "productos": [
+    {
+      "id": "melila2xmT4mK",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sillas Playa Camping Niños Plegable Con Bolso Y Portavaso",
+      "precio": 9990,
+      "precio_original": 19890,
+      "descuento": "29% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779478036/zerch/melila2xmT4mK/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC%2B8ZOMgUPatb1an82vgzZTYpKRTTCGcXmcQ0VYrQNxQbwtARWH4DXeiLLjXknpFPhnSA1ff94c1fG1tV7xXF9BHv9NQXggHO%2F80YbhsS3p8Q7AMRop1SxcWzN6lkzYBxRM9b48rLX%2B5Y0%2BeM4brVKXx64ajatZ3ifq1X1uPDnINSzmHbGpoTS0WQsUOYXnliVW21A%3D%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-05-22T19:27:20.272Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila275dsYD",
       "source": "mercadolibre",
