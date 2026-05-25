@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T11:14:31.029Z"
+    "last_updated": "2026-05-25T11:14:40.721Z"
   },
   "productos": [
+    {
+      "id": "melila2uKfoVB",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Masajeador De Cuello Inalámbrico Howell V5 Cervical Espalda Color Negro",
+      "precio": 42990,
+      "precio_original": 49990,
+      "descuento": "14% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707676/zerch/melila2uKfoVB_1779707676/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCFOzNy9igSCvZHoDFV%2Fv8WbOfgZ6nh%2FRcAokiHlDO0%2Fd3H9nw9NziunF92ElyVm1uDnCgeQIZCbJBU6Y3LjtjRu3BW2Tono0sGDiTB5mLvnKiZmcJv4ncysB1OXHn4tGVgWLSppTA1y3Pz2AjVSkkqKkL310iGMPPBAHKVzZZM%2FtloT9Zf7awCERCQnMcnrDAC%2Bb6LRzGpTEWJfKEZrs1BtMmuRp4FH5lk3Rw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T11:14:40.721Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila27BSHid",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:59:06.599Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1DRnboR",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Alargador Halux 492226 6 Tomas Con 2 Puertos Usb E Interruptor On Off 3 M Color Negro",
-      "precio": 11990,
-      "precio_original": 29990,
-      "descuento": "60% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692334/zerch/melila1DRnboR_1779692333/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPn7B6ELtyl7r%2BCHoibRzAApgrVZuu2qiU9DUmIgBtLtnoo%2FHTBr8u8J0TEaZugzhj0dGaYD090rLxpqGwudnrfgRCE7Gkx9%2Bd53%2BVQpddFGaQw7p7SUNRbOultmUzC0YpY4BY2UQadHXtLWMrwqzBEmanoYwGZa8wbx7z%2B3DSnTYDoiUQd2i8KfMcmNkhz0zTkkmyOWSqUAbnxwGhU9sRHlWubmHrvlz%2FbNaw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:58:57.715Z",
       "instagram_post_id": null
     },
     {
