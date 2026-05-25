@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:14:31.058Z"
+    "last_updated": "2026-05-25T06:14:48.330Z"
   },
   "productos": [
+    {
+      "id": "melila2Vub3kw",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Manguera Jardín Reforzada 1/2 Pulgada 30 Mts Mas Accesorios Verde Oscuro",
+      "precio": 11950,
+      "precio_original": 14938,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689684/zerch/melila2Vub3kw/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPM%2B%2BtTobz1XlAa5jS2WsGY%2BPp%2BzUrh4zWUY7I23rxy2Drx154WnyvsLZwLQW3oN3KJc49kBHVZGW7wLyDxAcbGLhhLM0t3OsDCFqvlIOwWmW7nl1Q7DWDWRVxy85VbjoKPQba38%2F80GpRN6t6p%2B5wao1rELEjRA3J9VvVdVwsdeZwWJROS3avX61FwoG6VnozX2MW63QC%2Fvlc9ztmKEBFT6wSXAPqzkB5avYGpetxeUFw%3D%3D",
+      "categoria_id": "jardin",
+      "categoria_label": "🌿 JARDÍN",
+      "fecha_publicacion": "2026-05-25T06:14:48.330Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1pytSCE",
       "source": "mercadolibre",
