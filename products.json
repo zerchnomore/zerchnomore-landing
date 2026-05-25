@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:12:28.631Z"
+    "last_updated": "2026-05-25T06:14:31.058Z"
   },
   "productos": [
+    {
+      "id": "melila1pytSCE",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Mis listas de recomendados",
+      "precio": 130799,
+      "precio_original": 169990,
+      "descuento": "23% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689667/zerch/melila1pytSCE/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron/lists",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:14:31.058Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila29PpMtv",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:02:48.605Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1vwJ6qP",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Audífonos Over-ear Hd B630 Wireless Anc Sennheiser Negro Negro",
-      "precio": 449990,
-      "precio_original": 604990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779480795/zerch/melila1vwJ6qP/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOM8GUXqwFc%2F44cKjLiKLrS0KwZXU7kO1XZ8lY1NlPOGk4zvCpAU%2FJLOIQRSv2BuoSWzET3hAgvYEwiL3zDZ1%2FSbaD5oSOgwaNV1yNfpqvfpEkDkJCiThQMYOil5scvroVT2j2HHFzvgW9xJBnR3i%2B4MLMj1eBSxE1rMRtkc6B5CauH90us%2FJxp%2F5Rz2yZTKrhyoGcM3iCtW27XfvKyfvHnzlpwdffYlfuYR4i27nPWbkdl4",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-22T20:13:20.372Z",
       "instagram_post_id": null
     },
     {
