@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T11:13:52.626Z"
+    "last_updated": "2026-05-25T11:14:01.783Z"
   },
   "productos": [
+    {
+      "id": "melila1faKJRG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Manta Aislante De Aluminio Para Camping O Picnic 2x2m",
+      "precio": 11390,
+      "precio_original": 11990,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707638/zerch/melila1faKJRG_1779707637/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL%2BFn3yOGW16ZnmhPUX885qZ424PUMSC1I3se%2FkhWiEEPN8a7Qm%2FL9daoKaA9b1qgeF9VEfEdPqN5UV8DoBoScpgXBdNe%2FbtUOrhS5W00vyMbOesxM9FT2S49HmAwZDjj5GDsFRwcy0SzJz4sb6bayPjO0QwIFWdJbSeLZq0jcIppEzGxL3DKJxGRHXX1XoONQzft%2BWPAf39wsQ1gFt1cZ3BXS4TQNoGUP7zY%2BUE%2FRTk0BOi",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-05-25T11:14:01.783Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2keqBTs",
       "source": "mercadolibre",
