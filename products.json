@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:03:59.365Z"
+    "last_updated": "2026-05-25T06:04:25.125Z"
   },
   "productos": [
+    {
+      "id": "melila2CLRHgz",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set Ingco Taladro Pe+ Pistola De Impacto + Esmeril +2bat",
+      "precio": 189990,
+      "precio_original": 329990,
+      "descuento": "42% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689058/zerch/melila2CLRHgz/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNH5hKwPLNUGri0MBuIx6BCqax6JvnIyMcs5olN67MXUVUUfVkAa7dFn748K4lZMfCUbaQs8pWUVTDFg22T0kb0E7SnuqTmBNxYjdk9xe2I18okVOADmsW9xhUeuduoRxEgTrb2J%2B8D8u2Li%2B99VDAAC6%2FNljbVCtxJCFG%2BTtOElUXgXHBqHxMD8%2FYiz5jv3TZkkLBx2wjADGH2OjJ%2Bcx8n9BI2G%2BbjMty7PXDGQOlZBYqEY",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-25T06:04:25.124Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1UhAcwu",
       "source": "mercadolibre",
