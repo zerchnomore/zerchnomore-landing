@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:04:48.806Z"
+    "last_updated": "2026-05-25T06:07:07.869Z"
   },
   "productos": [
+    {
+      "id": "melila1UhAcwu",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Botín Hombre Transverse Hike Wate Gris Columbia",
+      "precio": 84990,
+      "precio_original": 79990,
+      "descuento": "12% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689035/zerch/melila1UhAcwu/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPAGGMfNPJ%2F22GYODEPYzuaCu9XV6o6e8LIdQlvH0I6VOAaE5WMyhHVREcmICgGV48jAy1xd4hvkc5ncr4YsCnH%2F%2FMGw6e1d%2BVFtzwQOq1rM18Q7LQsgHLvWw6ERxv8zJ4IrfVDq4hPPEr7gfv19MWKDL3KVBgNkhaAN7Xu%2FI4dyWxYcu%2ByKwcz0x5AqAh%2B2gCYCIw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:07:07.869Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila16H5Yyz",
       "source": "mercadolibre",
@@ -44,26 +64,6 @@
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-25T06:04:25.124Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1UhAcwu",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Botín Hombre Transverse Hike Wate Gris Columbia",
-      "precio": 84990,
-      "precio_original": 79990,
-      "descuento": "12% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689035/zerch/melila1UhAcwu/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPAGGMfNPJ%2F22GYODEPYzuaCu9XV6o6e8LIdQlvH0I6VOAaE5WMyhHVREcmICgGV48jAy1xd4hvkc5ncr4YsCnH%2F%2FMGw6e1d%2BVFtzwQOq1rM18Q7LQsgHLvWw6ERxv8zJ4IrfVDq4hPPEr7gfv19MWKDL3KVBgNkhaAN7Xu%2FI4dyWxYcu%2ByKwcz0x5AqAh%2B2gCYCIw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:03:59.365Z",
       "instagram_post_id": null
     },
     {
