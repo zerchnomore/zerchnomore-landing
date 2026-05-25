@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:59:15.511Z"
+    "last_updated": "2026-05-25T07:08:48.226Z"
   },
   "productos": [
+    {
+      "id": "melila1uWGr6q",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Turbo Calefactor Electrico 2 Kw Te2 Krafter Color Negro",
+      "precio": 35990,
+      "precio_original": 63058,
+      "descuento": "42% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692924/zerch/melila1uWGr6q_1779692923/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL6WJIfq%2BiDMGxECnH53Z%2F9LHG9%2Bwz%2F7gSSUvzDXlGl4WZ3eq6qL3T%2FFiASDyltVC7e8xEJcSEgqAYBR1oVr5aLUuY7euxQfwqfXwSrkNSMJIyN15V0%2Bh37IuCIT%2F7MXd8iOCk1i9yZyaDs9N66IGtfEiaIfQ%2FDkS4iIfzaNbtCTbYqfEoDxvvo0fCSy3ozJ0TA6AbzIDQG0vko47wf4W%2Fud39t0OOMCF8sVaA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T07:08:48.225Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2jC5aEh",
       "source": "mercadolibre",
@@ -124,26 +144,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:58:30.161Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1uWGr6q",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Turbo Calefactor Electrico 2 Kw Te2 Krafter Color Negro",
-      "precio": 35990,
-      "precio_original": 63058,
-      "descuento": "42% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692297/zerch/melila1uWGr6q_1779692296/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL6WJIfq%2BiDMGxECnH53Z%2F9LHG9%2Bwz%2F7gSSUvzDXlGl4WZ3eq6qL3T%2FFiASDyltVC7e8xEJcSEgqAYBR1oVr5aLUuY7euxQfwqfXwSrkNSMJIyN15V0%2Bh37IuCIT%2F7MXd8iOCk1i9yZyaDs9N66IGtfEiaIfQ%2FDkS4iIfzaNbtCTbYqfEoDxvvo0fCSy3ozJ0TA6AbzIDQG0vko47wf4W%2Fud39t0OOMCF8sVaA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:58:20.507Z",
       "instagram_post_id": null
     },
     {
