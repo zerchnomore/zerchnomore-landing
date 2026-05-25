@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T07:12:32.930Z"
+    "last_updated": "2026-05-25T11:13:42.504Z"
   },
   "productos": [
+    {
+      "id": "melila2aDaKdF",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Taladro De Rotación 3/8 6413 450watts Makita Color Verde",
+      "precio": 39990,
+      "precio_original": 150541,
+      "descuento": "73% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707617/zerch/melila2aDaKdF_1779707616/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLFTbMZuqoAsJRkJ7Jl%2Fdw2DRWvEU9viRF0AxRFi4kE4EovvdjFHFUOtY0noCzCDj%2BwJ7eEfCnBVlMHD44fNsdV9tnz4h7b0LMHNpt7TC0WaIyyEIk8LKED2CvQa6tGnSzXkxIrI8dEqhy3dYuzzhi0emscb6JM3pinxbTTILJs1scUmaQTfXUS%2FK%2BPXZRZqNSS5bimTgdfljyAZ%2BMHiKipeibv4M0cxcZmujg%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-05-25T11:13:42.503Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2iaSa98",
       "source": "mercadolibre",
