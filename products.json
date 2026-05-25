@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:15:56.745Z"
+    "last_updated": "2026-05-25T06:16:19.090Z"
   },
   "productos": [
+    {
+      "id": "melila2rr1A14",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Convector Digital 2000 W Modelo Co-de 2000 Blanco",
+      "precio": 68790,
+      "precio_original": 74990,
+      "descuento": "8% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689775/zerch/melila2rr1A14/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBD57hFNyTJZl%2FTxfY%2BRsgsfWFLPAPuWGd4hqJ4msfN8sXkS4gMwSregZ0YVvLYbZIL2AZPc8OwDv90GDdjDmxXiz3AT%2BObP%2BGYydxzorSChDU%2B8MnUnLNN6yXrap4UACSNh8xQQf6FAOwRugJj7SDa9zT%2Foxb7LbTGhSyYWdVTHrZSMbooUd2w0ByVWwiKW2k0IeVvpwbLz4NvAIuuYpfmuGt%2BLgWSmwF8ZjA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:16:19.089Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2jGFkco",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:10:18.144Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1se7ve9",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Lámpara Para Cultivo Interior Genérica 3 Tubos Potencia De 27w Voltaje De Color De La Luz Violeta",
-      "precio": 9690,
-      "precio_original": 6990,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689378/zerch/melila1se7ve9/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLnj98lNo%2FlHbs8rBHPPMThSLMj1dzPYrA6zOEx%2FK0k4WyqDVlOUKmC1SHcIc7V4%2BOSanc11H7wDicS%2FDt3ZpiSsRZu6N8uh474Q3A1vJMNHdonAekDlx%2FdCYnZMIACHb1MOFocqb0tOuT7LjvOiHF9lghSqFx2GcY5QN%2Bc8BRwDPvTHqiadE%2BZFpHhxbNMmSlcZ%2BTo0UyD%2BuhNqEFbS4nULCPwKiYAfjZXCLg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:09:42.796Z",
       "instagram_post_id": null
     },
     {
