@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:20:23.134Z"
+    "last_updated": "2026-05-25T06:24:07.850Z"
   },
   "productos": [
+    {
+      "id": "melila2jGFkco",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Escritorio Ciriaca 100cm Con Bolsillo Gancho Lateral Vintage Madeta Antigua",
+      "precio": 39990,
+      "precio_original": 65490,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689752/zerch/melila2jGFkco/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BM77lRqEcEpChtgTAMsxSh8xXC9kHh0lhPgvAJoAf6MWr91hnN8dnLXdAFT994a9gOTYJPzHKp1BLdsS4MeWzGEK6k0YELezJLaLrcLK6FV4NYO2N4CxFRcueoqWWu60v7WyEPjenm5u16831QHEAnY3fZwqsknjzkDdTmSyBVwyx5mGyknuNDrYnAElDHs5D0oyBrtBnVzx3HYXuy8MS2J7f9tecOoTwk92hqjkghmDp%2Bgg",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:24:07.850Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila281CGZF",
       "source": "mercadolibre",
@@ -44,26 +64,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:16:19.089Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2jGFkco",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Escritorio Ciriaca 100cm Con Bolsillo Gancho Lateral Vintage Madeta Antigua",
-      "precio": 39990,
-      "precio_original": 65490,
-      "descuento": "38% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689752/zerch/melila2jGFkco/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BM77lRqEcEpChtgTAMsxSh8xXC9kHh0lhPgvAJoAf6MWr91hnN8dnLXdAFT994a9gOTYJPzHKp1BLdsS4MeWzGEK6k0YELezJLaLrcLK6FV4NYO2N4CxFRcueoqWWu60v7WyEPjenm5u16831QHEAnY3fZwqsknjzkDdTmSyBVwyx5mGyknuNDrYnAElDHs5D0oyBrtBnVzx3HYXuy8MS2J7f9tecOoTwk92hqjkghmDp%2Bgg",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:15:56.745Z",
       "instagram_post_id": null
     },
     {
