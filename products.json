@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:43:01.940Z"
+    "last_updated": "2026-05-25T06:43:16.684Z"
   },
   "productos": [
+    {
+      "id": "melila2SjLm3s",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "12 Paños De Cocina Toallas Grueso Extra Absorbente Docena Blanco Con Rayas Multicolor (azul, Verde, Rojo, Amarillo) Cuadrillé / Cuadros",
+      "precio": 7990,
+      "precio_original": 8990,
+      "descuento": "11% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779691392/zerch/melila2SjLm3s_1779691391/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBDMa1lZEcuigEoaYaiLfz%2F2gPfAec8J27PzdzhDG8zCDHnWmYK1A8c2mIYVr68TLFMTF0L9sm0a3LetvjyQ64DuHcVOnvvCMma1Z%2BI54EncH00VGXtS3JFPXlkmfHWL5wFsFv3YP9nP9jOtyZYhfdUkZLRQNmdKoa9ZEMp8sSQdfd7lGqmPw00%2BEVkOmIuvnSCykPX9XIp%2BP5cqVfOvXITAcYV8AlMvv5cqPe82QeuZmg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:43:16.683Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila21brwXm",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:20:23.133Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2rr1A14",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Convector Digital 2000 W Modelo Co-de 2000 Blanco",
-      "precio": 68790,
-      "precio_original": 74990,
-      "descuento": "8% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689775/zerch/melila2rr1A14/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBD57hFNyTJZl%2FTxfY%2BRsgsfWFLPAPuWGd4hqJ4msfN8sXkS4gMwSregZ0YVvLYbZIL2AZPc8OwDv90GDdjDmxXiz3AT%2BObP%2BGYydxzorSChDU%2B8MnUnLNN6yXrap4UACSNh8xQQf6FAOwRugJj7SDa9zT%2Foxb7LbTGhSyYWdVTHrZSMbooUd2w0ByVWwiKW2k0IeVvpwbLz4NvAIuuYpfmuGt%2BLgWSmwF8ZjA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:16:19.089Z",
       "instagram_post_id": null
     },
     {
