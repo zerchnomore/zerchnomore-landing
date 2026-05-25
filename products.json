@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:54:06.962Z"
+    "last_updated": "2026-05-25T06:54:16.795Z"
   },
   "productos": [
+    {
+      "id": "melila1tUSpQ6",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Ionizador Solar Para Piscina Lernen Para 130.000 Litros + Accesorios!",
+      "precio": 39990,
+      "precio_original": 89990,
+      "descuento": "55% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692053/zerch/melila1tUSpQ6_1779692052/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMq5FLRj4v%2FASe6k9Q3hMlATYdYJd2ti44CA1jrMdsSYzThMDR4MYyDc6TBn%2BqpBLvmjiy2oSBVqm%2BMM3duehJ3yHoPvHZ4fCGK5UuRZpXQcUt4y5FPp9YF8GORHI%2FFGvd%2FHeQzkFzBLI11ndl504NlF4QhHBUrZU5nKHeQ3DldT0aM4Q7%2Bmwms1126aZ67RLCZEsCA7UBqBJFFxneyD5ASILjIOu1zaRmN1Eg%3D%3D",
+      "categoria_id": "jardin",
+      "categoria_label": "🌿 JARDÍN",
+      "fecha_publicacion": "2026-05-25T06:54:16.794Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila29PpMtv",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "jardin",
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-25T06:14:48.330Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1tUSpQ6",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Ionizador Solar Para Piscina Lernen Para 130.000 Litros + Accesorios!",
-      "precio": 39990,
-      "precio_original": 89990,
-      "descuento": "55% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689358/zerch/melila1tUSpQ6/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMq5FLRj4v%2FASe6k9Q3hMlATYdYJd2ti44CA1jrMdsSYzThMDR4MYyDc6TBn%2BqpBLvmjiy2oSBVqm%2BMM3duehJ3yHoPvHZ4fCGK5UuRZpXQcUt4y5FPp9YF8GORHI%2FFGvd%2FHeQzkFzBLI11ndl504NlF4QhHBUrZU5nKHeQ3DldT0aM4Q7%2Bmwms1126aZ67RLCZEsCA7UBqBJFFxneyD5ASILjIOu1zaRmN1Eg%3D%3D",
-      "categoria_id": "jardin",
-      "categoria_label": "🌿 JARDÍN",
-      "fecha_publicacion": "2026-05-25T06:09:22.974Z",
       "instagram_post_id": null
     },
     {
