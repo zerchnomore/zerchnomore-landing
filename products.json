@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:09:22.974Z"
+    "last_updated": "2026-05-25T06:09:42.796Z"
   },
   "productos": [
+    {
+      "id": "melila1se7ve9",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Lámpara Para Cultivo Interior Genérica 3 Tubos Potencia De 27w Voltaje De Color De La Luz Violeta",
+      "precio": 9690,
+      "precio_original": 6990,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689378/zerch/melila1se7ve9/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLnj98lNo%2FlHbs8rBHPPMThSLMj1dzPYrA6zOEx%2FK0k4WyqDVlOUKmC1SHcIc7V4%2BOSanc11H7wDicS%2FDt3ZpiSsRZu6N8uh474Q3A1vJMNHdonAekDlx%2FdCYnZMIACHb1MOFocqb0tOuT7LjvOiHF9lghSqFx2GcY5QN%2Bc8BRwDPvTHqiadE%2BZFpHhxbNMmSlcZ%2BTo0UyD%2BuhNqEFbS4nULCPwKiYAfjZXCLg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:09:42.796Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1tUSpQ6",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-22T19:16:03.081Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1pj2VJd",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Velador Blanco Moderno Con 2 Cajones Y 3 Niveles De 100 Cm Brillante Blanco/oak",
-      "precio": 32590,
-      "precio_original": 52990,
-      "descuento": "38% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779476907/zerch/melila1pj2VJd/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFiuuMi71rhySyIBbu1wXrHuJMXihOzByR0JBYR%2BCLBCAh%2Bu8NGNap5TCMrlMeCqugmFoavn43eesdBCULcLz%2BfJLsrQbYymVDM4kFdfHgX3KRYuhF4OE2uL0IMIoN3XFBLazo4fxFOil4KvtiRZayuOFbJE35H8ZdxLltHwjYEwuj4GDrAId7uGk%2FQXAvfpPBrCmad4p%2BU%2FSNQvpoYU1xs0SKUdc12GFbFtog%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-22T19:08:31.067Z",
       "instagram_post_id": null
     },
     {
