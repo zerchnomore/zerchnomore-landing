@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:54:16.795Z"
+    "last_updated": "2026-05-25T06:57:55.931Z"
   },
   "productos": [
+    {
+      "id": "melila21XeiRh",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Calefactor Y Ventilador De Pared Con Control Remoto Blanco",
+      "precio": 19990,
+      "precio_original": 15900,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692272/zerch/melila21XeiRh_1779692271/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFdtEt5EuQF4QPcdX2EXVoNvRHYiO7cJGaJ1FrzYsGByCqPuSGRwATV5UpBtJ4EqQrmkLRBU4242DzCT0PPpO34XFPRbhwXhqiArGMFY3SgoPaDb%2FqZerQFjXNLVNSdV2uhj%2Bmx7eMXxig0CDvCquX5cuB9mSyOXq1OQ1PBkYhy1mfx0LAK0r5ypoCExGoGt2mTrzsSBplpvSaQvUo8vsrTjFgfCI8VfnxI2ycsZAMhjwJRq",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:57:55.930Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1tUSpQ6",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:37:14.055Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2wQLVT3",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Estufa Parafina Mademsa Foguita Pro Cubre Hasta 16,5m2 Aprox Silver",
-      "precio": 130799,
-      "precio_original": 169990,
-      "descuento": "23% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779690805/zerch/melila2wQLVT3_1779690804/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDmHZrCAyxlU14Yj7x6p93n8kjeXueGa4k2oS9kMusBOm2VPp%2Bj9JOP6jg2JwBfIkfVMcw9LJ91rX0KqvXkNzoz8uRfJmyX4%2FgcgTZJO1qQs2WWxzOqxOyis8ZLqJTsTwcCNZ6f0uQF9EbVYk5B4JLWnf63WJh6aofvgEiuggtlfbBlNTryEz3C5IK%2Bq4L6f%2FkT7A0RPWrotWWSlCazzgWpOYk6tqzDNJI9NMegB3jWn0A%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:33:29.464Z",
       "instagram_post_id": null
     },
     {
