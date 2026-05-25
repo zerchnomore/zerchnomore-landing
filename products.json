@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:59:06.600Z"
+    "last_updated": "2026-05-25T06:59:15.511Z"
   },
   "productos": [
+    {
+      "id": "melila2jC5aEh",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Banano Running Eliud 3 Bolsillos Finisher Negro Liso",
+      "precio": 7792,
+      "precio_original": 9990,
+      "descuento": "22% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692352/zerch/melila2jC5aEh_1779692351/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO1BiJsZrCFIz4CjUBBKMOK1byZ6E0jXb8Prjrgd1uD4idWn5tBTYRwsITzAIJHnTe2g9hTVkia20LTc0Ahbg6DmxlP6TOfXqwj6TDEbba6nbd2%2Bflw6aSY2mGL7a12hW8d85vUXMYwnmcGlOMGLyKDmFFkM3xWjiQj87lM509qeBsmA63q0cDbTt3R5zgh6EQ6bE9QeIwIngSkuE99DXRK90YOOwsiKe1cYvQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:59:15.511Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1JLbmUq",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "jardin",
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-25T06:54:06.962Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1nxgrKY",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Tendedero Colgador Secador De Ropa Plegable Jby. Topy Azul",
-      "precio": 8600,
-      "precio_original": 19980,
-      "descuento": "5% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779691842/zerch/melila1nxgrKY_1779691841/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKy2o%2BZGewHxjYHcmRo8LEQNOlN3Qrmgan%2FzU%2B5uSCnR1dYmvViU%2BHf%2FppPwvaUioZvze9%2FQYfefLM7bpLqBsGkH3%2BGVJVpmP2V9UQgb%2FuGIuFNPtPW7azQwBMm75%2FVXO5HjIuNw13JeCKgqizc96PqrndhjANNrouVykr3F%2FGTSDc5uvSMuug%2BrtU7H4%2BDhmgr186tLW%2BEyIYoCx9tf45%2BIvyhKQpTwFzTu3g%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:50:46.500Z",
       "instagram_post_id": null
     },
     {
