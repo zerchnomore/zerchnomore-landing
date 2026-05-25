@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:33:29.464Z"
+    "last_updated": "2026-05-25T06:37:14.055Z"
   },
   "productos": [
+    {
+      "id": "melila1UhAcwu",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Botín Hombre Transverse Hike Wate Gris Columbia",
+      "precio": 84990,
+      "precio_original": 79990,
+      "descuento": "12% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779691029/zerch/melila1UhAcwu_1779691028/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPAGGMfNPJ%2F22GYODEPYzuaCu9XV6o6e8LIdQlvH0I6VOAaE5WMyhHVREcmICgGV48jAy1xd4hvkc5ncr4YsCnH%2F%2FMGw6e1d%2BVFtzwQOq1rM18Q7LQsgHLvWw6ERxv8zJ4IrfVDq4hPPEr7gfv19MWKDL3KVBgNkhaAN7Xu%2FI4dyWxYcu%2ByKwcz0x5AqAh%2B2gCYCIw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:37:14.055Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2wQLVT3",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:11:04.943Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2SjLm3s",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "12 Paños De Cocina Toallas Grueso Extra Absorbente Docena Blanco Con Rayas Multicolor (azul, Verde, Rojo, Amarillo) Cuadrillé / Cuadros",
-      "precio": 7990,
-      "precio_original": 8990,
-      "descuento": "11% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689434/zerch/melila2SjLm3s/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBDMa1lZEcuigEoaYaiLfz%2F2gPfAec8J27PzdzhDG8zCDHnWmYK1A8c2mIYVr68TLFMTF0L9sm0a3LetvjyQ64DuHcVOnvvCMma1Z%2BI54EncH00VGXtS3JFPXlkmfHWL5wFsFv3YP9nP9jOtyZYhfdUkZLRQNmdKoa9ZEMp8sSQdfd7lGqmPw00%2BEVkOmIuvnSCykPX9XIp%2BP5cqVfOvXITAcYV8AlMvv5cqPe82QeuZmg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:10:37.603Z",
       "instagram_post_id": null
     },
     {
