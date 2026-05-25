@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T11:13:42.504Z"
+    "last_updated": "2026-05-25T11:13:52.626Z"
   },
   "productos": [
+    {
+      "id": "melila2keqBTs",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Kit Solar Camping Ampolletas Led Fm Tf Rádio Bluetooth Mp3 Negro",
+      "precio": 15398,
+      "precio_original": 69990,
+      "descuento": "78% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707629/zerch/melila2keqBTs_1779707628/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMWSOqzrYIlWz4HeSM1YAf32vFOAT%2FAqTdCUULKqYvA4p6nzjAOXfaiWdIBH3BFXpn1Sh5dfsbd48eFxXTwjOm3d%2Bdil8ssjDZPYPAqZDiDJSwziRhCwZYVf5S0%2FjvlIajd8mkwE9HuXv7ZeG0CRAR7t70YcEfUMD9RgusOUleRS%2BdnvElB2slv2ixOZGx2dqAeKLCDheQ4vtEScGsZhIBIKsbTFpsJ6oNelzrjCHDRHEyaR",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-05-25T11:13:52.626Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2aDaKdF",
       "source": "mercadolibre",
@@ -529,23 +549,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-18T21:57:01.439Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC2032134294",
-      "titulo": "Adaptador Hub Usb Tipo C 8 En 1 Con Rj45 Para Mac, Windows",
-      "precio": 8850,
-      "precio_original": 8850,
-      "descuento": "8% OFF",
-      "moneda": "CLP",
-      "rating": 4.5,
-      "reviews_count": 230,
-      "vendidos": "+1000",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779132807/zerch/MLC2032134294/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-2032134294",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-18T19:33:30.837Z",
       "instagram_post_id": null
     },
     {
