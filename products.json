@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T11:14:21.359Z"
+    "last_updated": "2026-05-25T11:14:31.029Z"
   },
   "productos": [
+    {
+      "id": "melila27BSHid",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "2nlf® 2pcs Doble Lente Cámara De Seguridad Exterior Wifi Hd Negro",
+      "precio": 42534,
+      "precio_original": 114932,
+      "descuento": "62% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707667/zerch/melila27BSHid_1779707666/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNMN56D7vQS6Pw6JX6DE3mR4e%2FA1zDSeztOW%2F4Hqvc83iL1l%2F3RhQqdhKDBr39xSM4%2BVvXq3AYYdvGR9V8WYM8KRTc90qxdECsd0q3Mxgo9pz%2FvehrIO%2F5ffVDVbCnusPNoOUGIoi57%2FTwIFXImjF1ytLmsAfW4l2RuCz2fUndMjY65NuAwUNuNctRBKhSubWkR5cs7wCKAueM6JUSmpwCSCO29iUallxEeHZg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T11:14:31.028Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1atFSem",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:58:57.715Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2oiekj2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Estufa Eléctrica Mademsa Infrarroja 1500w Digital Eco Inf10 Negro",
-      "precio": 85990,
-      "precio_original": 129990,
-      "descuento": "33% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692306/zerch/melila2oiekj2_1779692305/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPNKg5TG%2B%2Bh3oDH0O3HLhlQYAjQL8K6cw5ogJkIcL%2BHz%2F4%2FYnQuA75EpLo%2BhzV4q0qg9EvpwmgeJ%2B%2BHzFjJvHqveroeWWfrKUrUHwklcMSdnapxeyPFCEan8EsB6aQb%2BxiZEh1jXDGldXfqgg3iW8GJ8rpivpTAH3Vj%2FzObpC99L0LqinbCLgu54y3wQWjrInsQ8Nkb8S1arF8wt8lU%2FTBthagbgLo8NRXqL1w%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:58:30.161Z",
       "instagram_post_id": null
     },
     {
