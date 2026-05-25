@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:10:18.145Z"
+    "last_updated": "2026-05-25T06:10:37.603Z"
   },
   "productos": [
+    {
+      "id": "melila2SjLm3s",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "12 Paños De Cocina Toallas Grueso Extra Absorbente Docena Blanco Con Rayas Multicolor (azul, Verde, Rojo, Amarillo) Cuadrillé / Cuadros",
+      "precio": 7990,
+      "precio_original": 8990,
+      "descuento": "11% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689434/zerch/melila2SjLm3s/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBDMa1lZEcuigEoaYaiLfz%2F2gPfAec8J27PzdzhDG8zCDHnWmYK1A8c2mIYVr68TLFMTF0L9sm0a3LetvjyQ64DuHcVOnvvCMma1Z%2BI54EncH00VGXtS3JFPXlkmfHWL5wFsFv3YP9nP9jOtyZYhfdUkZLRQNmdKoa9ZEMp8sSQdfd7lGqmPw00%2BEVkOmIuvnSCykPX9XIp%2BP5cqVfOvXITAcYV8AlMvv5cqPe82QeuZmg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:10:37.603Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila21brwXm",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-22T19:16:58.796Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila16AShkM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Termo Botella Agua Termica Acero Inoxidable 700 Ml Buffer + Tapas Citrus Green",
-      "precio": 9980,
-      "precio_original": 16990,
-      "descuento": "41% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477383/zerch/melila16AShkM/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJjqW%2BuDLGxcscULYo3u6hH0d3lV9kXMAWUY6jvybGwqrKShiTRrsR3qzEP0kQ%2BFEyJzmJddD3K%2Bl5kHp1mXRQn21PjM5JWpZfQnNoTmJV8fqq23TrJadWjATblWWiDeBLU9G2w0btNxlwsKjrthkKmKMqUn5KTgT6A7xZW2mdTY%2BofqERQ9vY3%2FAsEzXGcI6YTjSCGeBX4jHmBUa%2FEE0d8MBrjWS8UpYabwjQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-22T19:16:27.635Z",
       "instagram_post_id": null
     },
     {
