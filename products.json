@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:16:19.090Z"
+    "last_updated": "2026-05-25T06:20:23.134Z"
   },
   "productos": [
+    {
+      "id": "melila281CGZF",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Lámpara De Mesa Recargable, Lámpara Inalámbrica Lampara Led",
+      "precio": 6876,
+      "precio_original": 15990,
+      "descuento": "57% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689705/zerch/melila281CGZF/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGzXkqhoAsa2DDHApyW0hqcovAYHWyTbggOubQ0dJ9WM0gsrWcPR8cWAVp25paNLde7d9pDk6MxUR731Qpq6%2F2f8JnJSITDgT9AE7Xcefny78XcWzJOglDvGshBSWj77cV40YrWFGvqOQlMtuEpbtPWi5giRwwzoTaNTKKfMhk4cmj80t7ab2I4nZiRvhPfRwUrGZw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:20:23.133Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2rr1A14",
       "source": "mercadolibre",
@@ -64,26 +84,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:15:29.254Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila281CGZF",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Lámpara De Mesa Recargable, Lámpara Inalámbrica Lampara Led",
-      "precio": 6876,
-      "precio_original": 15990,
-      "descuento": "57% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689705/zerch/melila281CGZF/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGzXkqhoAsa2DDHApyW0hqcovAYHWyTbggOubQ0dJ9WM0gsrWcPR8cWAVp25paNLde7d9pDk6MxUR731Qpq6%2F2f8JnJSITDgT9AE7Xcefny78XcWzJOglDvGshBSWj77cV40YrWFGvqOQlMtuEpbtPWi5giRwwzoTaNTKKfMhk4cmj80t7ab2I4nZiRvhPfRwUrGZw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:15:09.200Z",
       "instagram_post_id": null
     },
     {
