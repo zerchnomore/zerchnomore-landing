@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:09:42.796Z"
+    "last_updated": "2026-05-25T06:10:18.145Z"
   },
   "productos": [
+    {
+      "id": "melila21brwXm",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Limpiador De Vidrio Magnetico Limpiavidrios Ventanas Hogar",
+      "precio": 2796,
+      "precio_original": 4990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689414/zerch/melila21brwXm/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAC4%2F1g9vk8aFIKPSuaGmfQP1zwvmfsq6AUxALP5LJw%2BdhB0pXk1t8BFvI%2FSI6Mtl6pMSlLPv4lDR%2FcXhORXLc4jaYTfwFiHMgKM0HNeBp%2FFL0CcwUNXrEQyEg2NgRE4tXZu9ASbM7KZMo4Ja6Jnu8iwhGrHO8StrPlRVMhmPtj3hbg%2FV5TdzF5%2BQXYIXp3r%2FOG012nd71qCQHe5%2F4zdT2uONjzjomft1DQV6%2FDvjYg%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:10:18.144Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1se7ve9",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-22T19:16:27.635Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1ZrM4eJ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Freidora De Aire Air Fryer Chic Prime 5 L Con Visor Easyways Negro",
-      "precio": 49990,
-      "precio_original": 129990,
-      "descuento": "61% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779477359/zerch/melila1ZrM4eJ/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNqj10wNC5Lb2cnDq4ieyotkhZuNCxqPa4h%2Bxtx8Mr7HvvcgoW%2BXlz%2FSbxTFCG340XDhC8d1Qoc%2F%2FLAraVPVC1hUyx5hylp46kk5Yep2T%2Ff0QLIjE89DSDZRuMUQyJfHMUylaMHZMPb720q%2FYcbAp3s4iuNHh6tnl98LvE%2FOjQtOYRedfJq3xyPGargwP3LsjsqrFbSIAVb%2B%2FlpKit%2F7llkkLQVhr5AYcIK8xg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-22T19:16:03.081Z",
       "instagram_post_id": null
     },
     {
