@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:15:09.200Z"
+    "last_updated": "2026-05-25T06:15:29.255Z"
   },
   "productos": [
+    {
+      "id": "melila1nxgrKY",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tendedero Colgador Secador De Ropa Plegable Jby. Topy Azul",
+      "precio": 8600,
+      "precio_original": 5493,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689724/zerch/melila1nxgrKY/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKy2o%2BZGewHxjYHcmRo8LEQNOlN3Qrmgan%2FzU%2B5uSCnR1dYmvViU%2BHf%2FppPwvaUioZvze9%2FQYfefLM7bpLqBsGkH3%2BGVJVpmP2V9UQgb%2FuGIuFNPtPW7azQwBMm75%2FVXO5HjIuNw13JeCKgqizc96PqrndhjANNrouVykr3F%2FGTSDc5uvSMuug%2BrtU7H4%2BDhmgr186tLW%2BEyIYoCx9tf45%2BIvyhKQpTwFzTu3g%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:15:29.254Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila281CGZF",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:07:07.869Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila16H5Yyz",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cama Para Perro Gato Grande Mediano Petpal Acolchada Lavable Color L - Azul Negro/azul Skye",
-      "precio": 29990,
-      "precio_original": 41990,
-      "descuento": "28% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689085/zerch/melila16H5Yyz/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJXWbcO5K9KcWXRrXg3qZZcEa6sjicX%2FMsf4ShaO3Bntc%2B54lCrDdLPwBTiUvuoNLGth0W3dXxH8Ev1oeavf1hw4xkiOD%2BvLaiclA6y6qrz0sr82Cy42yUH%2FHO25tC25j%2FVY%2BfMalimhYQD1slNBLL%2Bb%2B2CTS7hiG2KhX%2BAjiAQuSj5IhoHYMK%2BZ%2F3aHaRsBAzA8w3J%2FGcHlJ5xoQmdFjtjn2MPrwZup5Bd3Kg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:04:48.805Z",
       "instagram_post_id": null
     },
     {
