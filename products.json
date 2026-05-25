@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:58:39.489Z"
+    "last_updated": "2026-05-25T06:58:48.621Z"
   },
   "productos": [
+    {
+      "id": "melila2iaSa98",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cartera Tote Bubba Essentials Color Negro Liso Níquel",
+      "precio": 39990,
+      "precio_original": 46990,
+      "descuento": "10% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779692325/zerch/melila2iaSa98_1779692324/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMYe%2FYrMs6iHfBjRo4w%2BuuesSPpMFXPXD22Dh5oHM8cuWMpv4Bs59HXsXOI5ewFuMicRz%2B4ASLFF3mZHZ4Di8oBEVXZ%2FSyGu5ld17DU%2FPeYfFsEf2DVDgk5BH%2Bq7NAySQp59gQtz7nVcUw1MAv%2BTl8dlfKBTlh%2FMSiF%2BlJCcGQQEM8ANNnhsDdFQe0OvxgjiinNsDB2PGGrU7tBL6SPMEPSFoT3RuVCuy5JY6g%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-25T06:58:48.620Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2NQoi2E",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T06:43:16.683Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila21brwXm",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Limpiador De Vidrio Magnetico Limpiavidrios Ventanas Hogar",
-      "precio": 2796,
-      "precio_original": 4990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779691378/zerch/melila21brwXm_1779691377/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAC4%2F1g9vk8aFIKPSuaGmfQP1zwvmfsq6AUxALP5LJw%2BdhB0pXk1t8BFvI%2FSI6Mtl6pMSlLPv4lDR%2FcXhORXLc4jaYTfwFiHMgKM0HNeBp%2FFL0CcwUNXrEQyEg2NgRE4tXZu9ASbM7KZMo4Ja6Jnu8iwhGrHO8StrPlRVMhmPtj3hbg%2FV5TdzF5%2BQXYIXp3r%2FOG012nd71qCQHe5%2F4zdT2uONjzjomft1DQV6%2FDvjYg%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T06:43:01.939Z",
       "instagram_post_id": null
     },
     {
