@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-25T06:07:07.869Z"
+    "last_updated": "2026-05-25T06:08:59.753Z"
   },
   "productos": [
+    {
+      "id": "melila29PpMtv",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Manguera Limpia Piscina 10 Metros Flexible Azul Con Terminal",
+      "precio": 22990,
+      "precio_original": 39990,
+      "descuento": "42% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779689335/zerch/melila29PpMtv/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMxcwIOgWntogHwqZCfGcoG0iA5cfEVzao1NU46UWcjSrNL9Z%2FzLymUd1H3q8QbPByvvfUDLQuykQ8cTIv9O5L6KWuABPWRu6kShSx1B6nQhcJmADeSj10crjc0Oo6NzaJYtiTUAnzyR%2B8LD4z2UUP5%2BjmTREV32cJwGEv4eqdrQgu8%2FbQENtTUc2UFYnXsFUo6tzej8qdNJaB3KGgfblDYr9HK4b5nqprkxWw%3D%3D",
+      "categoria_id": "jardin",
+      "categoria_label": "🌿 JARDÍN",
+      "fecha_publicacion": "2026-05-25T06:08:59.752Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1UhAcwu",
       "source": "mercadolibre",
