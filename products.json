@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-26T08:05:45.320Z"
+    "last_updated": "2026-05-26T08:05:55.149Z"
   },
   "productos": [
+    {
+      "id": "melila2KNfTa3",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Gas Butano Nautika 230grs Para Cocinillas Lamparas Camping",
+      "precio": 12590,
+      "precio_original": 79990,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779782751/zerch/melila2KNfTa3_1779782750/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHnkDQ%2FnYpAo2jQ5lQ6K6K7o%2BphzuJ90ZELV3ne0ZH3elVjlR4ic92BaIoUQAZ6aKbvzOp68B1TD08L%2F1W624Lr26BFFii8ZsLr3eW%2BTwuHqveyS0de13tkCQww1GCa6QnHdASPYK%2BK52NrSMmHtuNIS2HEzC2dUnujon3tADEI5gFz6oEABKG%2BqZPpaqzeLo4zpw0xZmzy5k0fyjKzkt8nLMWHizUg1qPoXkqo8",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-05-26T08:05:55.149Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2aDaKdF",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-26T02:16:49.403Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2KNfTa3",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Gas Butano Nautika 230grs Para Cocinillas Lamparas Camping",
-      "precio": 12590,
-      "precio_original": 79990,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761794/zerch/melila2KNfTa3_1779761793/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHnkDQ%2FnYpAo2jQ5lQ6K6K7o%2BphzuJ90ZELV3ne0ZH3elVjlR4ic92BaIoUQAZ6aKbvzOp68B1TD08L%2F1W624Lr26BFFii8ZsLr3eW%2BTwuHqveyS0de13tkCQww1GCa6QnHdASPYK%2BK52NrSMmHtuNIS2HEzC2dUnujon3tADEI5gFz6oEABKG%2BqZPpaqzeLo4zpw0xZmzy5k0fyjKzkt8nLMWHizUg1qPoXkqo8",
-      "categoria_id": "outdoor",
-      "categoria_label": "🌲 OUTDOOR",
-      "fecha_publicacion": "2026-05-26T02:16:39.379Z",
       "instagram_post_id": null
     },
     {
