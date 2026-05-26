@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-26T02:17:31.429Z"
+    "last_updated": "2026-05-26T02:17:42.542Z"
   },
   "productos": [
+    {
+      "id": "melila2m4WHyG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sol De Janeiro Brazilian Bum Bum Cream 240 Ml Msi",
+      "precio": 59415,
+      "precio_original": 69900,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761857/zerch/melila2m4WHyG_1779761856/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO5DhDFXwkvjAnbn59qFl%2FyQ8AeGoAWRWT5A66nfIbCcaC6jCZsbeIQJGqrIuTq%2FIqFagXfwP9X92IEU9z1%2BtFGSSjRneBYKuvOJ%2F6LesaQcBBl30IBP0qx1ThjrFqRNc5lE9i4PTNi7%2FIcF0HsOz71ZyPn9SLa2yoCAimRUl7qnKmPNX1PWuah57QMErLWI6SfrOR8D1eRKfBIEuUjdYYzCfpWLdI1RhidsWA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-26T02:17:42.542Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila15AgJv8",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T11:15:18.789Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2m4WHyG",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sol De Janeiro Brazilian Bum Bum Cream 240 Ml Msi",
-      "precio": 59415,
-      "precio_original": 69900,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707705/zerch/melila2m4WHyG_1779707704/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO5DhDFXwkvjAnbn59qFl%2FyQ8AeGoAWRWT5A66nfIbCcaC6jCZsbeIQJGqrIuTq%2FIqFagXfwP9X92IEU9z1%2BtFGSSjRneBYKuvOJ%2F6LesaQcBBl30IBP0qx1ThjrFqRNc5lE9i4PTNi7%2FIcF0HsOz71ZyPn9SLa2yoCAimRUl7qnKmPNX1PWuah57QMErLWI6SfrOR8D1eRKfBIEuUjdYYzCfpWLdI1RhidsWA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T11:15:08.801Z",
       "instagram_post_id": null
     },
     {
