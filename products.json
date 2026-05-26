@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-05-26T02:17:10.102Z"
+    "last_updated": "2026-05-26T02:17:20.460Z"
   },
   "productos": [
+    {
+      "id": "melila11CHwFF",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sol De Janeiro Brazilian Crush Cheirosa 62 Body Mist 90 Ml",
+      "precio": 41642,
+      "precio_original": 48990,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761836/zerch/melila11CHwFF_1779761835/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNYRb2oGNePgvadXTQ9Wi1Uia8wypReokhwWpqZU2XVhiIsnYcp4gGHlQ47rCr0bqYnHTgH8LM3rVD4OTYDViGSSwgjIDu%2BG1%2BM1AdcTkDxn4QeijGTbJ86xulKFuUoQKdm4Z2AzfU3TQ7bU8ZbYvIHfZLK1z17etHl0lMeYIy1LeJeTAQ4%2BORk13e%2BPPQtzzjUr9slgD6jHqmy9hgmHj8tPCeb%2FTs6CctCPHvLZhm2x4Viblg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-05-26T02:17:20.460Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2uKfoVB",
       "source": "mercadolibre",
@@ -204,26 +224,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-25T11:14:59.181Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila11CHwFF",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sol De Janeiro Brazilian Crush Cheirosa 62 Body Mist 90 Ml",
-      "precio": 38405,
-      "precio_original": 45990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707686/zerch/melila11CHwFF_1779707685/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNYRb2oGNePgvadXTQ9Wi1Uia8wypReokhwWpqZU2XVhiIsnYcp4gGHlQ47rCr0bqYnHTgH8LM3rVD4OTYDViGSSwgjIDu%2BG1%2BM1AdcTkDxn4QeijGTbJ86xulKFuUoQKdm4Z2AzfU3TQ7bU8ZbYvIHfZLK1z17etHl0lMeYIy1LeJeTAQ4%2BORk13e%2BPPQtzzjUr9slgD6jHqmy9hgmHj8tPCeb%2FTs6CctCPHvLZhm2x4Viblg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-25T11:14:49.880Z",
       "instagram_post_id": null
     },
     {
