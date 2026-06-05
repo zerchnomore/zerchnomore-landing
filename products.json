@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T04:31:22.218Z"
+    "last_updated": "2026-06-05T04:31:32.602Z"
   },
   "productos": [
+    {
+      "id": "melila2zDzR5C",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Juego De Mesa Cultura Chupística Retos - Ahb Games",
+      "precio": 14993,
+      "precio_original": 19990,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780633888/zerch/melila2zDzR5C_1780633887/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLBZZE%2FfxUr7AI5T0fGXa4%2FmP7CshBDT3f4fg9L5R4Ho%2FLe9ePJK7xcZ8Q17gGgDI6hC4acspUiVKLvm6SlAqYLBZ%2BRMRjbEgqEwIE%2FqzOFvqVNp%2FED%2B3jbWpWHIR7hOu19awLWXsYRiZ%2Bjl7gQPbPnxKOXgw77aoFsSzaz8EUXdOHxy%2BOH5kiCRY6adtl8x03%2F7WuVw5yOyfA2A%2BK9EepVk8igYvEfCtVGV7Q%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T04:31:32.602Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1RirJh5",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T03:00:13.608Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2SKbksS",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Zapatilla Puma Shuffle Blanco Hombre",
-      "precio": 24990,
-      "precio_original": 49990,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628384/zerch/melila2SKbksS_1780628383/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPc4jdk5G2waJiYlft73IsaNEJc794A0hJrbg83K8%2BNx3wh0mCXV26ebPf0z7OOxJdbmEsPt7gGdzPUPHKhJ7u6IYPB1U0VvlPBIBBKYmuj0ScxA01XkF9OwlStQzpZH5%2Fo50AflzsES93IMigeYOCOgNWFiXag07k9KsxydDOURNQWeR%2FdyYtDPaTYNbVfQYfZS%2Fg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T02:59:47.580Z",
       "instagram_post_id": null
     },
     {
