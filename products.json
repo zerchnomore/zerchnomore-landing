@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T04:22:12.773Z"
+    "last_updated": "2026-06-05T04:22:38.674Z"
   },
   "productos": [
+    {
+      "id": "melila1RirJh5",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Fractal Pistas Cruzadas Juego De Mesa Familiar Party 2 A 6 Jugadores",
+      "precio": 16990,
+      "precio_original": 21990,
+      "descuento": "18% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780633355/zerch/melila1RirJh5_1780633354/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPvSNCNc8jJREahzbzdEyWzDsowS8L7KeItllHeAAP7gp8lGFVCsnA5QEEa6dSanBy089CrwzrogIK8sVs0OuQ4VPx49UZgHd0TKT%2BiKKpDU43X8yNGO4wyE256TkSpUZoylY3h0i7ifbcEh1nwCScnu%2BhN43xng08MfpQ4TffpkM%2B6GPUpVF4hqylmsPKU4nqQ2PEvmfPKMpnYVcCr6dLAXRu%2B%2BWppC3ltBWA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T04:22:38.674Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2FJQ1dD",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T02:59:47.580Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1FQ68H9",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Botín Hombre Strata Trail Mid Wp Negro Columbia",
-      "precio": 49490,
-      "precio_original": 89990,
-      "descuento": "45% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628364/zerch/melila1FQ68H9_1780628363/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC0Q10hcwO4G7zP%2Fpg6%2FE5VWgfVee4bhMCMs1a%2BelMxGWWhphsFp0qzrgss8PbsIe7iQTlJnekLDr92lT6BlMPkYeuIQizBlEeQT2Hon90r4whCl5DV9DK0UioIWscpx66%2BoixcfT1MU8MkBApT0FkKFgixv8zh8WqbdUQ5d6S80bY79kDk5351FP%2FxwE2t1XaBZXw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T02:59:27.279Z",
       "instagram_post_id": null
     },
     {
