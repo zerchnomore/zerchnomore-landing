@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T02:59:47.581Z"
+    "last_updated": "2026-06-05T03:00:13.609Z"
   },
   "productos": [
+    {
+      "id": "melila1tafcMh",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Balón De Fútbol adidas Trionda Training Wc Fifa26 Jd8032 Nº 5 White/royal Blue/solar Blue/power Red",
+      "precio": 19992,
+      "precio_original": 24990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628408/zerch/melila1tafcMh_1780628407/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHaKxAG7QaNYXLE8SYjhschn8QNnVr0FjPJgbzUMVucuW3ktjWcvYMJmtpC9W%2FxILcgrZ4aHfTv0pmO1ds5k9N5oCS7YfRJrORevHxDgxbLHZnVq4TNWXDyrxQKMTtVzcQa5MHqkG7jUPpEEWRzX2MLQL9wXNFvuuuTv2d9NcHs4l0cs8GEvcp9597jwx1HdlvHQlOCzZQNWPiTxkK3tBdsPLnjDYPKprzeaSA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T03:00:13.608Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2SKbksS",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-26T08:05:45.320Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2m4WHyG",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sol De Janeiro Brazilian Bum Bum Cream 240 Ml Msi",
-      "precio": 59415,
-      "precio_original": 69900,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761857/zerch/melila2m4WHyG_1779761856/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO5DhDFXwkvjAnbn59qFl%2FyQ8AeGoAWRWT5A66nfIbCcaC6jCZsbeIQJGqrIuTq%2FIqFagXfwP9X92IEU9z1%2BtFGSSjRneBYKuvOJ%2F6LesaQcBBl30IBP0qx1ThjrFqRNc5lE9i4PTNi7%2FIcF0HsOz71ZyPn9SLa2yoCAimRUl7qnKmPNX1PWuah57QMErLWI6SfrOR8D1eRKfBIEuUjdYYzCfpWLdI1RhidsWA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-26T02:17:42.542Z",
       "instagram_post_id": null
     },
     {
