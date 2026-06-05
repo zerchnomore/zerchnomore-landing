@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T03:01:11.200Z"
+    "last_updated": "2026-06-05T04:13:04.999Z"
   },
   "productos": [
+    {
+      "id": "melila1anwi3q",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Juego De Mesa Mixbas01es Burger ¡ya! Asmodee",
+      "precio": 10440,
+      "precio_original": 10990,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780632781/zerch/melila1anwi3q_1780632780/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAcas%2FMOCYwm94gG%2BzmE1uTHG0e%2Bk9GY7p7Z8DB%2BOAl2PPytUYFar94zymL18%2BMroGn3D1PbOQ8r%2B9vYKjlf8lV0cbpS4prZqEBzAAj9EtbgpB8vWIKFiQMSvNdEYvfjKlwLhmUi5363higZFGNjGQGx641FkbrZPiTZHWqrJ%2FAEVfgm1K3XPrd5WArSe2eMBtfGXoauqc0sC4h%2FrE6pauOLQBn%2FEjSojgcCYQBjRob8km%2FgGA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T04:13:04.998Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila23mkyG1",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-26T08:06:36.954Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2HL8Awy",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Rubor En Barra Color Según Ph Okwu Blossom Blush Tono Del Maquillaje Magic",
-      "precio": 25990,
-      "precio_original": 28990,
-      "descuento": "6% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779782781/zerch/melila2HL8Awy_1779782780/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFeWxxqd1tqFMQ%2BC72FZeMSdo5AD097mrdEPWjKQiHIVVVK6EzVJk2xgogkNPRshCf2mYVeZ7IBiFfSvqOaAva%2FNRa3GP3y5zRN6Kd5VvPh7FqeAMPkPM5DnEJQgkDdAAYNpuNXXU1rhpaJC9Bxg7LU5Yl3zWK1wpB70MgT0%2FvdLr2dx8uAc9scaUA2OHbGac8UNudcZ7f5X1EniFAaZtmz5K8lMN5pVJU7XlA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-26T08:06:25.905Z",
       "instagram_post_id": null
     },
     {
