@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:01:47.369Z"
+    "last_updated": "2026-06-05T15:10:14.237Z"
   },
   "productos": [
+    {
+      "id": "melila2pVb7Jx",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Secadora Eléctrica 10kg Blanca Midea Md100a100/w2 Color Blanco",
+      "precio": 169990,
+      "precio_original": 259990,
+      "descuento": "34% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672209/zerch/melila2pVb7Jx_1780672206/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL6a5wvzh%2BYDbVmZH1ND2x0uhtBy8gMwktsdVmb6Q%2F8QGwferNWFAQpaaHJoEWbf0swHo%2FMN8UkFXCbo4ov51wr0VlPOVoXlseDtSJ9qYu8YEBz6eLvW871RJUHwhcrz485T%2BjHrxZl53wgfOCkRT%2BaJw63p1Vd6Bpcw2nzfvXzDVoPt2s2ETZWHlf9RdfUkh9V4OEy12r6zA4ehyW8ahDPQUaV4VsvcMn3RUw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:10:14.237Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2FJQ1dD",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T03:00:41.193Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1tafcMh",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Balón De Fútbol adidas Trionda Training Wc Fifa26 Jd8032 Nº 5 White/royal Blue/solar Blue/power Red",
-      "precio": 19992,
-      "precio_original": 24990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628408/zerch/melila1tafcMh_1780628407/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHaKxAG7QaNYXLE8SYjhschn8QNnVr0FjPJgbzUMVucuW3ktjWcvYMJmtpC9W%2FxILcgrZ4aHfTv0pmO1ds5k9N5oCS7YfRJrORevHxDgxbLHZnVq4TNWXDyrxQKMTtVzcQa5MHqkG7jUPpEEWRzX2MLQL9wXNFvuuuTv2d9NcHs4l0cs8GEvcp9597jwx1HdlvHQlOCzZQNWPiTxkK3tBdsPLnjDYPKprzeaSA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T03:00:13.608Z",
       "instagram_post_id": null
     },
     {
