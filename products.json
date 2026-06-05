@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T03:00:41.193Z"
+    "last_updated": "2026-06-05T03:01:11.200Z"
   },
   "productos": [
+    {
+      "id": "melila23mkyG1",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Mattel Games Juego De Mesa Monos Locos 25 Aniversario",
+      "precio": 14483,
+      "precio_original": 21990,
+      "descuento": "34% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628467/zerch/melila23mkyG1_1780628466/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BE9qS2rm8xOgD4G4lDDTkvIdYVItl%2BGK3DbzfAcf8W7PT4mJpqIGO%2FnJnXE1%2FgW%2Ben3HIpTOXPqn0nWP%2BhAunB67uWS4m8sqQiLjojGUXjeROkbQULOEJuGE4GWbmChWA6gIsgkJ5SMXDBoMPEVZPvLgzAmP7zb072sgo5ViMsb3gtCyNiRYDeiw51WHPnrV8usqHyqh2tTQ%2F86hx5uPrjp1yTlF9ofxXBt8lw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T03:01:11.199Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2WSR7B1",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-26T08:06:25.905Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila15AgJv8",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Rhode Peptide Lip Tratamiento Labial De Peptidos Raspberry",
-      "precio": 39990,
-      "precio_original": 7990,
-      "descuento": "5% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779782772/zerch/melila15AgJv8_1779782770/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BO88BJO%2FogIWFwO5XgpVZNKAuvCgg6mhmY9idKS88w1QY6EcpbnSCUQP0R%2BRbHSkx38IuF9B%2FMlUYQoigzjDSrXqKXpmguU5Dtm9nam3ld7aoApaMh3bto72Z%2FoMSwbwylZ5sfb93c9NH4TEgZUjYl45clzSGtz%2FaGKMhcuHJ%2FtmaHl9bGIFLDMLKmnR0kIWvO62l78Q%2Fh%2BM42g05nb6Jk9d0srsDmzFq%2F5V5f%2BBTeCvA307",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-26T08:06:15.839Z",
       "instagram_post_id": null
     },
     {
