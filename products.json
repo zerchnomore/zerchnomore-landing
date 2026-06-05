@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:10:14.237Z"
+    "last_updated": "2026-06-05T15:10:53.372Z"
   },
   "productos": [
+    {
+      "id": "melila19BEaLM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Multigroom Philips Mg3921/15 Incluye 12 Accesorios Negro",
+      "precio": 22990,
+      "precio_original": 32990,
+      "descuento": "30% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672248/zerch/melila19BEaLM_1780672246/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCYI24vI6uaDhV3KXYxkteURAm2JzMcUz%2FtD5X88uVJCe4vh8j6RxdJrXfReqX%2B2GLgqGf%2FHDogcFwArlBeSlI827z0KoRPr0dZRQmQXe6bgWgz8R7Ck8q21%2FW%2FWdHt5y3usdhWD%2FHkH2bTdBZ3gVV2gnvioRFNe%2BU0tijH5heY9um%2BPGxOYFqe7dpJCJymyGL0Mxw%2B1KYWDkq2u25bZEiL0Wne64ORVnKQ26Q%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:10:53.372Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2pVb7Jx",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T03:01:11.199Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2WSR7B1",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Circo Rompecabezas Magnético Montessori De Madera",
-      "precio": 9845,
-      "precio_original": 10315,
-      "descuento": "4% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628436/zerch/melila2WSR7B1_1780628435/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGVw9e9YpyZp6I%2BJtmDyAe5BTHe8qJ0PJuY%2Fko35IBnEfTIr6LOnB5%2Fqwnshjsn1ADFhXRqo1QZVhLfGsqW0K%2F7w%2FMefX%2F6KYQqctfDIY9RqHU7z5CLf9gIJiNxpJa2HzupGPcaWLmqkwWJD7V8PDPpD%2FLcajfJRGiHP0f4WwvO%2FxCMENBs2M4tk8C16GqWgNdqwTbp93LSuUQrQlC3C5hpPk2qHgfPqfJerg0PO",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T03:00:41.193Z",
       "instagram_post_id": null
     },
     {
