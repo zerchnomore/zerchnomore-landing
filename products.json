@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T02:59:27.279Z"
+    "last_updated": "2026-06-05T02:59:47.581Z"
   },
   "productos": [
+    {
+      "id": "melila2SKbksS",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Zapatilla Puma Shuffle Blanco Hombre",
+      "precio": 24990,
+      "precio_original": 49990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780628384/zerch/melila2SKbksS_1780628383/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPc4jdk5G2waJiYlft73IsaNEJc794A0hJrbg83K8%2BNx3wh0mCXV26ebPf0z7OOxJdbmEsPt7gGdzPUPHKhJ7u6IYPB1U0VvlPBIBBKYmuj0ScxA01XkF9OwlStQzpZH5%2Fo50AflzsES93IMigeYOCOgNWFiXag07k9KsxydDOURNQWeR%2FdyYtDPaTYNbVfQYfZS%2Fg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T02:59:47.580Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1FQ68H9",
       "source": "mercadolibre",
@@ -184,26 +204,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-05-26T02:17:42.542Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila11CHwFF",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sol De Janeiro Brazilian Crush Cheirosa 62 Body Mist 90 Ml",
-      "precio": 41642,
-      "precio_original": 48990,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761836/zerch/melila11CHwFF_1779761835/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNYRb2oGNePgvadXTQ9Wi1Uia8wypReokhwWpqZU2XVhiIsnYcp4gGHlQ47rCr0bqYnHTgH8LM3rVD4OTYDViGSSwgjIDu%2BG1%2BM1AdcTkDxn4QeijGTbJ86xulKFuUoQKdm4Z2AzfU3TQ7bU8ZbYvIHfZLK1z17etHl0lMeYIy1LeJeTAQ4%2BORk13e%2BPPQtzzjUr9slgD6jHqmy9hgmHj8tPCeb%2FTs6CctCPHvLZhm2x4Viblg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-05-26T02:17:20.460Z",
       "instagram_post_id": null
     },
     {
