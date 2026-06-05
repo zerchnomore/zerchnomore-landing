@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:11:22.932Z"
+    "last_updated": "2026-06-05T15:11:56.713Z"
   },
   "productos": [
+    {
+      "id": "melila1HxK1jd",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Juego De Dados Chicharra 46 Piezas Lernen Con Maletín Negro",
+      "precio": 7990,
+      "precio_original": 9990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672311/zerch/melila1HxK1jd_1780672309/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJysLXw9wLpciFOpntbBU3mkSgEVgVoxYNDBTf8P8%2BOusX6ZrDjCQZkMnvxadaAr930d6EP%2BEfh8M9qEpd2kODmCSDxpW4jQykZzphYm%2B8x1nEZ4I0ZUXbGZZlb3TDwL21ruAl76CV16EV6jgb2e3%2FeK9AyKxSIidF7HJ89S%2FvNQ4b9QIOi3z%2FLvZ3nVf2sgqHWF7cWM4FClAkXB%2FX8Hzo%2BZLG0VseRzjhVHpQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:11:56.713Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1Z4uEe5",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T04:31:32.602Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1RirJh5",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Fractal Pistas Cruzadas Juego De Mesa Familiar Party 2 A 6 Jugadores",
-      "precio": 16990,
-      "precio_original": 10126,
-      "descuento": "55% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780633878/zerch/melila1RirJh5_1780633877/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPvSNCNc8jJREahzbzdEyWzDsowS8L7KeItllHeAAP7gp8lGFVCsnA5QEEa6dSanBy089CrwzrogIK8sVs0OuQ4VPx49UZgHd0TKT%2BiKKpDU43X8yNGO4wyE256TkSpUZoylY3h0i7ifbcEh1nwCScnu%2BhN43xng08MfpQ4TffpkM%2B6GPUpVF4hqylmsPKU4nqQ2PEvmfPKMpnYVcCr6dLAXRu%2B%2BWppC3ltBWA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T04:31:22.218Z",
       "instagram_post_id": null
     },
     {
