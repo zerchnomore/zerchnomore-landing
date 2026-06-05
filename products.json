@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:01:18.360Z"
+    "last_updated": "2026-06-05T15:01:33.225Z"
   },
   "productos": [
+    {
+      "id": "melila1BapFeU",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Scrabble Juego De Mesa 2 En 1 Para Niños",
+      "precio": 17591,
+      "precio_original": 18990,
+      "descuento": "7% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780671688/zerch/melila1BapFeU_1780671686/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKx3xuqEnIemsjU41a5WMQBV0nsJ%2BRWs92xN9Wh2yNO4CTQy4Dqisv2QQstQqFXm0kvDWKBqZFHHORY0sBHzdx8E7TbQ0GJGm720faqb3QzOECZ%2F9eYJ%2BkuBWOD3l8T2twwriBQvvgWIAfJxxBUhOXzrJ1tZbS9rXYfAQCMN%2BouL%2FUb1q0xkGSFjYLxEo9odEvgy2K46PYyJqc6%2FBKg%2BZnEdUKEh7cI%2BFWcVaMo9yIDFb5TgNQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:01:33.225Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1anwi3q",
       "source": "mercadolibre",
@@ -84,26 +104,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T04:22:12.773Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1BapFeU",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Scrabble Juego De Mesa 2 En 1 Para Niños",
-      "precio": 16590,
-      "precio_original": 15700,
-      "descuento": "30% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780632805/zerch/melila1BapFeU_1780632804/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKx3xuqEnIemsjU41a5WMQBV0nsJ%2BRWs92xN9Wh2yNO4CTQy4Dqisv2QQstQqFXm0kvDWKBqZFHHORY0sBHzdx8E7TbQ0GJGm720faqb3QzOECZ%2F9eYJ%2BkuBWOD3l8T2twwriBQvvgWIAfJxxBUhOXzrJ1tZbS9rXYfAQCMN%2BouL%2FUb1q0xkGSFjYLxEo9odEvgy2K46PYyJqc6%2FBKg%2BZnEdUKEh7cI%2BFWcVaMo9yIDFb5TgNQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T04:13:28.611Z",
       "instagram_post_id": null
     },
     {
