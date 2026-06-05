@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:01:33.225Z"
+    "last_updated": "2026-06-05T15:01:47.369Z"
   },
   "productos": [
+    {
+      "id": "melila2FJQ1dD",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "The Mind Español Juego De Cartas Fractal Juegos",
+      "precio": 14871,
+      "precio_original": 15990,
+      "descuento": "7% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780671702/zerch/melila2FJQ1dD_1780671700/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMNXgDnT2%2Ban6np5T6QeqD7wXXdahpPz%2FHDd%2BZm6umWuaT%2FQFNWGJ8vEcx%2B0vkDXG85N3FZ1qDQi0iFFLFSND2%2F92tC6QcKTbAG9zqaLHK5RU%2F0FDEZ27J%2B8%2B86PlNukgpVoQg82qCdfqcPT4zBwWJDTU%2FKQAtoc%2B5juSPD35DbFx0YVOXT0T7DF2Q77D89CASd9PbumNTIGgduEiKyb%2Fo7Fvuw1GFcsspjQ9qkq%2F3n5P65OUQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:01:47.368Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1BapFeU",
       "source": "mercadolibre",
@@ -84,26 +104,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T04:31:22.218Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2FJQ1dD",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "The Mind Español Juego De Cartas Fractal Juegos",
-      "precio": 12990,
-      "precio_original": 14990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780633329/zerch/melila2FJQ1dD_1780633328/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMNXgDnT2%2Ban6np5T6QeqD7wXXdahpPz%2FHDd%2BZm6umWuaT%2FQFNWGJ8vEcx%2B0vkDXG85N3FZ1qDQi0iFFLFSND2%2F92tC6QcKTbAG9zqaLHK5RU%2F0FDEZ27J%2B8%2B86PlNukgpVoQg82qCdfqcPT4zBwWJDTU%2FKQAtoc%2B5juSPD35DbFx0YVOXT0T7DF2Q77D89CASd9PbumNTIGgduEiKyb%2Fo7Fvuw1GFcsspjQ9qkq%2F3n5P65OUQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T04:22:12.773Z",
       "instagram_post_id": null
     },
     {
