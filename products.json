@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:11:56.713Z"
+    "last_updated": "2026-06-05T15:12:27.838Z"
   },
   "productos": [
+    {
+      "id": "melila2V2uLzr",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Bicicleta Equilibrio Últra Resistente Lubabycas Verde",
+      "precio": 44990,
+      "precio_original": 99990,
+      "descuento": "55% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672342/zerch/melila2V2uLzr_1780672340/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJxBnhXivS5bV6LhDY3FKxL3rQvGI%2FMtebUuqIA1NU1YY0hypvPcwtIBg5S4GgkroI7lmS1N%2Fy7IxLl%2Fht1HlbGe9Mngw1eEeW5fsqHF6k8lFalG%2Btr13DILm6QJTwJPzPfNSHeZmxH3Xydz2thcObHmEkOnvvJxTqQinvVKyjQAgwQnHnSsLjUr3oIBaUp3UNrnnKNqpF1qhvch%2BYYZB%2BR8QggtryqkGRT2ug%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-05T15:12:27.838Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1HxK1jd",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T15:01:18.360Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2zDzR5C",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Juego De Mesa Cultura Chupística Retos - Ahb Games",
-      "precio": 14993,
-      "precio_original": 19990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780633888/zerch/melila2zDzR5C_1780633887/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLBZZE%2FfxUr7AI5T0fGXa4%2FmP7CshBDT3f4fg9L5R4Ho%2FLe9ePJK7xcZ8Q17gGgDI6hC4acspUiVKLvm6SlAqYLBZ%2BRMRjbEgqEwIE%2FqzOFvqVNp%2FED%2B3jbWpWHIR7hOu19awLWXsYRiZ%2Bjl7gQPbPnxKOXgw77aoFsSzaz8EUXdOHxy%2BOH5kiCRY6adtl8x03%2F7WuVw5yOyfA2A%2BK9EepVk8igYvEfCtVGV7Q%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T04:31:32.602Z",
       "instagram_post_id": null
     },
     {
