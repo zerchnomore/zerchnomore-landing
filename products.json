@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-05T15:13:39.723Z"
+    "last_updated": "2026-06-06T16:36:00.888Z"
   },
   "productos": [
+    {
+      "id": "melila1gtoFaC",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Kit Taladro Destornillador Inalámbrico Lernen 21v + 2 Baterías Color Gris",
+      "precio": 27990,
+      "precio_original": 64990,
+      "descuento": "56% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763756/zerch/melila1gtoFaC_1780763755/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGBgfoUp%2FY2vDimbUnKtCvDgRf%2BJiNJA40vymSuNBU%2FIrvgY1i47IlsRV9AELN6WdfNWxMnXfTFsf3jbylNRg6qyq%2BdpoFH3f3HhrwiGnL1q5Jb%2BHzEX%2Fq3i%2FF2TMQTRQMjDocc5%2Bv%2FhCQf1xh%2FYzNG5p%2F6eb6PjzKqtcMEYv406SSsBWb5n2ZT%2FnPzzGjkScx4JqUgNt%2BQZy4idm2f7gAehq8aE0%2Fu874geNQ%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-06T16:36:00.888Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila16H5Yyz",
       "source": "mercadolibre",
