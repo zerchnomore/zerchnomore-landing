@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T16:37:09.608Z"
+    "last_updated": "2026-06-06T16:37:22.640Z"
   },
   "productos": [
+    {
+      "id": "melila1Z4uEe5",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Calienta Cama Eléctrico 1 Plaza 80x150cm Blanco",
+      "precio": 7389,
+      "precio_original": 7618,
+      "descuento": "3% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763835/zerch/melila1Z4uEe5_1780763834/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAFq4hHbgItdTpkeMcMxa%2BTblKGaJ4oWlKY4zxixR01aMSA8%2BJcL5AoDJ7QQ7VT1LanrKuNomprFSCuFAgHXswYCIoCAGBobi7kEHWkv8II3zFjIhMFtMtK9DXLPmxCNbUItQpdc4BSC2s8d3cTYqmMlp2qQ1DDYOM%2Bhlv%2F4W7JzDRxy0367F0o3Ct3YsfYoEgkfCggc4wxsB3B96YM8Tijhh1UUcwuDLAfOXA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T16:37:22.640Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila16H5Yyz",
       "source": "mercadolibre",
@@ -164,26 +184,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T15:11:56.713Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1Z4uEe5",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Calienta Cama Eléctrico 1 Plaza 80x150cm Blanco",
-      "precio": 7389,
-      "precio_original": 7618,
-      "descuento": "3% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672278/zerch/melila1Z4uEe5_1780672276/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAFq4hHbgItdTpkeMcMxa%2BTblKGaJ4oWlKY4zxixR01aMSA8%2BJcL5AoDJ7QQ7VT1LanrKuNomprFSCuFAgHXswYCIoCAGBobi7kEHWkv8II3zFjIhMFtMtK9DXLPmxCNbUItQpdc4BSC2s8d3cTYqmMlp2qQ1DDYOM%2Bhlv%2F4W7JzDRxy0367F0o3Ct3YsfYoEgkfCggc4wxsB3B96YM8Tijhh1UUcwuDLAfOXA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T15:11:22.931Z",
       "instagram_post_id": null
     },
     {
