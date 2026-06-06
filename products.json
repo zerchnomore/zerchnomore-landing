@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T21:48:03.204Z"
+    "last_updated": "2026-06-06T21:52:44.514Z"
   },
   "productos": [
+    {
+      "id": "melila17D3CTV",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Audífonos Bluetooth Soundcore By Anker Q30, Cancelación Híbrida De Ruido Activa, Sonido Hi-res, Autonomía De 80h, Modos Multifunción, Diadema Gamer, Almohadillas Suaves, Carga Rápida, Color Negro",
+      "precio": 52990,
+      "precio_original": 159990,
+      "descuento": "66% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780782761/zerch/melila17D3CTV_1780782760/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/17D3CTV",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-06T21:52:44.514Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2RCPp9d",
       "source": "mercadolibre",
@@ -564,26 +584,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-21T11:03:33.096Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3176680276",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Watch8 Galaxy Classic Bluetooth V5.3 Samsung Negro Hybrid Negro Plateado",
-      "precio": null,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779339537/zerch/MLC3176680276/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2wzLBsE",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-21T04:59:01.413Z",
       "instagram_post_id": null
     },
     {
