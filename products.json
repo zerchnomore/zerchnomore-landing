@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T16:44:07.657Z"
+    "last_updated": "2026-06-06T18:00:14.635Z"
   },
   "productos": [
+    {
+      "id": "melila2jDxhCM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
+      "precio": 21990,
+      "precio_original": 59990,
+      "descuento": "63% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780768810/zerch/melila2jDxhCM_1780768809/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEcZ2KopMbYyJ5LH2LHXWgPDQQQsCSfhzDstM0r6rl9t9jiRQScqBtzHyxPomf4dlDvpKPzaKa9uPBW%2FsZG9blNJiWFo89dn0XtV%2BcMSOiWvAHV9fNIepcHvCN7XrT%2FIY8tuMUkiPkaw4OCVahK73bY46%2FwHhlVJfDcVeAYka4WV%2Bk510JAo%2Fh3i2PXbLbZvho25hNjjo7EiuJilrGqC6a%2F5cub9xsfZozcrHg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T18:00:14.634Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila25Hn64a",
       "source": "mercadolibre",
@@ -164,26 +184,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T15:12:27.838Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1HxK1jd",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Juego De Dados Chicharra 46 Piezas Lernen Con Maletín Negro",
-      "precio": 7990,
-      "precio_original": 9990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780672311/zerch/melila1HxK1jd_1780672309/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJysLXw9wLpciFOpntbBU3mkSgEVgVoxYNDBTf8P8%2BOusX6ZrDjCQZkMnvxadaAr930d6EP%2BEfh8M9qEpd2kODmCSDxpW4jQykZzphYm%2B8x1nEZ4I0ZUXbGZZlb3TDwL21ruAl76CV16EV6jgb2e3%2FeK9AyKxSIidF7HJ89S%2FvNQ4b9QIOi3z%2FLvZ3nVf2sgqHWF7cWM4FClAkXB%2FX8Hzo%2BZLG0VseRzjhVHpQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T15:11:56.713Z",
       "instagram_post_id": null
     },
     {
