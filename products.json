@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T20:40:36.904Z"
+    "last_updated": "2026-06-06T21:22:19.997Z"
   },
   "productos": [
+    {
+      "id": "melila1bdSprG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cargador Portátil Power Bank Anker Laptop, 25000mah 165w, 3 Puertos Usb-c, Pantalla Inteligente, Carga Rápida Para Mac, Dell Xps, Thinkpad, iPhone, iPad, Samsung Y Más, Para Viajes Y Trabajo Negro",
+      "precio": 77990,
+      "precio_original": 149990,
+      "descuento": "48% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780780936/zerch/melila1bdSprG_1780780935/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1bdSprG",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-06T21:22:19.996Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1CNRTfe",
       "source": "mercadolibre",
@@ -584,23 +604,6 @@
       "categoria_id": "jardin",
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-20T03:33:34.646Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1494906071",
-      "titulo": "Parlante Jbl Charge 5 Jblcharge5 Portátil Con Bluetooth Waterproof Black",
-      "precio": 189990,
-      "precio_original": 189990,
-      "descuento": "15% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 1539,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218590/zerch/MLC1494906071/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1494906071",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-19T19:23:15.525Z",
       "instagram_post_id": null
     },
     {
