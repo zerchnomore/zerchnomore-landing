@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T16:36:00.888Z"
+    "last_updated": "2026-06-06T16:36:10.532Z"
   },
   "productos": [
+    {
+      "id": "melila25Hn64a",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Polera Premium Algodón 100% Manga Corta Basico Estampar",
+      "precio": 4645,
+      "precio_original": 8150,
+      "descuento": "43% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763766/zerch/melila25Hn64a_1780763765/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMswi6h%2FAqr6nvvxB3m%2F6sqdTNDwX6CFSbpcoSdiVdzNjhZ8GkSCibp%2FokEOsluil%2FLindcMXmKkhtoaKSacoifd8nrvk4PE84EqiGT3GTb6iaomcCOkOGsDTnfaHZIjcKn%2B0c1For8PhejoDa35X%2BxdnatbAasVoutUba4iaCV7OG3X1do22dbIPHfubn3LBF0pzA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T16:36:10.531Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1gtoFaC",
       "source": "mercadolibre",
@@ -164,26 +184,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-05T15:10:14.237Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2FJQ1dD",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "The Mind Español Juego De Cartas Fractal Juegos",
-      "precio": 14871,
-      "precio_original": 15990,
-      "descuento": "7% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780671702/zerch/melila2FJQ1dD_1780671700/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMNXgDnT2%2Ban6np5T6QeqD7wXXdahpPz%2FHDd%2BZm6umWuaT%2FQFNWGJ8vEcx%2B0vkDXG85N3FZ1qDQi0iFFLFSND2%2F92tC6QcKTbAG9zqaLHK5RU%2F0FDEZ27J%2B8%2B86PlNukgpVoQg82qCdfqcPT4zBwWJDTU%2FKQAtoc%2B5juSPD35DbFx0YVOXT0T7DF2Q77D89CASd9PbumNTIGgduEiKyb%2Fo7Fvuw1GFcsspjQ9qkq%2F3n5P65OUQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-05T15:01:47.368Z",
       "instagram_post_id": null
     },
     {
