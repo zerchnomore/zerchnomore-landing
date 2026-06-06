@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T20:10:41.137Z"
+    "last_updated": "2026-06-06T20:40:36.904Z"
   },
   "productos": [
+    {
+      "id": "melila1CNRTfe",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Audífonos Bluetooth Soundcore Liberty 5, Hi-res, Audio Con Dolby Y Ldac, Anc 3.0, 48h Autonomía, Carga Rápida E Inalámbrica, 6 Micrófonos Con Ia, Resistencia Al Agua Ip55, Bluetooeh 5.3, Negro",
+      "precio": 67890,
+      "precio_original": 129990,
+      "descuento": "47% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780778432/zerch/melila1CNRTfe_1780778432/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1CNRTfe",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-06T20:40:36.903Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2LzRHmn",
       "source": "mercadolibre",
@@ -598,23 +618,6 @@
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-19T19:23:04.897Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC1509647599",
-      "titulo": "Smartwatch Samsung Galaxy Watch 7 44mm Bluetooth Ai Color Plateado Blanca Mesh Plateada",
-      "precio": 379990,
-      "precio_original": 379990,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 99,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218569/zerch/MLC1509647599/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1509647599",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-19T19:22:55.345Z",
       "instagram_post_id": null
     },
     {
