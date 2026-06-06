@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T19:54:30.344Z"
+    "last_updated": "2026-06-06T19:56:58.308Z"
   },
   "productos": [
+    {
+      "id": "melila1g4EdW7",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Zapatilla Puma Rebound V6 Low Negro Hombre",
+      "precio": 24990,
+      "precio_original": 49990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780775811/zerch/melila1g4EdW7_1780775810/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BAvBzAqQai6Vog%2FGp2bCIIZKf1K8W7M6QW78uSfZbJBkw5RSo1D9OJkA%2BtYvGmMq9zL9ReJDgwL6%2Fz1Bf2xH7xA6vL7dv7ifkLzR9V%2B%2BIBBncUAnnCrF90ehc5VpGBiLkxMd6fwXGra%2Bgka0d%2BcYmymIjaDbsDkoWKWWHvxXO8JMUAjvkaWPxZKpkH06r5pJUgMq2w%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T19:56:58.307Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2QYykf3",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T16:37:09.607Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2pVb7Jx",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Secadora Eléctrica 10kg Blanca Midea Md100a100/w2 Color Blanco",
-      "precio": 169990,
-      "precio_original": 259990,
-      "descuento": "34% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763811/zerch/melila2pVb7Jx_1780763810/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL6a5wvzh%2BYDbVmZH1ND2x0uhtBy8gMwktsdVmb6Q%2F8QGwferNWFAQpaaHJoEWbf0swHo%2FMN8UkFXCbo4ov51wr0VlPOVoXlseDtSJ9qYu8YEBz6eLvW871RJUHwhcrz485T%2BjHrxZl53wgfOCkRT%2BaJw63p1Vd6Bpcw2nzfvXzDVoPt2s2ETZWHlf9RdfUkh9V4OEy12r6zA4ehyW8ahDPQUaV4VsvcMn3RUw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T16:36:58.145Z",
       "instagram_post_id": null
     },
     {
