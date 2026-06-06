@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T21:52:44.514Z"
+    "last_updated": "2026-06-06T21:53:16.826Z"
   },
   "productos": [
+    {
+      "id": "melila1byXXk2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Overol De Trabajo Actium Canvas",
+      "precio": 36850,
+      "precio_original": 52990,
+      "descuento": "30% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780782792/zerch/melila1byXXk2_1780782791/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1byXXk2",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T21:53:16.826Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila17D3CTV",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T18:05:04.358Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2jDxhCM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
-      "precio": 21990,
-      "precio_original": 59990,
-      "descuento": "63% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780768810/zerch/melila2jDxhCM_1780768809/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEcZ2KopMbYyJ5LH2LHXWgPDQQQsCSfhzDstM0r6rl9t9jiRQScqBtzHyxPomf4dlDvpKPzaKa9uPBW%2FsZG9blNJiWFo89dn0XtV%2BcMSOiWvAHV9fNIepcHvCN7XrT%2FIY8tuMUkiPkaw4OCVahK73bY46%2FwHhlVJfDcVeAYka4WV%2Bk510JAo%2Fh3i2PXbLbZvho25hNjjo7EiuJilrGqC6a%2F5cub9xsfZozcrHg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T18:00:14.634Z",
       "instagram_post_id": null
     },
     {
