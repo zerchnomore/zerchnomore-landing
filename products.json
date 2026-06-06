@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T19:56:58.308Z"
+    "last_updated": "2026-06-06T20:00:05.983Z"
   },
   "productos": [
+    {
+      "id": "melila1TxwzYb",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Zapatilla Outdoor Hombre Panama Jack - Pjh0189",
+      "precio": 29990,
+      "precio_original": 39990,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780776002/zerch/melila1TxwzYb_1780776001/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1TxwzYb",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T20:00:05.982Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1g4EdW7",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T16:37:22.640Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila16H5Yyz",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cama Para Perro Gato Grande Mediano Petpal Acolchada Lavable Color L - Azul Negro/azul Skye",
-      "precio": 18490,
-      "precio_original": 41990,
-      "descuento": "55% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763824/zerch/melila16H5Yyz_1780763823/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJXWbcO5K9KcWXRrXg3qZZcEa6sjicX%2FMsf4ShaO3Bntc%2B54lCrDdLPwBTiUvuoNLGth0W3dXxH8Ev1oeavf1hw4xkiOD%2BvLaiclA6y6qrz0sr82Cy42yUH%2FHO25tC25j%2FVY%2BfMalimhYQD1slNBLL%2Bb%2B2CTS7hiG2KhX%2BAjiAQuSj5IhoHYMK%2BZ%2F3aHaRsBAzA8w3J%2FGcHlJ5xoQmdFjtjn2MPrwZup5Bd3Kg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T16:37:09.607Z",
       "instagram_post_id": null
     },
     {
