@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T20:05:31.970Z"
+    "last_updated": "2026-06-06T20:10:41.137Z"
   },
   "productos": [
+    {
+      "id": "melila2LzRHmn",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Jbl Flip 7 Azul Bluetooth",
+      "precio": 96990,
+      "precio_original": 54990,
+      "descuento": "30% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780776636/zerch/melila2LzRHmn_1780776635/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2LzRHmn",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-06T20:10:41.136Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1BRYChM",
       "source": "mercadolibre",
@@ -595,23 +615,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-19T19:22:55.345Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3885415408",
-      "titulo": "Impresora Foto Portable Xiaomi Photo Printer 1s Modelo 2025 Blanco",
-      "precio": 69990,
-      "precio_original": 69990,
-      "descuento": "27% OFF",
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 51,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779144855/zerch/MLC3885415408/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-3885415408",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-18T22:54:18.618Z",
       "instagram_post_id": null
     },
     {
