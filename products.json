@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T21:37:07.784Z"
+    "last_updated": "2026-06-06T21:48:03.204Z"
   },
   "productos": [
+    {
+      "id": "melila2RCPp9d",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
+      "precio": 79990,
+      "precio_original": 199990,
+      "descuento": "60% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780782479/zerch/melila2RCPp9d_1780782478/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2RCPp9d",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T21:48:03.204Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1bdSprG",
       "source": "mercadolibre",
@@ -224,26 +244,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T18:00:14.634Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila25Hn64a",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Polera Premium Algodón 100% Manga Corta Basico Estampar",
-      "precio": 4645,
-      "precio_original": 8150,
-      "descuento": "43% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780764244/zerch/melila25Hn64a_1780764242/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMswi6h%2FAqr6nvvxB3m%2F6sqdTNDwX6CFSbpcoSdiVdzNjhZ8GkSCibp%2FokEOsluil%2FLindcMXmKkhtoaKSacoifd8nrvk4PE84EqiGT3GTb6iaomcCOkOGsDTnfaHZIjcKn%2B0c1For8PhejoDa35X%2BxdnatbAasVoutUba4iaCV7OG3X1do22dbIPHfubn3LBF0pzA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T16:44:07.657Z",
       "instagram_post_id": null
     },
     {
