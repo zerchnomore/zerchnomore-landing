@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T20:00:05.983Z"
+    "last_updated": "2026-06-06T20:05:31.970Z"
   },
   "productos": [
+    {
+      "id": "melila1BRYChM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Audifonos Bluetooth Jbl Tune 770 Nc Azul",
+      "precio": 48990,
+      "precio_original": 99990,
+      "descuento": "51% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780776327/zerch/melila1BRYChM_1780776326/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1BRYChM",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-06T20:05:31.970Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1TxwzYb",
       "source": "mercadolibre",
@@ -592,23 +612,6 @@
       "categoria_id": "tech",
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-05-18T22:54:18.618Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "MLC3360849616",
-      "titulo": "Extensor De Pantalla Para Notebook Portátil 14 Full Hd Windows Negro",
-      "precio": 399990,
-      "precio_original": 399990,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": 4.5,
-      "reviews_count": 2,
-      "vendidos": "+5",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779141418/zerch/MLC3360849616/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-3360849616",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-18T21:57:01.439Z",
       "instagram_post_id": null
     },
     {
