@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-06T18:08:53.691Z"
+    "last_updated": "2026-06-06T19:54:30.344Z"
   },
   "productos": [
+    {
+      "id": "melila2QYykf3",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Colchón Emma Hybrid Premium 2 Plazas Blanco/gris",
+      "precio": 229990,
+      "precio_original": 799967,
+      "descuento": "71% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780775666/zerch/melila2QYykf3_1780775665/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC7HIMVQfgE%2B1OIKm6%2B8WwmYDR4T%2FEUwPMXw2DRlxw4XQg%2BpYFH2VJ37Fi5UdiRnfb6V6LI2VBwzfycj3yczQ0BNc3Lb0XKgjEyuGHeB2u6EMHtRBAargh5k1%2F3i52ZJ%2BORt7Iw3MKb6EplC9BjofknSNrXk1kfR1tu1zFnXiFSoKLhX3aXPRO%2FKhW8Ks3mFeYrMpPAOiUUhP%2BIvY4mOu4x2OgaH%2FLVZqiWT9w%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-06T19:54:30.343Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1kBixFv",
       "source": "mercadolibre",
@@ -144,26 +164,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T16:36:58.145Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2ZL51im",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Maleta Grande Saxoline Onyx Negro Negro",
-      "precio": 71990,
-      "precio_original": 119990,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763776/zerch/melila2ZL51im_1780763775/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMsy9UsF9X3zFOkyLQT1cu1J7PhGRSC7cgj5JNL0pCPd9VREKIoGWQKBpq8w9dyjhxqtxlF%2FLL9xTYIQhIXN7sMzCBYQHaoPmkvKGDzKyu6GtOKULlCi6epIbLpQHrN4mjCAZWuHOAUbMUHmpflymjPPFJIFxFXmZXajp%2FShkajoGPGhqFMY0R7VDaUmuNCClj2TU0sH5z2De649bka7KsStT3msFI8onb0d3%2BE21vj0iQn2",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T16:36:22.553Z",
       "instagram_post_id": null
     },
     {
