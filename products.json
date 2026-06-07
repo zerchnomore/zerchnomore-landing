@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-07T03:29:46.796Z"
+    "last_updated": "2026-06-07T05:04:50.622Z"
   },
   "productos": [
+    {
+      "id": "melila17D3CTV",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Audífonos Bluetooth Soundcore By Anker Q30, Cancelación Híbrida De Ruido Activa, Sonido Hi-res, Autonomía De 80h, Modos Multifunción, Diadema Gamer, Almohadillas Suaves, Carga Rápida, Color Negro",
+      "precio": 52990,
+      "precio_original": 159990,
+      "descuento": "66% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780808686/zerch/melila17D3CTV_1780808685/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBspBdiiyjhqSbG3xUbG7Su4x8J5vSYBiZu7k9rS1GHclrQS4nixMILaFWgjP29G0M7XCSnfrS4EaGv%2FLyMPINHLevtPQ9Weqt%2Bu14NxuvNCvVHixKpotHpGjp1geHAAy1X9t9%2F4E5T2LXTwUx17z5oyMCVCDlQGbLtk8ioMX2ysj822%2FOkRu5y5ZSKfLaY0XLJR%2FuL5qFyOBCArQMEUO53Xmt2LXFLwMsHXBg%3D%3D",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-07T05:04:50.622Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1byXXk2",
       "source": "mercadolibre",
@@ -24,26 +44,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-07T03:29:46.796Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila17D3CTV",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Audífonos Bluetooth Soundcore By Anker Q30, Cancelación Híbrida De Ruido Activa, Sonido Hi-res, Autonomía De 80h, Modos Multifunción, Diadema Gamer, Almohadillas Suaves, Carga Rápida, Color Negro",
-      "precio": 52990,
-      "precio_original": 159990,
-      "descuento": "66% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780782761/zerch/melila17D3CTV_1780782760/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/17D3CTV",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-06T21:52:44.514Z",
       "instagram_post_id": null
     },
     {
