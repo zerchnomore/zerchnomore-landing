@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-10T05:59:10.022Z"
+    "last_updated": "2026-06-10T05:59:34.573Z"
   },
   "productos": [
+    {
+      "id": "melila2tQqJnj",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sandisk Ultra Memoria Micro Sd De 128gb 100mbps",
+      "precio": 26290,
+      "precio_original": 34990,
+      "descuento": "24% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781071171/zerch/melila2tQqJnj_1781071170/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCmQi9sH%2BGlS1hDOcnYXdNNpmOZ3uHH%2Fd80qmHPiZ6mYyjgwpIJ0y3srRfHx6kwoO6u0BS0fCYk1VZkSo4bqVH%2FWJLDuJ0G5V0smBi%2BkC%2FH%2FhDtCLLL2bQ0gi5BHaYXqbK3sW8qPK6F2BcU3HIpTzuIjP9SVvqWgCGqToIdNauIjMwM5xF1rnuAgF5cI3nhfwfNgJYCrjJz7sQgt2HP5JQzI5EBo%2FLLLuzgi852AEZ4%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-10T05:59:34.573Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila2Yo8yo5",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T19:54:30.343Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila1kBixFv",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Trotadora Eléctrica Ten Series Tm60 Plegable 2 Hp 12 Km/h Negro",
-      "precio": 161990,
-      "precio_original": 399990,
-      "descuento": "59% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780769325/zerch/melila1kBixFv_1780769324/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BIwB6ldzuoehLfvpx%2FRnvcULrgoyDAV9j5O11s6YOGuw1IAkzdhk9m3jM3rkZFZXtpIwHa6ZUl64K9mYU6tDp7WWosRB7B2XbJIVPoNjfc0CI7uEPS8pLS%2FAiO6LDmk4YxvrFypWKD28qGEMYOaGWTQtFKp%2FVB5OJnPd1E1QREGc7XNJJY%2BXp78Zgzj%2FZPSEU9LyPSPsfkTk8CQEAH4LpZB3pl9D6h3O%2BOpkpQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T18:08:53.691Z",
       "instagram_post_id": null
     },
     {
