@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-07T05:05:06.538Z"
+    "last_updated": "2026-06-10T05:59:10.022Z"
   },
   "productos": [
+    {
+      "id": "melila2Yo8yo5",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Chaleco Geologo Orbit Reflectante Kbeen Colores Naranja Flourescente 3xl",
+      "precio": 22740,
+      "precio_original": 24990,
+      "descuento": "9% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781071145/zerch/melila2Yo8yo5_1781071144/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNM8GnR1WQTzA9CflfRr%2B8B12Zi9UOsQCzUNtz%2BEqS%2FGZHC4ctzT868uJswy%2F85xXobd0ywpMXdJLW%2FRtrZDBPATJYF2qGQsaLYBxFMe6uuV2eg3wfQwsYwbpifNfjUswvRHHoqUL0MMn5ys1JJJ7IKAdCyZbCsNI0n60ftOmIGprOjQ1C%2BdPulsqGZs%2FpCcT7M7c9RSMgbk%2FdIO01EjKO2%2BktzabtTmSyMCcg%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-10T05:59:10.021Z",
+      "instagram_post_id": null
+    },
     {
       "id": "melila1byXXk2",
       "source": "mercadolibre",
@@ -244,26 +264,6 @@
       "categoria_id": "hogar",
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-06T18:08:53.691Z",
-      "instagram_post_id": null
-    },
-    {
-      "id": "melila2wgdYDC",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Barra De Ejercicios De Pared Atletis 1625250 Color Naranja",
-      "precio": 59990,
-      "precio_original": 139990,
-      "descuento": "57% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780769100/zerch/melila2wgdYDC_1780769099/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BONioqHiR5HKIUQBipfl9IqRikTQCI9ubnvqvWOCSSTNnZZG2kn%2BhS9A3xY2PfdWDT0Jsm7IKNaMB5PNLPDf4HhAVNwoJyWMqdxaM6oxrehQ5Xer2KH84EZM%2Bm4nFCQPLFqv3zvTa6iYGXHK6yv3B3k0HIObVDND8gBqEmfXH%2Fs3Q86si98BuX%2BCdSz5JxckfW5U%2BqTFF5pi1a5aeZVuObGI3%2BtK1yOK4ZksQw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T18:05:04.358Z",
       "instagram_post_id": null
     },
     {
