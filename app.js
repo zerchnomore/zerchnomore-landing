@@ -17,6 +17,7 @@ const CATEGORIES = [
   { id: 'herramientas', label: '🔧 HERRAMIENTAS' },
   { id: 'hogar',        label: '🏠 HOGAR' },
   { id: 'outdoor',      label: '🌲 OUTDOOR' },
+  { id: 'jardin',       label: '🌿 JARDÍN' },
   { id: 'cursos',       label: '📚 CURSOS' }
 ];
 
@@ -37,6 +38,30 @@ function formatPrice(precio, moneda) {
   if (!precio) return '';
   if (moneda === 'CLP') return '$' + precio.toLocaleString('es-CL');
   return precio.toLocaleString();
+}
+
+/**
+ * Descuento VALIDADO: solo se muestra si precio_original existe y es mayor
+ * que el precio actual (hay datos con descuentos inconsistentes en la fuente).
+ * Se calcula desde los precios, no desde el string `descuento`.
+ */
+function validDeal(p) {
+  if (!p.precio || !p.precio_original || p.precio_original <= p.precio) return null;
+  return Math.round((1 - p.precio / p.precio_original) * 100);
+}
+
+function slugify(s) {
+  return String(s || '')
+    .toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 70)
+    .replace(/-+$/g, '');
+}
+
+function productUrl(p) {
+  return `/producto/${p.slug || slugify(p.titulo) || p.id}/`;
 }
 
 function trackClick(productId, link) {
@@ -69,7 +94,8 @@ function renderFeatured(producto) {
   }
 
   const precioFmt = formatPrice(producto.precio, producto.moneda);
-  const precioOrigFmt = producto.precio_original ? formatPrice(producto.precio_original, producto.moneda) : null;
+  const dealPct = validDeal(producto);
+  const precioOrigFmt = dealPct ? formatPrice(producto.precio_original, producto.moneda) : null;
 
   container.innerHTML = `
     <div class="bg-zerch-char rounded-xl overflow-hidden border border-zinc-800">
@@ -82,9 +108,9 @@ function renderFeatured(producto) {
           ${escapeHtml(producto.titulo)}
         </h3>
         <div class="flex items-baseline gap-3 mb-3">
-          ${producto.descuento ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">${escapeHtml(producto.descuento.replace(/\\s*OFF\\s*$/i, '').trim())} OFF</span>` : ''}
+          ${dealPct ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">${dealPct}% OFF</span>` : ''}
           <span class="text-3xl md:text-4xl font-black text-zerch-lime">${precioFmt}</span>
-          ${precioOrigFmt && producto.precio_original > producto.precio ? `<span class="text-zerch-dim line-through text-lg">${precioOrigFmt}</span>` : ''}
+          ${precioOrigFmt ? `<span class="text-zerch-dim line-through text-lg">${precioOrigFmt}</span>` : ''}
         </div>
         ${producto.rating ? `
           <p class="text-zerch-gray text-sm mb-6">
@@ -96,7 +122,8 @@ function renderFeatured(producto) {
           COMPRA AQUÍ →
         </a>
         <p class="text-zerch-dim text-xs text-center mt-3">
-          Te lleva directo a Mercado Libre · #publicidad
+          Te lleva directo a ${escapeHtml(producto.source_label || 'la tienda')} · #publicidad ·
+          <a href="${productUrl(producto)}" class="text-zerch-lime hover:underline">ver ficha completa</a>
         </p>
       </div>
     </div>
@@ -111,10 +138,10 @@ function renderCategoriesNav(productos) {
     if (counts[p.categoria_id] !== undefined) counts[p.categoria_id]++;
   });
 
-  nav.innerHTML = CATEGORIES.map(c => `
+  nav.innerHTML = CATEGORIES.filter(c => counts[c.id] > 0).map(c => `
     <button onclick="filterByCategory('${c.id}')"
             data-cat="${c.id}"
-            class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime transition-all ${counts[c.id] === 0 ? 'opacity-40' : ''}">
+            class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime transition-all">
       ${c.label} <span class="text-zerch-dim">(${counts[c.id]})</span>
     </button>
   `).join('') + `
@@ -141,9 +168,10 @@ function renderProductsList(productos, filter = 'all') {
     return;
   }
 
-  list.innerHTML = filtered.map(p => `
-    <a href="${escapeHtml(p.link)}" target="_blank" rel="noopener nofollow sponsored"
-       onclick="handleProductClick(event, '${escapeHtml(p.id)}', '${escapeHtml(p.link)}')"
+  list.innerHTML = filtered.map(p => {
+    const dealPct = validDeal(p);
+    return `
+    <a href="${productUrl(p)}"
        class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
       <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
         <img src="${escapeHtml(p.imagen)}" alt="${escapeHtml(p.titulo)}"
@@ -155,12 +183,12 @@ function renderProductsList(productos, filter = 'all') {
         </h4>
         <div class="flex items-baseline justify-between">
           <span class="text-zerch-lime font-black text-lg">${formatPrice(p.precio, p.moneda)}</span>
-          ${p.descuento ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">${escapeHtml(p.descuento.replace(/\\s*OFF\\s*$/i, '').trim())} OFF</span>` : ''}
+          ${dealPct ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">${dealPct}% OFF</span>` : ''}
         </div>
         ${p.rating ? `<p class="text-zerch-dim text-xs mt-2">★ ${p.rating.toFixed(1)} · ${p.reviews_count?.toLocaleString('es-CL') || 0} reviews</p>` : ''}
       </div>
-    </a>
-  `).join('');
+    </a>`;
+  }).join('');
 }
 
 // Expongo globalmente para los onclick inline

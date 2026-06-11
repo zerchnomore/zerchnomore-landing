@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página no encontrada | Zerch No More</title>
+<meta name="description" content="Página no encontrada. Mira las ofertas verificadas de Zerch No More en Chile.">
+<link rel="canonical" href="https://zerchnomore.app/404">
+<meta property="og:title" content="Página no encontrada | Zerch No More">
+<meta property="og:description" content="Página no encontrada. Mira las ofertas verificadas de Zerch No More en Chile.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://zerchnomore.app/404">
+
+<meta name="theme-color" content="#0a0a0a">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = { theme: { extend: { colors: {
+    'zerch-bg':'#0a0a0a','zerch-char':'#121212','zerch-lime':'#B7FF2A',
+    'zerch-white':'#F5F5F5','zerch-gray':'#B0B0B0','zerch-dim':'#444'
+  } } } }
+</script>
+<style>
+  body { background:#0a0a0a; color:#F5F5F5; font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif; }
+  .btn-cta { background:#B7FF2A; color:#000; font-weight:900; letter-spacing:0.05em; transition:all .2s; }
+  .btn-cta:hover { background:#fff; transform:scale(1.02); }
+  .product-card { transition:all .2s ease; }
+  .product-card:hover { transform:translateY(-4px); box-shadow:0 20px 40px rgba(183,255,42,.15); }
+</style>
+
+</head>
+<body class="min-h-screen">
+<header class="border-b border-zinc-900 py-6 px-6">
+  <div class="max-w-3xl mx-auto text-center">
+    <a href="/" class="inline-block">
+      <span class="block text-3xl font-black tracking-tight">ZERCH <span class="text-zerch-lime">NO MORE</span></span>
+    </a>
+    <p class="text-zerch-dim text-xs mt-1 tracking-widest">@ZERCH_NOMORE · #PUBLICIDAD</p>
+  </div>
+</header>
+
+<main class="max-w-3xl mx-auto px-6 py-24 text-center">
+  <h1 class="text-5xl font-black text-zerch-white mb-4">404</h1>
+  <p class="text-zerch-gray mb-8">Esa página no existe — pero las ofertas sí.</p>
+  <a href="/" class="btn-cta inline-block px-8 py-4 rounded-full">VER LOS HALLAZGOS →</a>
+  <p class="mt-6"><a href="/top-hallazgos-zerch-chile/" class="text-zerch-lime text-sm hover:underline">⚡ Top hallazgos Zerch Chile</a></p>
+</main>
+<footer class="border-t border-zinc-900 py-10 px-6 mt-12">
+  <div class="max-w-3xl mx-auto text-center">
+    <a href="https://instagram.com/zerch_nomore" target="_blank" rel="noopener" class="inline-block btn-cta px-8 py-4 rounded-full mb-6">📲 SÍGUENOS EN INSTAGRAM →</a>
+    <p class="text-zerch-dim text-xs tracking-widest">ZERCH NO MORE © 2026 · Santiago, Chile</p>
+    <p class="text-zerch-dim text-xs mt-2">#publicidad · Cumplimiento SERNAC Chile · Todos los links de compra son de afiliado</p>
+  </div>
+</footer>
+<script>
+  function zerchTrack(productId, link) {
+    try { navigator.sendBeacon && navigator.sendBeacon('/click', JSON.stringify({ product_id: productId, link: link, timestamp: Date.now() })); } catch (_) {}
+  }
+</script>
+</body>
+</html>
