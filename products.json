@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-10T06:02:56.734Z"
+    "last_updated": "2026-06-13T16:38:55.022Z"
   },
   "productos": [
+    {
+      "id": "melila2bayfiP",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Pack Album + 5 Sobres Fifa World Cup 2026 Panini 35 Laminas",
+      "precio": 19490,
+      "precio_original": 29980,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781368723/zerch/melila2bayfiP_1781368722/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BER64iLN%2BvVfEgFC88shJ9iW7P83T3oRM%2FcNOZPpFhcCT5GgiDEhSoUbp8VrOl0Uiwk7nlnWoCJeEGeGrCUGtUudGIFnRBAyAHjuWC1H3oSEVMtf7ACkrAZvwl9EFCSvUk2JSG05%2FxqtB1deIwlwzWaaHfhs0Ng9QXs5twXw4vvduHgFvlzq%2FWqD2cOhA4EqmJuUZrh%2FxAToLYIAjrcSkHTAUGUkiCVw%2FD3Ao%2FqLMCqPh0qG",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-13T16:38:55.005Z",
+      "instagram_post_id": null,
+      "slug": "pack-album-5-sobres-fifa-world-cup-2026-panini-35-laminas"
+    },
     {
       "id": "melila2tQqJnj",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-06T19:56:58.307Z",
       "instagram_post_id": null,
       "slug": "zapatilla-puma-rebound-v6-low-negro-hombre"
-    },
-    {
-      "id": "melila2QYykf3",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Colchón Emma Hybrid Premium 2 Plazas Blanco/gris",
-      "precio": 229990,
-      "precio_original": 799967,
-      "descuento": "71% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780775666/zerch/melila2QYykf3_1780775665/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC7HIMVQfgE%2B1OIKm6%2B8WwmYDR4T%2FEUwPMXw2DRlxw4XQg%2BpYFH2VJ37Fi5UdiRnfb6V6LI2VBwzfycj3yczQ0BNc3Lb0XKgjEyuGHeB2u6EMHtRBAargh5k1%2F3i52ZJ%2BORt7Iw3MKb6EplC9BjofknSNrXk1kfR1tu1zFnXiFSoKLhX3aXPRO%2FKhW8Ks3mFeYrMpPAOiUUhP%2BIvY4mOu4x2OgaH%2FLVZqiWT9w%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T19:54:30.343Z",
-      "instagram_post_id": null,
-      "slug": "colchon-emma-hybrid-premium-2-plazas-blanco-gris"
     },
     {
       "id": "melila1gtoFaC",
