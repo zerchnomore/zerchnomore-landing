@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-13T16:38:55.022Z"
+    "last_updated": "2026-06-14T13:47:17.370Z"
   },
   "productos": [
+    {
+      "id": "melila1989Er5",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tablet Galaxy A11 Gris 64 Gb - 4 Gb Color Gris Samsung",
+      "precio": 119990,
+      "precio_original": 199990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781444833/zerch/melila1989Er5_1781444830/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDwZOxLiO1AJrFq17m%2BdSHEAa8Tcky9O%2B416bpApcAhv%2BCbZRAf05qH7OFnl7sCun8KP7HHZFcuD6Abwy3i%2Bmfk7H3OvGGFmmuxnZS4RTtO834gpDjiKw9uXkMaH71Ord%2BG1ssNfdYRNHGEEXCp2fNErS7zOxLyDKRtxFxZ9LEaxupabX9kVpL%2F%2Bggov2p50DKdAqtLbWV%2B%2BVMF5QfXUuKtY2birVkzjiHZcfw%3D%3D",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-14T13:47:17.369Z",
+      "instagram_post_id": null,
+      "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung"
+    },
     {
       "id": "melila2bayfiP",
       "source": "mercadolibre",
@@ -593,27 +614,6 @@
       "fecha_publicacion": "2026-05-21T14:48:12.610Z",
       "instagram_post_id": null,
       "slug": "25000lm-linterna-tactica-alta-potencia-con-pantalla-digital-blanco-neg"
-    },
-    {
-      "id": "melila34dWm96",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Notebook Hp Pavilion X360 14-ek1013la Intel Core I3 8gb Ram 512gb Ssd Windows 11 Home Plateado",
-      "precio": 619090,
-      "precio_original": 759990,
-      "descuento": "18% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779361408/zerch/melila34dWm96/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBIskHg2LDPUmf%2B6cHbUqzPhRXLx1SC7dKmdhMdirQBKSibgX1Jf5FHl2FqjLM2pa5%2FiSVjMF36xP08YHijKCYCpZe8dO7RogT6rk3y2FK2zgFLGkqWljFu%2FJwuqQkPvZAn8K7%2FayLZzglmGkST2Ihcjl%2FSyeoextKL%2BEWiB%2BeEZJCggpEPwEH38SDWjLYj9Es7djW0%3D",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-21T11:03:33.096Z",
-      "instagram_post_id": null,
-      "slug": "notebook-hp-pavilion-x360-14-ek1013la-intel-core-i3-8gb-ram-512gb-ssd"
     },
     {
       "id": "FAL150540296",
