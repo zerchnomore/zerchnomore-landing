@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-14T13:58:44.799Z"
+    "last_updated": "2026-06-14T14:14:20.930Z"
   },
   "productos": [
+    {
+      "id": "melila1DQZWqU",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
+      "precio": 249990,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781446456/zerch/melila1DQZWqU_1781446453/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNDDVLVVX%2BbI3JeCEH4FDSMT0jXYKOz2AHTkV0hojhsiOGHXykSUEzKxwPKsvHNBLPM5LrmUFLqdDCYpiCOYa4gxkenHDZM%2Fs2gxnWqksCVNJL0bT595khZoOUuZoKz4dAJ%2FkESwB8ofwIPgC95GX2%2BAcCh1TewxoSQhDWF4NDoPzrKmE4AL5x1KOhwlBUydnStZWcir0XOM5dfhY3%2FO44VkdCiYLUir%2FYEA0A%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-14T14:14:20.929Z",
+      "instagram_post_id": null,
+      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
+    },
     {
       "id": "melila2w9G7pB",
       "source": "mercadolibre",
@@ -670,7 +691,7 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-05-18T17:46:30.304Z",
       "instagram_post_id": null,
-      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
+      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t-MLC3737889686"
     },
     {
       "id": "MLC1948609429",
@@ -707,24 +728,6 @@
       "fecha_publicacion": "2026-05-18T05:26:51.155Z",
       "instagram_post_id": null,
       "slug": "chaqueta-trade-executive-unisex"
-    },
-    {
-      "id": "MLC1570949369",
-      "titulo": "25000lm Linterna Táctica Alta Potencia Con Pantalla Digital Blanco Negro",
-      "precio": 40990,
-      "precio_original": 40990,
-      "descuento": "22% OFF",
-      "moneda": "CLP",
-      "rating": 4.7,
-      "reviews_count": 17,
-      "vendidos": "+50",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779081769/zerch/MLC1570949369/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1570949369",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-05-18T05:22:52.947Z",
-      "instagram_post_id": null,
-      "slug": "25000lm-linterna-tactica-alta-potencia-con-pantalla-digital-blanco-neg-MLC1570949369"
     },
     {
       "id": "MLC2498158802",
