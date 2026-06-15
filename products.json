@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T07:57:31.547Z"
+    "last_updated": "2026-06-15T08:05:54.142Z"
   },
   "productos": [
+    {
+      "id": "MLC3515531814",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tablet Lenovo Ideatab 11 2k mtk D6300 8g 256g 5g+kb+fol+pen Luna Grey",
+      "precio": 308207,
+      "precio_original": 349990,
+      "descuento": "11% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781510756/zerch/MLC3515531814_1781510747/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1NyVHM2",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-15T08:05:54.141Z",
+      "instagram_post_id": null,
+      "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey"
+    },
     {
       "id": "melila1zgNmv2",
       "source": "mercadolibre",
@@ -46,7 +67,7 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-15T07:54:41.430Z",
       "instagram_post_id": null,
-      "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey"
+      "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey-melila1NyVHM2"
     },
     {
       "id": "melila2MrgrW9",
@@ -446,27 +467,6 @@
       "fecha_publicacion": "2026-05-26T02:16:28.604Z",
       "instagram_post_id": null,
       "slug": "manta-aislante-de-aluminio-para-camping-o-picnic-2x2m"
-    },
-    {
-      "id": "melila2keqBTs",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kit Solar Camping Ampolletas Led Fm Tf Rádio Bluetooth Mp3 Negro",
-      "precio": 15398,
-      "precio_original": 69990,
-      "descuento": "78% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779707629/zerch/melila2keqBTs_1779707628/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BMWSOqzrYIlWz4HeSM1YAf32vFOAT%2FAqTdCUULKqYvA4p6nzjAOXfaiWdIBH3BFXpn1Sh5dfsbd48eFxXTwjOm3d%2Bdil8ssjDZPYPAqZDiDJSwziRhCwZYVf5S0%2FjvlIajd8mkwE9HuXv7ZeG0CRAR7t70YcEfUMD9RgusOUleRS%2BdnvElB2slv2ixOZGx2dqAeKLCDheQ4vtEScGsZhIBIKsbTFpsJ6oNelzrjCHDRHEyaR",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-25T11:13:52.626Z",
-      "instagram_post_id": null,
-      "slug": "kit-solar-camping-ampolletas-led-fm-tf-radio-bluetooth-mp3-negro"
     },
     {
       "id": "melila1tUSpQ6",
