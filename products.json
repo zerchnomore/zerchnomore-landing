@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-14T14:14:20.930Z"
+    "last_updated": "2026-06-15T01:09:48.177Z"
   },
   "productos": [
+    {
+      "id": "melila1zgNmv2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 Ml",
+      "precio": 26665,
+      "precio_original": 49990,
+      "descuento": "46% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781485783/zerch/melila1zgNmv2_1781485778/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCaCCMWobrZBGUehgvYuSMHA9B18uAX%2FnCkg1nPooAOvwW4OME3I2e44v0rQP%2FGPETWXq%2BadYw4yAeNwk10QORpnCpq8UvTERnsc1WKVrJZOxeG9syggG2N7R4ZFwsbCuKHg1KjG6TLnX8jOzt%2FG9y172ytE5PrkzhixKkH60chIDHhOUwGwm0VDfi3kJYSDIcg2oCkO5TVzXX%2Bz99N4qLYszXvzuh3fVwLAqQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T01:09:48.177Z",
+      "instagram_post_id": null,
+      "slug": "perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-ml"
+    },
     {
       "id": "melila1DQZWqU",
       "source": "mercadolibre",
@@ -299,27 +320,6 @@
       "fecha_publicacion": "2026-06-06T20:05:31.970Z",
       "instagram_post_id": null,
       "slug": "audifonos-bluetooth-jbl-tune-770-nc-azul"
-    },
-    {
-      "id": "melila1TxwzYb",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Zapatilla Outdoor Hombre Panama Jack - Pjh0189",
-      "precio": 29990,
-      "precio_original": 39990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780776002/zerch/melila1TxwzYb_1780776001/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1TxwzYb",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T20:00:05.982Z",
-      "instagram_post_id": null,
-      "slug": "zapatilla-outdoor-hombre-panama-jack-pjh0189"
     },
     {
       "id": "melila1gtoFaC",
