@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T07:45:15.435Z"
+    "last_updated": "2026-06-15T07:54:41.431Z"
   },
   "productos": [
+    {
+      "id": "melila1NyVHM2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tablet Lenovo Ideatab 11 2k mtk D6300 8g 256g 5g+kb+fol+pen Luna Grey",
+      "precio": 308207,
+      "precio_original": 349990,
+      "descuento": "11% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781510083/zerch/melila1NyVHM2_1781510074/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1NyVHM2",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-15T07:54:41.430Z",
+      "instagram_post_id": null,
+      "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey"
+    },
     {
       "id": "melila2MrgrW9",
       "source": "mercadolibre",
@@ -572,27 +593,6 @@
       "fecha_publicacion": "2026-05-22T19:25:14.280Z",
       "instagram_post_id": null,
       "slug": "guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo"
-    },
-    {
-      "id": "melila28i7Vi3",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cargador Auto Inteligente Batería 12v De Auto",
-      "precio": 9690,
-      "precio_original": 18999,
-      "descuento": "49% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779376492/zerch/melila28i7Vi3/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFWUGJ9J4Z73pIZZT16%2FCSWrBsiERAZ1fYVCr3fDlbk%2B9AwrfKLSBRk7opcIbcJP%2BMD%2BkKUv1nhUbsrBvygKmWDs5PiQ5Smprfz5SwvOIyQNQPx82tEPbwXJNtSEoHaIIXRmxOJcglkRAUz8YYDIhBvCK%2BuBDWOp32jpu4bww3u23tGVxWGF0WKZim6T%2Fb6Y%2Fd6nhd8%3D",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-05-21T15:14:57.154Z",
-      "instagram_post_id": null,
-      "slug": "cargador-auto-inteligente-bateria-12v-de-auto"
     },
     {
       "id": "melila1Gix7Fs",
