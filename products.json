@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T13:58:23.510Z"
+    "last_updated": "2026-06-15T16:04:27.558Z"
   },
   "productos": [
+    {
+      "id": "melila1LVvetv",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cafetera Automática Oster, Primalatte, Roja Bvstem6604r Rojo",
+      "precio": 142490,
+      "precio_original": 189990,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781539476/zerch/melila1LVvetv_1781539461/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDdwacJA8AZd%2FzuL5T0u0Ifbs25m6UEMo%2Fz2HoD0zblNvD1Ie%2BK%2Bp2yyucF4KzE6Gsa30K7m03tok0vWjSwSo7s9J6MbMzstVp1DQKQitPd5Nho6q6Z8W3nGzMk7PJ76y57drM%2BVMPxdXRNTwW6SuGfOkL9xDk5ZcsgVJL5lLkirTmODkHzfd9EX0e9dhWfnpdU%2BLE91AS1294Cuk6MJq8RSit%2FaG%2Bur%2FeItUw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T16:04:27.558Z",
+      "instagram_post_id": null,
+      "slug": "cafetera-automatica-oster-primalatte-roja-bvstem6604r-rojo"
+    },
     {
       "id": "melila1zgNmv2",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-10T05:59:10.021Z",
       "instagram_post_id": null,
       "slug": "chaleco-geologo-orbit-reflectante-kbeen-colores-naranja-flourescente-3"
-    },
-    {
-      "id": "melila1byXXk2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Overol De Trabajo Actium Canvas",
-      "precio": 36850,
-      "precio_original": 52990,
-      "descuento": "30% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780808703/zerch/melila1byXXk2_1780808702/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBhAJl%2FSoHeJUbF7ep2czcWrVUYPMj4fB5WNNr%2BWdnsDzYgMsfpIIcSwjyaZq3u9PMTfJ8mgz1gKF5VF%2BqBaK9geoNkq6AH%2F6kIo8yMTQOS3qsr%2FusmwtNjLsWjQgGcu8sbPSr6Zc3hc106I4ufJ44vV9Po%2BSE8ymMDHj9tD3BZXlv7aNS3HcUvygrodP31f414Z",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-07T05:05:06.537Z",
-      "instagram_post_id": null,
-      "slug": "overol-de-trabajo-actium-canvas"
     },
     {
       "id": "melila17D3CTV",
