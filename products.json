@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T03:26:49.508Z"
+    "last_updated": "2026-06-15T03:35:31.872Z"
   },
   "productos": [
+    {
+      "id": "melila1DQZWqU",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
+      "precio": 249990,
+      "precio_original": 270990,
+      "descuento": "9% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781494530/zerch/melila1DQZWqU_1781494524/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNDDVLVVX%2BbI3JeCEH4FDSMT0jXYKOz2AHTkV0hojhsiOGHXykSUEzKxwPKsvHNBLPM5LrmUFLqdDCYpiCOYa4gxkenHDZM%2Fs2gxnWqksCVNJL0bT595khZoOUuZoKz4dAJ%2FkESwB8ofwIPgC95GX2%2BAcCh1TewxoSQhDWF4NDoPzrKmE4AL5x1KOhwlBUydnStZWcir0XOM5dfhY3%2FO44VkdCiYLUir%2FYEA0A%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-15T03:35:31.872Z",
+      "instagram_post_id": null,
+      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
+    },
     {
       "id": "melila13U2U8E",
       "source": "mercadolibre",
@@ -47,27 +68,6 @@
       "fecha_publicacion": "2026-06-15T01:09:48.177Z",
       "instagram_post_id": null,
       "slug": "perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-ml"
-    },
-    {
-      "id": "melila1DQZWqU",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
-      "precio": 249990,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781446456/zerch/melila1DQZWqU_1781446453/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNDDVLVVX%2BbI3JeCEH4FDSMT0jXYKOz2AHTkV0hojhsiOGHXykSUEzKxwPKsvHNBLPM5LrmUFLqdDCYpiCOYa4gxkenHDZM%2Fs2gxnWqksCVNJL0bT595khZoOUuZoKz4dAJ%2FkESwB8ofwIPgC95GX2%2BAcCh1TewxoSQhDWF4NDoPzrKmE4AL5x1KOhwlBUydnStZWcir0XOM5dfhY3%2FO44VkdCiYLUir%2FYEA0A%3D%3D",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-14T14:14:20.929Z",
-      "instagram_post_id": null,
-      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
     },
     {
       "id": "melila2w9G7pB",
