@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T17:59:58.989Z"
+    "last_updated": "2026-06-15T22:08:42.710Z"
   },
   "productos": [
+    {
+      "id": "MLC24588020",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "SanDisk Ultra Memoria Micro Sd de 128GB 100mbps",
+      "precio": 26524,
+      "precio_original": 41990,
+      "descuento": "23% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781561336/zerch/MLC24588020_1781561316/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1Mm8F8W",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T22:08:42.709Z",
+      "instagram_post_id": null,
+      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
+    },
     {
       "id": "melila1Mm8F8W",
       "source": "mercadolibre",
@@ -25,7 +46,7 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-15T17:59:58.988Z",
       "instagram_post_id": null,
-      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
+      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps-melila1Mm8F8W"
     },
     {
       "id": "melila1LVvetv",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-13T16:38:55.005Z",
       "instagram_post_id": null,
       "slug": "pack-album-5-sobres-fifa-world-cup-2026-panini-35-laminas"
-    },
-    {
-      "id": "melila2tQqJnj",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sandisk Ultra Memoria Micro Sd De 128gb 100mbps",
-      "precio": 26290,
-      "precio_original": 34990,
-      "descuento": "24% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781071373/zerch/melila2tQqJnj_1781071372/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCmQi9sH%2BGlS1hDOcnYXdNNpmOZ3uHH%2Fd80qmHPiZ6mYyjgwpIJ0y3srRfHx6kwoO6u0BS0fCYk1VZkSo4bqVH%2FWJLDuJ0G5V0smBi%2BkC%2FH%2FhDtCLLL2bQ0gi5BHaYXqbK3sW8qPK6F2BcU3HIpTzuIjP9SVvqWgCGqToIdNauIjMwM5xF1rnuAgF5cI3nhfwfNgJYCrjJz7sQgt2HP5JQzI5EBo%2FLLLuzgi852AEZ4%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-10T06:02:56.734Z",
-      "instagram_post_id": null,
-      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps-melila2tQqJnj"
     },
     {
       "id": "melila17D3CTV",
