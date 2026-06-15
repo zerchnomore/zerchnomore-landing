@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T03:35:31.872Z"
+    "last_updated": "2026-06-15T04:03:15.901Z"
   },
   "productos": [
+    {
+      "id": "melila1FvJftH",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Pack 2x Café Frasco De Vidrio Liofilizado Marley Coffee Positive Vibration 100% Arábica Incluye Marley Mug",
+      "precio": 26674,
+      "precio_original": 36970,
+      "descuento": "27% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781496196/zerch/melila1FvJftH_1781496189/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNvjyWtiH2FwU84ALaVE2MrTIGrnz7Pyg%2F6phtFM7c3YQ8PR5N9pdv3SksxXLTFyGhwTSbJdKZwY3jx%2F44QW6e1%2BCKDW9c%2Bw%2BRADKmycISRZXW%2B2l6LeZe%2FlFnmVVDPD4mu2A6ZDN%2B0CulGpcVailcNFS6kQDBpCwnL2RhzrnBa2VxquYTxOypMtT0uoHq9tRuJHW53dtuhG%2Ff5kcmci2fq1ddwxqGlOWr79PA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T04:03:15.900Z",
+      "instagram_post_id": null,
+      "slug": "pack-2x-cafe-frasco-de-vidrio-liofilizado-marley-coffee-positive-vibra"
+    },
     {
       "id": "melila1DQZWqU",
       "source": "mercadolibre",
@@ -215,27 +236,6 @@
       "fecha_publicacion": "2026-06-07T05:04:50.622Z",
       "instagram_post_id": null,
       "slug": "audifonos-bluetooth-soundcore-by-anker-q30-cancelacion-hibrida-de-ruid"
-    },
-    {
-      "id": "melila2RCPp9d",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
-      "precio": 79990,
-      "precio_original": 199990,
-      "descuento": "60% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780782479/zerch/melila2RCPp9d_1780782478/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2RCPp9d",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-06T21:48:03.204Z",
-      "instagram_post_id": null,
-      "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f"
     },
     {
       "id": "melila1bdSprG",
