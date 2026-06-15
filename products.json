@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T16:04:27.558Z"
+    "last_updated": "2026-06-15T17:59:58.989Z"
   },
   "productos": [
+    {
+      "id": "melila1Mm8F8W",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sandisk Ultra Memoria Micro Sd De 128gb 100mbps",
+      "precio": 26290,
+      "precio_original": 34990,
+      "descuento": "24% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781546408/zerch/melila1Mm8F8W_1781546391/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFIK3N9AM6GaepAxiknaWGCaQJykN1PSRfvlIzeXUqYK8fC6SfsTw6zwTPHfzGExT0nrJNh7HMI1dRz5FOW3nCdf%2BED4WZ7TGw%2BMGoKPQP9GIpwW629ZKU%2FKLWAvu%2B0wvcwvJt3skiFsH8eGsE%2BVCVXY%2Byut4MAiOpIMVl%2BMw01jSMY1wqd60TGzaA40ZXhneoZx49aP4%2BfSF3ENZ8hv2yzzt0zXFlFGf7Iw9g%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T17:59:58.988Z",
+      "instagram_post_id": null,
+      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
+    },
     {
       "id": "melila1LVvetv",
       "source": "mercadolibre",
@@ -256,28 +277,7 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-10T06:02:56.734Z",
       "instagram_post_id": null,
-      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
-    },
-    {
-      "id": "melila2Yo8yo5",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Chaleco Geologo Orbit Reflectante Kbeen Colores Naranja Flourescente 3xl",
-      "precio": 22740,
-      "precio_original": 24990,
-      "descuento": "9% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781071145/zerch/melila2Yo8yo5_1781071144/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNM8GnR1WQTzA9CflfRr%2B8B12Zi9UOsQCzUNtz%2BEqS%2FGZHC4ctzT868uJswy%2F85xXobd0ywpMXdJLW%2FRtrZDBPATJYF2qGQsaLYBxFMe6uuV2eg3wfQwsYwbpifNfjUswvRHHoqUL0MMn5ys1JJJ7IKAdCyZbCsNI0n60ftOmIGprOjQ1C%2BdPulsqGZs%2FpCcT7M7c9RSMgbk%2FdIO01EjKO2%2BktzabtTmSyMCcg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-10T05:59:10.021Z",
-      "instagram_post_id": null,
-      "slug": "chaleco-geologo-orbit-reflectante-kbeen-colores-naranja-flourescente-3"
+      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps-melila2tQqJnj"
     },
     {
       "id": "melila17D3CTV",
