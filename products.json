@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T04:03:15.901Z"
+    "last_updated": "2026-06-15T07:45:15.435Z"
   },
   "productos": [
+    {
+      "id": "melila2MrgrW9",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Kit De Internet Via Satélite Starlink Mini Blanco",
+      "precio": 278490,
+      "precio_original": null,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781509516/zerch/melila2MrgrW9_1781509508/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL1gS42LnpeKxwq97cVQki9zW58Oi5enzgU6gA19VAfM%2B6NZoeu9zWqPYGPyeFG7Q1QaJwpIEwb7Hn2ePhbmxPs7CbpDIZgWGxvKO6aXtYw0yAA83SBg%2BsRWnK8PkdjXQL6VFBOQlBRPHr60Ecqj1wjDj0iQgFtbR0%2BjzBufvq5p1J7JVBpzlCWRaZzysMVG%2Ft%2BBzf0%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-06-15T07:45:15.435Z",
+      "instagram_post_id": null,
+      "slug": "kit-de-internet-via-satelite-starlink-mini-blanco"
+    },
     {
       "id": "melila1FvJftH",
       "source": "mercadolibre",
@@ -572,27 +593,6 @@
       "fecha_publicacion": "2026-05-21T15:14:57.154Z",
       "instagram_post_id": null,
       "slug": "cargador-auto-inteligente-bateria-12v-de-auto"
-    },
-    {
-      "id": "melila2MrgrW9",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kit De Internet Via Satélite Starlink Mini Blanco",
-      "precio": 276227,
-      "precio_original": 129900,
-      "descuento": "62% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375921/zerch/melila2MrgrW9/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL1gS42LnpeKxwq97cVQki9zW58Oi5enzgU6gA19VAfM%2B6NZoeu9zWqPYGPyeFG7Q1QaJwpIEwb7Hn2ePhbmxPs7CbpDIZgWGxvKO6aXtYw0yAA83SBg%2BsRWnK8PkdjXQL6VFBOQlBRPHr60Ecqj1wjDj0iQgFtbR0%2BjzBufvq5p1J7JVBpzlCWRaZzysMVG%2Ft%2BBzf0%3D",
-      "categoria_id": "outdoor",
-      "categoria_label": "🌲 OUTDOOR",
-      "fecha_publicacion": "2026-05-21T15:05:25.305Z",
-      "instagram_post_id": null,
-      "slug": "kit-de-internet-via-satelite-starlink-mini-blanco"
     },
     {
       "id": "melila1Gix7Fs",
