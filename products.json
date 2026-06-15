@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T08:05:54.142Z"
+    "last_updated": "2026-06-15T13:58:23.510Z"
   },
   "productos": [
+    {
+      "id": "melila1zgNmv2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 Ml",
+      "precio": 26665,
+      "precio_original": 49990,
+      "descuento": "46% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781531910/zerch/melila1zgNmv2_1781531896/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCaCCMWobrZBGUehgvYuSMHA9B18uAX%2FnCkg1nPooAOvwW4OME3I2e44v0rQP%2FGPETWXq%2BadYw4yAeNwk10QORpnCpq8UvTERnsc1WKVrJZOxeG9syggG2N7R4ZFwsbCuKHg1KjG6TLnX8jOzt%2FG9y172ytE5PrkzhixKkH60chIDHhOUwGwm0VDfi3kJYSDIcg2oCkO5TVzXX%2Bz99N4qLYszXvzuh3fVwLAqQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-15T13:58:23.509Z",
+      "instagram_post_id": null,
+      "slug": "perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-ml"
+    },
     {
       "id": "MLC3515531814",
       "source": "mercadolibre",
@@ -26,27 +47,6 @@
       "fecha_publicacion": "2026-06-15T08:05:54.141Z",
       "instagram_post_id": null,
       "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey"
-    },
-    {
-      "id": "melila1zgNmv2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 Ml",
-      "precio": 26665,
-      "precio_original": 49990,
-      "descuento": "46% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781510253/zerch/melila1zgNmv2_1781510245/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCaCCMWobrZBGUehgvYuSMHA9B18uAX%2FnCkg1nPooAOvwW4OME3I2e44v0rQP%2FGPETWXq%2BadYw4yAeNwk10QORpnCpq8UvTERnsc1WKVrJZOxeG9syggG2N7R4ZFwsbCuKHg1KjG6TLnX8jOzt%2FG9y172ytE5PrkzhixKkH60chIDHhOUwGwm0VDfi3kJYSDIcg2oCkO5TVzXX%2Bz99N4qLYszXvzuh3fVwLAqQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T07:57:31.547Z",
-      "instagram_post_id": null,
-      "slug": "perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-ml"
     },
     {
       "id": "melila1NyVHM2",
