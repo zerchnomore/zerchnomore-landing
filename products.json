@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-16T01:31:15.792Z"
+    "last_updated": "2026-06-16T06:44:20.041Z"
   },
   "productos": [
+    {
+      "id": "AE1005007136766797",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Baseus-Hub de USB-C Dual a Compatible con HDMI 4K 30Hz para Thunderbolt 3/4 40Gbps USB 3,0 tipo C HUB SD TF para MacBook Pro Air USB Hub",
+      "precio": 15400,
+      "precio_original": 16632,
+      "descuento": "7%",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "vendidos": "917 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781592280/zerch/AE1005007136766797_1781592252/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c3SjiJAp",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-16T06:44:20.040Z",
+      "instagram_post_id": null,
+      "slug": "baseus-hub-de-usb-c-dual-a-compatible-con-hdmi-4k-30hz-para-thunderbol"
+    },
     {
       "id": "melila2QYykf3",
       "source": "mercadolibre",
@@ -236,27 +257,6 @@
       "fecha_publicacion": "2026-06-15T07:45:15.435Z",
       "instagram_post_id": null,
       "slug": "kit-de-internet-via-satelite-starlink-mini-blanco"
-    },
-    {
-      "id": "melila1FvJftH",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Pack 2x Café Frasco De Vidrio Liofilizado Marley Coffee Positive Vibration 100% Arábica Incluye Marley Mug",
-      "precio": 26674,
-      "precio_original": 36970,
-      "descuento": "27% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781496196/zerch/melila1FvJftH_1781496189/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNvjyWtiH2FwU84ALaVE2MrTIGrnz7Pyg%2F6phtFM7c3YQ8PR5N9pdv3SksxXLTFyGhwTSbJdKZwY3jx%2F44QW6e1%2BCKDW9c%2Bw%2BRADKmycISRZXW%2B2l6LeZe%2FlFnmVVDPD4mu2A6ZDN%2B0CulGpcVailcNFS6kQDBpCwnL2RhzrnBa2VxquYTxOypMtT0uoHq9tRuJHW53dtuhG%2Ff5kcmci2fq1ddwxqGlOWr79PA%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T04:03:15.900Z",
-      "instagram_post_id": null,
-      "slug": "pack-2x-cafe-frasco-de-vidrio-liofilizado-marley-coffee-positive-vibra"
     },
     {
       "id": "melila1DQZWqU",
