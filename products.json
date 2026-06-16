@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-16T00:04:41.396Z"
+    "last_updated": "2026-06-16T01:31:15.792Z"
   },
   "productos": [
+    {
+      "id": "melila2QYykf3",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Colchón Emma Hybrid Premium 2 Plazas Blanco/gris",
+      "precio": 247990,
+      "precio_original": 799967,
+      "descuento": "69% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781573492/zerch/melila2QYykf3_1781573468/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2QYykf3",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-16T01:31:15.791Z",
+      "instagram_post_id": null,
+      "slug": "colchon-emma-hybrid-premium-2-plazas-blanco-gris"
+    },
     {
       "id": "melila2w9G7pB",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-15T03:35:31.872Z",
       "instagram_post_id": null,
       "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
-    },
-    {
-      "id": "melila13U2U8E",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Navaja Victorinox | Fisherman 1.4733.72 | Color Rojo",
-      "precio": 50118,
-      "precio_original": 53890,
-      "descuento": "7% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781494009/zerch/melila13U2U8E_1781494003/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCz4RKpWSbLSDtTgldjLAfMe7DFDJb50H3ToljpgvfHgj5vvHjJEkxYH%2FNZyppQf%2FGG0xrmGQx4o7j0dHX3mEVgCaHkxOCeO6mUgBRWU65XWx9keYw5SoDoJ6vpe91QsBxS57pEC2ZtphuBYdl4dLMVfX%2FTVjPg0dOutmQPD26%2BGs8akCOOErA9bih%2BOV%2F6zOpD8v%2F7trHqmx0W69VgpFd6Vqn03z77NyLeNtQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T03:26:49.508Z",
-      "instagram_post_id": null,
-      "slug": "navaja-victorinox-fisherman-1-4733-72-color-rojo"
     },
     {
       "id": "melila1989Er5",
