@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-16T06:44:20.041Z"
+    "last_updated": "2026-06-16T07:48:09.714Z"
   },
   "productos": [
+    {
+      "id": "AE1005007308391125",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Ratón Vertical UGREEN inalámbrico Bluetooth5.0 2,4G ergonómico 4000DPI 6 botones silenciosos para MacBook Tablet portátiles ordenador PC ratones",
+      "precio": 20200,
+      "precio_original": 26933,
+      "descuento": "24%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "55 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781596104/zerch/AE1005007308391125_1781596082/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c3jYkXW1",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-16T07:48:09.714Z",
+      "instagram_post_id": null,
+      "slug": "raton-vertical-ugreen-inalambrico-bluetooth5-0-2-4g-ergonomico-4000dpi"
+    },
     {
       "id": "AE1005007136766797",
       "source": "aliexpress",
@@ -383,27 +404,6 @@
       "fecha_publicacion": "2026-06-06T20:10:41.136Z",
       "instagram_post_id": null,
       "slug": "jbl-flip-7-azul-bluetooth"
-    },
-    {
-      "id": "melila1BRYChM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Audifonos Bluetooth Jbl Tune 770 Nc Azul",
-      "precio": 48990,
-      "precio_original": 99990,
-      "descuento": "51% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780776327/zerch/melila1BRYChM_1780776326/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1BRYChM",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-06T20:05:31.970Z",
-      "instagram_post_id": null,
-      "slug": "audifonos-bluetooth-jbl-tune-770-nc-azul"
     },
     {
       "id": "melila1gtoFaC",
