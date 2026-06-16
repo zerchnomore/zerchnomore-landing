@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-15T23:49:33.186Z"
+    "last_updated": "2026-06-16T00:04:41.396Z"
   },
   "productos": [
+    {
+      "id": "melila2w9G7pB",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Televisor Qled 55 Negro 55q6qv 4k Hisense",
+      "precio": 309790,
+      "precio_original": 589990,
+      "descuento": "47% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781568296/zerch/melila2w9G7pB_1781568274/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2w9G7pB",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-16T00:04:41.396Z",
+      "instagram_post_id": null,
+      "slug": "televisor-qled-55-negro-55q6qv-4k-hisense"
+    },
     {
       "id": "melila1sizGXK",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-15T03:26:49.508Z",
       "instagram_post_id": null,
       "slug": "navaja-victorinox-fisherman-1-4733-72-color-rojo"
-    },
-    {
-      "id": "melila2w9G7pB",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Televisor Qled 55 Negro 55q6qv 4k Hisense",
-      "precio": 309790,
-      "precio_original": 589990,
-      "descuento": "47% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781445521/zerch/melila2w9G7pB_1781445518/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BF5UFmv3cXbCOx7C%2Bo145r%2B%2Fwdhg5ogWjXar1WZd%2F8V32mdXETidkZIGUudR2aOxAYULFn%2Be3fXZw3eRROfm%2By7zN1hDyDkLvhO1dqyTAJMwzBhQUJGlQaKA21WFvwU4sajek4bIFwAVq8KlxnsApo9%2BbqNlIXmUcyddXZGJqM%2BFkcT1EibNkNA4sy7P02uZ5hHRTXG%2B%2FuNObaW8MBQsTiSuattzU3QHBBqUXg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-14T13:58:44.799Z",
-      "instagram_post_id": null,
-      "slug": "televisor-qled-55-negro-55q6qv-4k-hisense"
     },
     {
       "id": "melila1989Er5",
