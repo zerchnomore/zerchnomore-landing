@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T15:31:19.582Z"
+    "last_updated": "2026-06-17T16:00:44.976Z"
   },
   "productos": [
+    {
+      "id": "melila1TwRynQ",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Aspiradora Multifunción Metálica Polvo Agua 30 Litros 1500w",
+      "precio": 62555,
+      "precio_original": 99990,
+      "descuento": "37% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781712084/zerch/melila1TwRynQ_1781712038/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGKzSI8IV9i3Cmdx%2BYtQDfb41scZtDyOUkNz3GtsiSrAVDnq%2Bm%2BgkQuv%2BEWO7UTIGNLShF414u1dk5ESkKYLmeXW1chP5irOD5bPU0bafru7NeSLdyioLs9uQY5SVN88x4yo2vLatznFieJzf4WuUoadXnWVPaqvSPejaKSg2BON0y1LXkFOf0E8gadhDvgHBKClfkgqo3EpU9DnTgb9d954C36f%2FmxHNXO6EQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T16:00:44.976Z",
+      "instagram_post_id": null,
+      "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w"
+    },
     {
       "id": "melila23NK8U6",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-16T01:31:15.791Z",
       "instagram_post_id": null,
       "slug": "colchon-emma-hybrid-premium-2-plazas-blanco-gris"
-    },
-    {
-      "id": "melila2w9G7pB",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Televisor Qled 55 Negro 55q6qv 4k Hisense",
-      "precio": 309790,
-      "precio_original": 589990,
-      "descuento": "47% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781568296/zerch/melila2w9G7pB_1781568274/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2w9G7pB",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-16T00:04:41.396Z",
-      "instagram_post_id": null,
-      "slug": "televisor-qled-55-negro-55q6qv-4k-hisense"
     },
     {
       "id": "melila16qcJiV",
