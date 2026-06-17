@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T11:48:10.405Z"
+    "last_updated": "2026-06-17T12:29:23.824Z"
   },
   "productos": [
+    {
+      "id": "melila1xwG8Ge",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
+      "precio": 81990,
+      "precio_original": 199990,
+      "descuento": "59% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781699400/zerch/melila1xwG8Ge_1781699358/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNa7oxntMiL%2F8zuHmHAAQ4kF9uSLxhHRaNbn1V9YHQE8cdYhXXKlBrd%2Fph10YV3MbBrq9CFC5sEKtbY0oo9KireAojEhVaxF%2FR8CSkKY0Qu6UAi7JU0csTv8NJ3QSBVeaQ7FjoainuI8aNTo7PpbUmeLVElgoNOusr0x7aQWiUjmRVTwmBuZIp9PlDcUQDqo1QMJarMYCMtaBTJDIk3JuuOjsMIdNmryjjWZwQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T12:29:23.824Z",
+      "instagram_post_id": null,
+      "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f"
+    },
     {
       "id": "melila1zgNmv2",
       "source": "mercadolibre",
@@ -236,27 +257,6 @@
       "fecha_publicacion": "2026-06-15T23:35:44.625Z",
       "instagram_post_id": null,
       "slug": "soldadora-indura-nanoweld-160-mascara-flame-grado-11-color-verde"
-    },
-    {
-      "id": "MLC24588020",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "SanDisk Ultra Memoria Micro Sd de 128GB 100mbps",
-      "precio": 26524,
-      "precio_original": 41990,
-      "descuento": "23% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781561336/zerch/MLC24588020_1781561316/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1Mm8F8W",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T22:08:42.709Z",
-      "instagram_post_id": null,
-      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
     },
     {
       "id": "MLC3515531814",
