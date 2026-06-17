@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T16:00:44.976Z"
+    "last_updated": "2026-06-17T23:23:49.453Z"
   },
   "productos": [
+    {
+      "id": "melila1HHPgLo",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Hidrolavadora Lernen Hlp-1600 1600w Con Jabonera Espumador 120 Bar Color Amarillo Frecuencia 60 Hz",
+      "precio": 57990,
+      "precio_original": 99990,
+      "descuento": "42% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781738673/zerch/melila1HHPgLo_1781738623/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLT3y1ERhrRclxlasB6xLMY2MIRFnpb47%2BqbR%2BUDqdi384G4lQ%2BymE%2BPAZBiC3SyaR0FgBnn6UeOtMnM6f291zs%2FccLnR4tkLDFry2rBDrS3gR%2FwRC2A03suVYYLXlIbTZ7di4qswSYD6oWP1XT4hE5lR4W%2FgAiEbxZoXNI9pV0a%2BrCWx5ne0Tap2xOZHpTgxv2PL9rldZ0OqojO40hsWS7zT6gMENCxINJl%2FQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T23:23:49.452Z",
+      "instagram_post_id": null,
+      "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col"
+    },
     {
       "id": "melila1TwRynQ",
       "source": "mercadolibre",
@@ -257,27 +278,6 @@
       "fecha_publicacion": "2026-06-16T06:44:20.040Z",
       "instagram_post_id": null,
       "slug": "baseus-hub-de-usb-c-dual-a-compatible-con-hdmi-4k-30hz-para-thunderbol"
-    },
-    {
-      "id": "melila2QYykf3",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Colchón Emma Hybrid Premium 2 Plazas Blanco/gris",
-      "precio": 247990,
-      "precio_original": 799967,
-      "descuento": "69% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781573492/zerch/melila2QYykf3_1781573468/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2QYykf3",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-16T01:31:15.791Z",
-      "instagram_post_id": null,
-      "slug": "colchon-emma-hybrid-premium-2-plazas-blanco-gris"
     },
     {
       "id": "melila16qcJiV",
