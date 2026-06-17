@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T13:19:21.163Z"
+    "last_updated": "2026-06-17T14:50:42.677Z"
   },
   "productos": [
+    {
+      "id": "melila1HxK1jd",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Juego De Dados Chicharra 46 Piezas Lernen Con Maletín Negro",
+      "precio": 7990,
+      "precio_original": 9990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781707879/zerch/melila1HxK1jd_1781707834/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJysLXw9wLpciFOpntbBU3mkSgEVgVoxYNDBTf8P8%2BOusX6ZrDjCQZkMnvxadaAr930d6EP%2BEfh8M9qEpd2kODmCSDxpW4jQykZzphYm%2B8x1nEZ4I0ZUXbGZZlb3TDwL21ruAl76CV16EV6jgb2e3%2FeK9AyKxSIidF7HJ89S%2FvNQ4b9QIOi3z%2FLvZ3nVf2sgqHWF7cWM4FClAkXB%2FX8Hzo%2BZLG0VseRzjhVHpQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T14:50:42.676Z",
+      "instagram_post_id": null,
+      "slug": "juego-de-dados-chicharra-46-piezas-lernen-con-maletin-negro"
+    },
     {
       "id": "melila1ubZasc",
       "source": "mercadolibre",
@@ -236,27 +257,6 @@
       "fecha_publicacion": "2026-06-16T00:04:41.396Z",
       "instagram_post_id": null,
       "slug": "televisor-qled-55-negro-55q6qv-4k-hisense"
-    },
-    {
-      "id": "melila1sizGXK",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Rasuradora Corporal Masculina Mycocos® 4.0 Azul",
-      "precio": 55990,
-      "precio_original": 69990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781567388/zerch/melila1sizGXK_1781567367/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1sizGXK",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T23:49:33.185Z",
-      "instagram_post_id": null,
-      "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul"
     },
     {
       "id": "melila16qcJiV",
