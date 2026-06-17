@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T02:35:02.906Z"
+    "last_updated": "2026-06-17T05:44:05.750Z"
   },
   "productos": [
+    {
+      "id": "melila1zGXboA",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cadenas Para La Nieve,barro Y Hielo Antideslizante Camioneta",
+      "precio": 53290,
+      "precio_original": 58990,
+      "descuento": "9% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781675077/zerch/melila1zGXboA_1781675039/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBIktZGyQAmOkNk505R1Ht4sYfSsnRH5%2B7qG%2Bcco1JbGG2WmLrMWc%2Baj0J4AXHdr7yI2e7qRPJJ1U%2BFw52Haa2cAi37Yda4vN3RmE6CBxtF9%2FSptwYv3EuZhos66KU52lfMVp21oxg1eoOsUSlTm8VZ5jdQ9%2Fs9mXCpb8U%2F4DhfidsLUlOgGhJ3YPMne8CrjTNf1bA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T05:44:05.749Z",
+      "instagram_post_id": null,
+      "slug": "cadenas-para-la-nieve-barro-y-hielo-antideslizante-camioneta"
+    },
     {
       "id": "AE1005009893416972",
       "source": "aliexpress",
@@ -236,27 +257,6 @@
       "fecha_publicacion": "2026-06-15T17:59:58.988Z",
       "instagram_post_id": null,
       "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps-melila1Mm8F8W"
-    },
-    {
-      "id": "melila1LVvetv",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cafetera Automática Oster, Primalatte, Roja Bvstem6604r Rojo",
-      "precio": 142490,
-      "precio_original": 189990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781539476/zerch/melila1LVvetv_1781539461/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDdwacJA8AZd%2FzuL5T0u0Ifbs25m6UEMo%2Fz2HoD0zblNvD1Ie%2BK%2Bp2yyucF4KzE6Gsa30K7m03tok0vWjSwSo7s9J6MbMzstVp1DQKQitPd5Nho6q6Z8W3nGzMk7PJ76y57drM%2BVMPxdXRNTwW6SuGfOkL9xDk5ZcsgVJL5lLkirTmODkHzfd9EX0e9dhWfnpdU%2BLE91AS1294Cuk6MJq8RSit%2FaG%2Bur%2FeItUw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T16:04:27.558Z",
-      "instagram_post_id": null,
-      "slug": "cafetera-automatica-oster-primalatte-roja-bvstem6604r-rojo"
     },
     {
       "id": "MLC3515531814",
