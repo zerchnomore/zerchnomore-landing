@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T11:31:27.179Z"
+    "last_updated": "2026-06-17T11:48:10.405Z"
   },
   "productos": [
+    {
+      "id": "melila1zgNmv2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 Ml",
+      "precio": 26665,
+      "precio_original": 49990,
+      "descuento": "46% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781696927/zerch/melila1zgNmv2_1781696884/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BCaCCMWobrZBGUehgvYuSMHA9B18uAX%2FnCkg1nPooAOvwW4OME3I2e44v0rQP%2FGPETWXq%2BadYw4yAeNwk10QORpnCpq8UvTERnsc1WKVrJZOxeG9syggG2N7R4ZFwsbCuKHg1KjG6TLnX8jOzt%2FG9y172ytE5PrkzhixKkH60chIDHhOUwGwm0VDfi3kJYSDIcg2oCkO5TVzXX%2Bz99N4qLYszXvzuh3fVwLAqQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-17T11:48:10.405Z",
+      "instagram_post_id": null,
+      "slug": "perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-ml"
+    },
     {
       "id": "melila1zGXboA",
       "source": "mercadolibre",
@@ -236,27 +257,6 @@
       "fecha_publicacion": "2026-06-15T22:08:42.709Z",
       "instagram_post_id": null,
       "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps"
-    },
-    {
-      "id": "melila1Mm8F8W",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sandisk Ultra Memoria Micro Sd De 128gb 100mbps",
-      "precio": 26290,
-      "precio_original": 34990,
-      "descuento": "24% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781546408/zerch/melila1Mm8F8W_1781546391/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFIK3N9AM6GaepAxiknaWGCaQJykN1PSRfvlIzeXUqYK8fC6SfsTw6zwTPHfzGExT0nrJNh7HMI1dRz5FOW3nCdf%2BED4WZ7TGw%2BMGoKPQP9GIpwW629ZKU%2FKLWAvu%2B0wvcwvJt3skiFsH8eGsE%2BVCVXY%2Byut4MAiOpIMVl%2BMw01jSMY1wqd60TGzaA40ZXhneoZx49aP4%2BfSF3ENZ8hv2yzzt0zXFlFGf7Iw9g%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-15T17:59:58.988Z",
-      "instagram_post_id": null,
-      "slug": "sandisk-ultra-memoria-micro-sd-de-128gb-100mbps-melila1Mm8F8W"
     },
     {
       "id": "MLC3515531814",
