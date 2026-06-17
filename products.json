@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-17T14:50:42.677Z"
+    "last_updated": "2026-06-17T15:31:19.582Z"
   },
   "productos": [
+    {
+      "id": "melila23NK8U6",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Estación De Energía Portátil Lernen 350w Generador Eléctrico",
+      "precio": 174990,
+      "precio_original": 519990,
+      "descuento": "66% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781710317/zerch/melila23NK8U6_1781710273/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BH5lMtS96rmEY4ild5IuzuUnoOMXB%2BkS%2BFlaNUSjYFlqFynzhmk78h5yfj8GY7rg42uix1Had7oPIQQndq%2B7yv%2BDP9AQTRODuYBFeA1aA5qgBhUni3q%2F7YYvW4%2B01o1HT8HNRAWC2m8E6catPvqlIt6%2F%2BnBi8kZZ0U7EDbLSXcS7uhBIxgSLWuVktLbIOdNm6ltTcuovc89Tj8EtIUsZUGt0y0wesh5b1lot5w%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-17T15:31:19.581Z",
+      "instagram_post_id": null,
+      "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico"
+    },
     {
       "id": "melila1HxK1jd",
       "source": "mercadolibre",
@@ -698,24 +719,6 @@
       "fecha_publicacion": "2026-05-21T14:48:12.610Z",
       "instagram_post_id": null,
       "slug": "25000lm-linterna-tactica-alta-potencia-con-pantalla-digital-blanco-neg"
-    },
-    {
-      "id": "MLC1423099729",
-      "titulo": "Taladro Percutor 340w + Esmeril Angular Dewalt Dck248p1-b2 + Batería 5ah Amarillo",
-      "precio": 529960,
-      "precio_original": 529960,
-      "descuento": "41% OFF",
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 118,
-      "vendidos": "+500",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779218580/zerch/MLC1423099729/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1423099729",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-05-19T19:23:04.897Z",
-      "instagram_post_id": null,
-      "slug": "taladro-percutor-340w-esmeril-angular-dewalt-dck248p1-b2-bateria-5ah-a"
     },
     {
       "id": "MLC1472443623",
