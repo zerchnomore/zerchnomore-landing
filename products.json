@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-18T01:59:11.991Z"
+    "last_updated": "2026-06-18T10:14:24.455Z"
   },
   "productos": [
+    {
+      "id": "melila1FQLD3E",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Fumigadora Pulverizadora De Mochila 16 Litros Lernen Naranja",
+      "precio": 24490,
+      "precio_original": 46990,
+      "descuento": "47% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781777716/zerch/melila1FQLD3E_1781777659/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOGYM7Alh4Y%2BuoeVcL%2BDpx7kwX0Jvlk0oA9ssGsG%2BOUNQmJfFMKS%2FWBe2IhCG0X%2B6d4ZX9LgEQz5ElCUFIp6R1UBh4HdGWf5K7ojfiUcgDbucynQ5AYAfC43rEEE4Ow56dqcEeRIuLakyW3Acd1Jfi9FWscqHSU0z%2B%2FhE0bEwywP1NaG5paPM6l5nodXXT8i8gUu4Qn2D4F2jBJqPW5zVYrs6mNbSBfTlhf21g%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-18T10:14:24.455Z",
+      "instagram_post_id": null,
+      "slug": "fumigadora-pulverizadora-de-mochila-16-litros-lernen-naranja"
+    },
     {
       "id": "melila2JhjxVN",
       "source": "mercadolibre",
@@ -236,27 +254,6 @@
       "fecha_publicacion": "2026-06-17T01:16:14.181Z",
       "instagram_post_id": null,
       "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve"
-    },
-    {
-      "id": "melila2jv4dvv",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Nebulizador Compacto Con Tecnología De Aire Comprimido Inhalador A Pistón Portátil Beurer Ih 15 Blanco Y Azul",
-      "precio": 26038,
-      "precio_original": 51923,
-      "descuento": "49% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781657161/zerch/melila2jv4dvv_1781657126/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHV7Nt1UsYaILPyXOELkp9sq9UQmhlTg%2BuM7d1oSJcq2AfPHy04q5CiH%2FbPZV06ZKZrgOt5LrsrMg2xpkQcWcYI3XHwETDrJigGeRDCGG%2FlkuXxz9%2FVzO4ARvI1TxloHk%2FSiSwunL%2BXjKhDj%2F%2B30IX%2BW7j325i9pfRkaDink4BdQ7XbFJi%2FGSGrQUDq9HadgqP9F3Tll%2Bshv9QVcXaeIx3XL36nXZy2smzQWjg%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-17T00:45:33.651Z",
-      "instagram_post_id": null,
-      "slug": "nebulizador-compacto-con-tecnologia-de-aire-comprimido-inhalador-a-pis"
     },
     {
       "id": "AE1005007308391125",
