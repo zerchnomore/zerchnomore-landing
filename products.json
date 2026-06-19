@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T01:59:13.160Z"
+    "last_updated": "2026-06-19T02:46:50.953Z"
   },
   "productos": [
+    {
+      "id": "melila16L1hsB",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sierra Sable Reciproca Inalámbrica Lernen + 2 Baterías",
+      "precio": 34990,
+      "precio_original": 69990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781837274/zerch/melila16L1hsB_1781837204/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/16L1hsB",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-19T02:46:50.952Z",
+      "instagram_post_id": null,
+      "slug": "sierra-sable-reciproca-inalambrica-lernen-2-baterias"
+    },
     {
       "id": "melila1XGSXFo",
       "source": "mercadolibre",
@@ -26,27 +47,6 @@
       "fecha_publicacion": "2026-06-19T01:59:13.160Z",
       "instagram_post_id": null,
       "slug": "cortacesped-cortadora-de-pasto-electrica-lernen-1400w-30l-cortapasto-n"
-    },
-    {
-      "id": "melila16L1hsB",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sierra Sable Reciproca Inalámbrica Lernen + 2 Baterías",
-      "precio": 34990,
-      "precio_original": 69990,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781787727/zerch/melila16L1hsB_1781787667/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/16L1hsB",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-18T13:01:13.634Z",
-      "instagram_post_id": null,
-      "slug": "sierra-sable-reciproca-inalambrica-lernen-2-baterias"
     },
     {
       "id": "melila1FQLD3E",
