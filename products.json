@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T04:35:45.644Z"
+    "last_updated": "2026-06-19T04:42:47.456Z"
   },
   "productos": [
+    {
+      "id": "melila1xWu4v9",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sandwichera Compacta Oster, Platos Hondos, Negro, Ckstsm400",
+      "precio": 19890,
+      "precio_original": 29990,
+      "descuento": "33% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781844232/zerch/melila1xWu4v9_1781844161/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1xWu4v9",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-19T04:42:47.455Z",
+      "instagram_post_id": null,
+      "slug": "sandwichera-compacta-oster-platos-hondos-negro-ckstsm400"
+    },
     {
       "id": "melila1V27a4L",
       "source": "mercadolibre",
@@ -233,27 +254,6 @@
       "fecha_publicacion": "2026-06-17T13:19:21.163Z",
       "instagram_post_id": null,
       "slug": "kit-taladro-destornillador-inalambrico-lernen-21v-2-baterias-color-gri"
-    },
-    {
-      "id": "melila1xwG8Ge",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
-      "precio": 81990,
-      "precio_original": 199990,
-      "descuento": "59% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781699400/zerch/melila1xwG8Ge_1781699358/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNa7oxntMiL%2F8zuHmHAAQ4kF9uSLxhHRaNbn1V9YHQE8cdYhXXKlBrd%2Fph10YV3MbBrq9CFC5sEKtbY0oo9KireAojEhVaxF%2FR8CSkKY0Qu6UAi7JU0csTv8NJ3QSBVeaQ7FjoainuI8aNTo7PpbUmeLVElgoNOusr0x7aQWiUjmRVTwmBuZIp9PlDcUQDqo1QMJarMYCMtaBTJDIk3JuuOjsMIdNmryjjWZwQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-17T12:29:23.824Z",
-      "instagram_post_id": null,
-      "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f"
     },
     {
       "id": "AE1005009893416972",
