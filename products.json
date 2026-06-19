@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T19:28:31.464Z"
+    "last_updated": "2026-06-19T19:57:49.408Z"
   },
   "productos": [
+    {
+      "id": "melila1KEoJqW",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Calefont Gas Licuado 5 Litros Tiro Natural Essential 5 Eco Blanco Glp",
+      "precio": 99990,
+      "precio_original": 139990,
+      "descuento": "28% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781899144/zerch/melila1KEoJqW_1781899063/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1KEoJqW",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-19T19:57:49.408Z",
+      "instagram_post_id": null,
+      "slug": "calefont-gas-licuado-5-litros-tiro-natural-essential-5-eco-blanco-glp"
+    },
     {
       "id": "melila1HpdxbD",
       "source": "mercadolibre",
@@ -275,27 +293,6 @@
       "fecha_publicacion": "2026-06-17T23:23:49.452Z",
       "instagram_post_id": null,
       "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col"
-    },
-    {
-      "id": "melila1TwRynQ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Aspiradora Multifunción Metálica Polvo Agua 30 Litros 1500w",
-      "precio": 62555,
-      "precio_original": 99990,
-      "descuento": "37% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781712084/zerch/melila1TwRynQ_1781712038/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGKzSI8IV9i3Cmdx%2BYtQDfb41scZtDyOUkNz3GtsiSrAVDnq%2Bm%2BgkQuv%2BEWO7UTIGNLShF414u1dk5ESkKYLmeXW1chP5irOD5bPU0bafru7NeSLdyioLs9uQY5SVN88x4yo2vLatznFieJzf4WuUoadXnWVPaqvSPejaKSg2BON0y1LXkFOf0E8gadhDvgHBKClfkgqo3EpU9DnTgb9d954C36f%2FmxHNXO6EQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-17T16:00:44.976Z",
-      "instagram_post_id": null,
-      "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w"
     },
     {
       "id": "melila23NK8U6",
