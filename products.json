@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T19:57:49.408Z"
+    "last_updated": "2026-06-19T20:12:43.782Z"
   },
   "productos": [
+    {
+      "id": "melila2eGm646",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Dongle Usb Carplay Android Auto Inalámbrico 2 En 1 Wifi 2.4/5g Bluetooth 5.0 800+ Modelos Ota",
+      "precio": 16022,
+      "precio_original": 19990,
+      "descuento": "19% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781900038/zerch/melila2eGm646_1781899957/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2eGm646",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-19T20:12:43.781Z",
+      "instagram_post_id": null,
+      "slug": "dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo"
+    },
     {
       "id": "melila1KEoJqW",
       "source": "mercadolibre",
@@ -545,27 +563,6 @@
       "fecha_publicacion": "2026-06-07T05:04:50.622Z",
       "instagram_post_id": null,
       "slug": "audifonos-bluetooth-soundcore-by-anker-q30-cancelacion-hibrida-de-ruid"
-    },
-    {
-      "id": "melila1bdSprG",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cargador Portátil Power Bank Anker Laptop, 25000mah 165w, 3 Puertos Usb-c, Pantalla Inteligente, Carga Rápida Para Mac, Dell Xps, Thinkpad, iPhone, iPad, Samsung Y Más, Para Viajes Y Trabajo Negro",
-      "precio": 77990,
-      "precio_original": 149990,
-      "descuento": "48% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780781824/zerch/melila1bdSprG_1780781823/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1bdSprG",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-06T21:37:07.783Z",
-      "instagram_post_id": null,
-      "slug": "cargador-portatil-power-bank-anker-laptop-25000mah-165w-3-puertos-usb"
     },
     {
       "id": "melila1gtoFaC",
