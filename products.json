@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T18:09:23.896Z"
+    "last_updated": "2026-06-19T18:48:31.472Z"
   },
   "productos": [
+    {
+      "id": "melila1jiYk4U",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Mochila Impermeable Norplat 90l Para Camping Trekking Viajes Color Negro",
+      "precio": 19980,
+      "precio_original": 25990,
+      "descuento": "10% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781894985/zerch/melila1jiYk4U_1781894905/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1jiYk4U",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-06-19T18:48:31.472Z",
+      "instagram_post_id": null,
+      "slug": "mochila-impermeable-norplat-90l-para-camping-trekking-viajes-color-neg"
+    },
     {
       "id": "melila1ti1YTC",
       "source": "mercadolibre",
@@ -755,24 +776,6 @@
       "fecha_publicacion": "2026-05-18T05:26:51.155Z",
       "instagram_post_id": null,
       "slug": "chaqueta-trade-executive-unisex"
-    },
-    {
-      "id": "MLC2498158802",
-      "titulo": "Navaja Outrider Rojo Victorinox Rojo",
-      "precio": 79900,
-      "precio_original": null,
-      "descuento": null,
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 1,
-      "vendidos": "3",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779081301/zerch/MLC2498158802/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-2498158802",
-      "categoria_id": "outdoor",
-      "categoria_label": "🌲 OUTDOOR",
-      "fecha_publicacion": "2026-05-18T05:15:06.068Z",
-      "instagram_post_id": null,
-      "slug": "navaja-outrider-rojo-victorinox-rojo"
     }
   ]
 }
