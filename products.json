@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T13:45:31.767Z"
+    "last_updated": "2026-06-19T18:09:23.896Z"
   },
   "productos": [
+    {
+      "id": "melila1ti1YTC",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Compresor De Aire Lernen 290 W 120 Psi + 2 Baterías Negro",
+      "precio": 115990,
+      "precio_original": 169990,
+      "descuento": "31% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781892636/zerch/melila1ti1YTC_1781892556/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1ti1YTC",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-19T18:09:23.895Z",
+      "instagram_post_id": null,
+      "slug": "compresor-de-aire-lernen-290-w-120-psi-2-baterias-negro"
+    },
     {
       "id": "melila2vze2MW",
       "source": "mercadolibre",
@@ -569,27 +590,6 @@
       "fecha_publicacion": "2026-05-26T08:05:55.149Z",
       "instagram_post_id": null,
       "slug": "gas-butano-nautika-230grs-para-cocinillas-lamparas-camping"
-    },
-    {
-      "id": "melila2aDaKdF",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Taladro De Rotación 3/8 6413 450watts Makita Color Verde",
-      "precio": 39990,
-      "precio_original": 150541,
-      "descuento": "73% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779782739/zerch/melila2aDaKdF_1779782738/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLFTbMZuqoAsJRkJ7Jl%2Fdw2DRWvEU9viRF0AxRFi4kE4EovvdjFHFUOtY0noCzCDj%2BwJ7eEfCnBVlMHD44fNsdV9tnz4h7b0LMHNpt7TC0WaIyyEIk8LKED2CvQa6tGnSzXkxIrI8dEqhy3dYuzzhi0emscb6JM3pinxbTTILJs1scUmaQTfXUS%2FK%2BPXZRZqNSS5bimTgdfljyAZ%2BMHiKipeibv4M0cxcZmujg%3D%3D",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-05-26T08:05:45.320Z",
-      "instagram_post_id": null,
-      "slug": "taladro-de-rotacion-3-8-6413-450watts-makita-color-verde"
     },
     {
       "id": "melila1faKJRG",
