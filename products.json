@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T03:55:21.748Z"
+    "last_updated": "2026-06-19T04:35:45.644Z"
   },
   "productos": [
+    {
+      "id": "melila1V27a4L",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set Camping Acero Inox Organizador + Cubiertos Completos",
+      "precio": 13440,
+      "precio_original": 17921,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781843811/zerch/melila1V27a4L_1781843740/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1V27a4L",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-06-19T04:35:45.644Z",
+      "instagram_post_id": null,
+      "slug": "set-camping-acero-inox-organizador-cubiertos-completos"
+    },
     {
       "id": "melila2QsMEry",
       "source": "mercadolibre",
