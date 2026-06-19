@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-19T18:48:31.472Z"
+    "last_updated": "2026-06-19T19:07:59.814Z"
   },
   "productos": [
+    {
+      "id": "melila1DVPbMv",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cargador De Batería Auto Y Moto 12v 24v Inteligente J30",
+      "precio": 22831,
+      "precio_original": 28900,
+      "descuento": "21% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781896153/zerch/melila1DVPbMv_1781896073/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1DVPbMv",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-19T19:07:59.813Z",
+      "instagram_post_id": null,
+      "slug": "cargador-de-bateria-auto-y-moto-12v-24v-inteligente-j30"
+    },
     {
       "id": "melila1jiYk4U",
       "source": "mercadolibre",
@@ -548,27 +569,6 @@
       "fecha_publicacion": "2026-06-06T21:37:07.783Z",
       "instagram_post_id": null,
       "slug": "cargador-portatil-power-bank-anker-laptop-25000mah-165w-3-puertos-usb"
-    },
-    {
-      "id": "melila1CNRTfe",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Audífonos Bluetooth Soundcore Liberty 5, Hi-res, Audio Con Dolby Y Ldac, Anc 3.0, 48h Autonomía, Carga Rápida E Inalámbrica, 6 Micrófonos Con Ia, Resistencia Al Agua Ip55, Bluetooeh 5.3, Negro",
-      "precio": 67890,
-      "precio_original": 129990,
-      "descuento": "47% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780778432/zerch/melila1CNRTfe_1780778432/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1CNRTfe",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-06T20:40:36.903Z",
-      "instagram_post_id": null,
-      "slug": "audifonos-bluetooth-soundcore-liberty-5-hi-res-audio-con-dolby-y-ldac"
     },
     {
       "id": "melila1gtoFaC",
