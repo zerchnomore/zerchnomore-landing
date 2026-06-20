@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T21:51:14.871Z"
+    "last_updated": "2026-06-20T21:51:37.093Z"
   },
   "productos": [
+    {
+      "id": "melila11eqkgj",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Foco Led Caza 1800w Largo Alcance Linterna Minera Camping Gris",
+      "precio": 35990,
+      "precio_original": 59990,
+      "descuento": "16% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992389/zerch/melila11eqkgj_1781992291/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDt5sUNuC%2F3PXORuYTwQPDLwUTTWA7CCVFiF7ja0NJKKBcdH5wD9xd81R7Qu8Lzw7uGkI1fLaSQxrPuUGcYH8YMqTMf0X%2F%2FTl2prn9KSiBmSih48x%2BDRVskMb%2BmPpf1jwZ3vEUFryOhYAp6Wxi41MeDw%2B1cBDRR3FREmrpBAc9BDr4qMj0Hxqfq7Af%2FWmFnoHohEh2Xcxo50LNUXWvEvrdOYDBjfQHOVuAIXwwqgn5%2BZP2Po",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-20T21:51:37.093Z",
+      "instagram_post_id": null,
+      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris"
+    },
     {
       "id": "melila2FvXfzH",
       "source": "mercadolibre",
@@ -128,27 +149,6 @@
       "fecha_publicacion": "2026-06-20T21:14:41.771Z",
       "instagram_post_id": null,
       "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home"
-    },
-    {
-      "id": "melila11eqkgj",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Foco Led Caza 1800w Largo Alcance Linterna Minera Camping Gris",
-      "precio": 35990,
-      "precio_original": 59990,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781974846/zerch/melila11eqkgj_1781974751/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/11eqkgj",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-20T16:59:18.202Z",
-      "instagram_post_id": null,
-      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris"
     },
     {
       "id": "melila2tLrGBA",
