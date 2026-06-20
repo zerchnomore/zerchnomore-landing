@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T21:50:53.323Z"
+    "last_updated": "2026-06-20T21:51:14.871Z"
   },
   "productos": [
+    {
+      "id": "melila2FvXfzH",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Nintendo Switch 2 System Negro",
+      "precio": 544574,
+      "precio_original": 629990,
+      "descuento": "13% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992368/zerch/melila2FvXfzH_1781992269/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BIEXXUq%2FJbe8dB3Np3JeV1zKnaVy70l1RH3uwYmqtCCV612fGcdv5KOyD4QCn%2Bkt9%2FV5FiJ5Kgaq1PYuBVtE0kB9cbZrNrVHmz2NiTZWqCTs43Evmdiq6pVoXjN856iuDguGNC%2FViIHsTdRIBs1GyK3OiLZBxjHKNprJ6Cz7%2FHtHi5bt7aRmZYGjhpaLUQG6H2o3zLewI7EFQbKjJINb%2BgvJ5NQ3Us28o00qQ7IvB1I%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-20T21:51:14.870Z",
+      "instagram_post_id": null,
+      "slug": "nintendo-switch-2-system-negro"
+    },
     {
       "id": "melila2bayfiP",
       "source": "mercadolibre",
@@ -128,27 +149,6 @@
       "fecha_publicacion": "2026-06-20T16:59:18.202Z",
       "instagram_post_id": null,
       "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris"
-    },
-    {
-      "id": "melila2FvXfzH",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Nintendo Switch 2 System Negro",
-      "precio": 544574,
-      "precio_original": 629990,
-      "descuento": "13% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781974580/zerch/melila2FvXfzH_1781974485/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2FvXfzH",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-20T16:54:52.293Z",
-      "instagram_post_id": null,
-      "slug": "nintendo-switch-2-system-negro"
     },
     {
       "id": "melila2tLrGBA",
