@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T15:57:33.561Z"
+    "last_updated": "2026-06-20T16:03:52.776Z"
   },
   "productos": [
+    {
+      "id": "melila2KQgjKE",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Silla De Oficina Ejecutiva Altura Ajustable Con Apoya Brazos Color Negro",
+      "precio": 42990,
+      "precio_original": 84990,
+      "descuento": "49% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781971521/zerch/melila2KQgjKE_1781971427/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2KQgjKE",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-20T16:03:52.776Z",
+      "instagram_post_id": null,
+      "slug": "silla-de-oficina-ejecutiva-altura-ajustable-con-apoya-brazos-color-neg"
+    },
     {
       "id": "melila2UX2XJo",
       "source": "mercadolibre",
@@ -293,24 +314,6 @@
       "fecha_publicacion": "2026-06-19T02:46:50.952Z",
       "instagram_post_id": null,
       "slug": "sierra-sable-reciproca-inalambrica-lernen-2-baterias"
-    },
-    {
-      "id": "melila1FQLD3E",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Fumigadora Pulverizadora De Mochila 16 Litros Lernen Naranja",
-      "precio": 24490,
-      "precio_original": 46990,
-      "descuento": "47% OFF",
-      "moneda": "CLP",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781777716/zerch/melila1FQLD3E_1781777659/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOGYM7Alh4Y%2BuoeVcL%2BDpx7kwX0Jvlk0oA9ssGsG%2BOUNQmJfFMKS%2FWBe2IhCG0X%2B6d4ZX9LgEQz5ElCUFIp6R1UBh4HdGWf5K7ojfiUcgDbucynQ5AYAfC43rEEE4Ow56dqcEeRIuLakyW3Acd1Jfi9FWscqHSU0z%2B%2FhE0bEwywP1NaG5paPM6l5nodXXT8i8gUu4Qn2D4F2jBJqPW5zVYrs6mNbSBfTlhf21g%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-18T10:14:24.455Z",
-      "instagram_post_id": null,
-      "slug": "fumigadora-pulverizadora-de-mochila-16-litros-lernen-naranja"
     },
     {
       "id": "melila23NK8U6",
