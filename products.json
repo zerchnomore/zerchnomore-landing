@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T16:03:52.776Z"
+    "last_updated": "2026-06-20T16:13:02.979Z"
   },
   "productos": [
+    {
+      "id": "melila1989Er5",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tablet Galaxy A11 Gris 64 Gb - 4 Gb Color Gris Samsung",
+      "precio": 124990,
+      "precio_original": 199990,
+      "descuento": "28% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781972071/zerch/melila1989Er5_1781971976/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1989Er5",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-20T16:13:02.978Z",
+      "instagram_post_id": null,
+      "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung"
+    },
     {
       "id": "melila2KQgjKE",
       "source": "mercadolibre",
@@ -524,27 +545,6 @@
       "fecha_publicacion": "2026-06-15T03:35:31.872Z",
       "instagram_post_id": null,
       "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
-    },
-    {
-      "id": "melila1989Er5",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Tablet Galaxy A11 Gris 64 Gb - 4 Gb Color Gris Samsung",
-      "precio": 119990,
-      "precio_original": 199990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781444833/zerch/melila1989Er5_1781444830/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDwZOxLiO1AJrFq17m%2BdSHEAa8Tcky9O%2B416bpApcAhv%2BCbZRAf05qH7OFnl7sCun8KP7HHZFcuD6Abwy3i%2Bmfk7H3OvGGFmmuxnZS4RTtO834gpDjiKw9uXkMaH71Ord%2BG1ssNfdYRNHGEEXCp2fNErS7zOxLyDKRtxFxZ9LEaxupabX9kVpL%2F%2Bggov2p50DKdAqtLbWV%2B%2BVMF5QfXUuKtY2birVkzjiHZcfw%3D%3D",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-14T13:47:17.369Z",
-      "instagram_post_id": null,
-      "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung"
     },
     {
       "id": "melila17D3CTV",

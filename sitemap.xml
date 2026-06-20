@@ -43,6 +43,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://zerchnomore.app/producto/tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://zerchnomore.app/producto/silla-de-oficina-ejecutiva-altura-ajustable-con-apoya-brazos-color-neg/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -189,12 +195,6 @@
   <url>
     <loc>https://zerchnomore.app/producto/generador-bencinero-4500w-erux-con-llave-y-control-4t/</loc>
     <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung/</loc>
-    <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
