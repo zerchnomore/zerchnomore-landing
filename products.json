@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T16:14:46.705Z"
+    "last_updated": "2026-06-20T16:54:52.294Z"
   },
   "productos": [
+    {
+      "id": "melila2FvXfzH",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Nintendo Switch 2 System Negro",
+      "precio": 544574,
+      "precio_original": 629990,
+      "descuento": "13% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781974580/zerch/melila2FvXfzH_1781974485/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2FvXfzH",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-20T16:54:52.293Z",
+      "instagram_post_id": null,
+      "slug": "nintendo-switch-2-system-negro"
+    },
     {
       "id": "melila2bayfiP",
       "source": "mercadolibre",
@@ -293,27 +314,6 @@
       "fecha_publicacion": "2026-06-19T04:35:45.644Z",
       "instagram_post_id": null,
       "slug": "set-camping-acero-inox-organizador-cubiertos-completos"
-    },
-    {
-      "id": "melila2QsMEry",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Escalera Telescópica Plegable 2.6 Metros Lernen Color Gris",
-      "precio": 52990,
-      "precio_original": 89990,
-      "descuento": "41% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781841384/zerch/melila2QsMEry_1781841314/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2QsMEry",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-19T03:55:21.748Z",
-      "instagram_post_id": null,
-      "slug": "escalera-telescopica-plegable-2-6-metros-lernen-color-gris"
     },
     {
       "id": "melila16L1hsB",
