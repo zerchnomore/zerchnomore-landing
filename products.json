@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T16:54:52.294Z"
+    "last_updated": "2026-06-20T16:59:18.203Z"
   },
   "productos": [
+    {
+      "id": "melila11eqkgj",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Foco Led Caza 1800w Largo Alcance Linterna Minera Camping Gris",
+      "precio": 35990,
+      "precio_original": 59990,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781974846/zerch/melila11eqkgj_1781974751/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/11eqkgj",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-20T16:59:18.202Z",
+      "instagram_post_id": null,
+      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris"
+    },
     {
       "id": "melila2FvXfzH",
       "source": "mercadolibre",
@@ -566,27 +587,6 @@
       "fecha_publicacion": "2026-06-07T05:04:50.622Z",
       "instagram_post_id": null,
       "slug": "audifonos-bluetooth-soundcore-by-anker-q30-cancelacion-hibrida-de-ruid"
-    },
-    {
-      "id": "melila1gtoFaC",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kit Taladro Destornillador Inalámbrico Lernen 21v + 2 Baterías Color Gris",
-      "precio": 27990,
-      "precio_original": 64990,
-      "descuento": "56% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780763756/zerch/melila1gtoFaC_1780763755/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGBgfoUp%2FY2vDimbUnKtCvDgRf%2BJiNJA40vymSuNBU%2FIrvgY1i47IlsRV9AELN6WdfNWxMnXfTFsf3jbylNRg6qyq%2BdpoFH3f3HhrwiGnL1q5Jb%2BHzEX%2Fq3i%2FF2TMQTRQMjDocc5%2Bv%2FhCQf1xh%2FYzNG5p%2F6eb6PjzKqtcMEYv406SSsBWb5n2ZT%2FnPzzGjkScx4JqUgNt%2BQZy4idm2f7gAehq8aE0%2Fu874geNQ%3D%3D",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-06T16:36:00.888Z",
-      "instagram_post_id": null,
-      "slug": "kit-taladro-destornillador-inalambrico-lernen-21v-2-baterias-color-gri-melila1gtoFaC"
     },
     {
       "id": "melila2KNfTa3",
