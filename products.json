@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T00:56:51.887Z"
+    "last_updated": "2026-06-20T15:57:33.561Z"
   },
   "productos": [
+    {
+      "id": "melila2UX2XJo",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Limpiador A Vapor Pistola Limpieza Alta Presión Blanco",
+      "precio": 39990,
+      "precio_original": 49990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781971141/zerch/melila2UX2XJo_1781971046/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2UX2XJo",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-20T15:57:33.560Z",
+      "instagram_post_id": null,
+      "slug": "limpiador-a-vapor-pistola-limpieza-alta-presion-blanco"
+    },
     {
       "id": "melila2tLrGBA",
       "source": "mercadolibre",
@@ -290,27 +311,6 @@
       "fecha_publicacion": "2026-06-18T10:14:24.455Z",
       "instagram_post_id": null,
       "slug": "fumigadora-pulverizadora-de-mochila-16-litros-lernen-naranja"
-    },
-    {
-      "id": "melila2JhjxVN",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sopladora Inalámbrica Lernen Pro A Batería 21v Color Amarillo",
-      "precio": 48990,
-      "precio_original": 84990,
-      "descuento": "42% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781747998/zerch/melila2JhjxVN_1781747945/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDhy5%2Bfh0m%2FHdlKLNOA0oC76GHJJLJQk7X8nR2kp%2FC0ZP5KdmG2kEBh6qIQZANgjVIgU0bDBD8NzTcrY2PckkVQunCnnG7CFBVeH0FM16Vb3D4hxp%2BjrivPkiVk8DKq35pCkn8s%2ByPy7uRG3rCxa8lW9skTzs2Szx04kdZh4GAbXpyNN5W8FOxYI87%2B058z4yTclRViAT%2BlwcGcvqR1RQHiwaPRCEuhbFT8rwQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-18T01:59:11.991Z",
-      "instagram_post_id": null,
-      "slug": "sopladora-inalambrica-lernen-pro-a-bateria-21v-color-amarillo"
     },
     {
       "id": "melila23NK8U6",
