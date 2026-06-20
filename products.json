@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T16:59:18.203Z"
+    "last_updated": "2026-06-20T21:14:41.771Z"
   },
   "productos": [
+    {
+      "id": "melila1Kk94Vf",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Notebook Hp 15-fc0043la Amd Ryzen 3 8gb Ram 512gb Sssd Windows 11 Home Warm Gold",
+      "precio": 449990,
+      "precio_original": 579990,
+      "descuento": "22% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781990173/zerch/melila1Kk94Vf_1781990075/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC5KGYXHYNdb%2FjAAAcFik0pDoPy0ouM0PrR6RQ5DPsptUMxlaDBv45ELiu2caSu3lbEgESW4FMFnAvtzIBWEBnDSePFEFTJ0bAU4ll6iFBGIO8%2FVzYa2da9U7lHBfhmkchrTTPBd%2BcbaD%2FjAz297UGjyttAYTibBm1qX9xH7RU6mHWfTmfttaNPamyhQmbYYYghffjlh6%2BuUJWRJqbK4KVRpCnt20V7kzCRyEA%3D%3D",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-20T21:14:41.771Z",
+      "instagram_post_id": null,
+      "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home"
+    },
     {
       "id": "melila11eqkgj",
       "source": "mercadolibre",
@@ -566,27 +584,6 @@
       "fecha_publicacion": "2026-06-15T03:35:31.872Z",
       "instagram_post_id": null,
       "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
-    },
-    {
-      "id": "melila17D3CTV",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Audífonos Bluetooth Soundcore By Anker Q30, Cancelación Híbrida De Ruido Activa, Sonido Hi-res, Autonomía De 80h, Modos Multifunción, Diadema Gamer, Almohadillas Suaves, Carga Rápida, Color Negro",
-      "precio": 52990,
-      "precio_original": 159990,
-      "descuento": "66% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1780808686/zerch/melila17D3CTV_1780808685/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBspBdiiyjhqSbG3xUbG7Su4x8J5vSYBiZu7k9rS1GHclrQS4nixMILaFWgjP29G0M7XCSnfrS4EaGv%2FLyMPINHLevtPQ9Weqt%2Bu14NxuvNCvVHixKpotHpGjp1geHAAy1X9t9%2F4E5T2LXTwUx17z5oyMCVCDlQGbLtk8ioMX2ysj822%2FOkRu5y5ZSKfLaY0XLJR%2FuL5qFyOBCArQMEUO53Xmt2LXFLwMsHXBg%3D%3D",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-07T05:04:50.622Z",
-      "instagram_post_id": null,
-      "slug": "audifonos-bluetooth-soundcore-by-anker-q30-cancelacion-hibrida-de-ruid"
     },
     {
       "id": "melila2KNfTa3",

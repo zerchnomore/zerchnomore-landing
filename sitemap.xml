@@ -43,6 +43,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://zerchnomore.app/producto/notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://zerchnomore.app/producto/foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris/</loc>
     <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -201,12 +207,6 @@
   <url>
     <loc>https://zerchnomore.app/producto/generador-bencinero-4500w-erux-con-llave-y-control-4t/</loc>
     <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/audifonos-bluetooth-soundcore-by-anker-q30-cancelacion-hibrida-de-ruid/</loc>
-    <lastmod>2026-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
