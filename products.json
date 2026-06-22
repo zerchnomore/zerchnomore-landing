@@ -3,9 +3,28 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T21:01:24.036Z"
+    "last_updated": "2026-06-22T21:43:55.539Z"
   },
   "productos": [
+    {
+      "id": "AE1005012470878124",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Caja Observadora Transparente para Atrapar Insectos",
+      "precio": 5400,
+      "precio_original": 10810,
+      "descuento": "50%",
+      "moneda": "CLP",
+      "vendidos": "26 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782164758/zerch/AE1005012470878124_1782164628/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4BoCtFr",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T21:43:55.539Z",
+      "instagram_post_id": null,
+      "slug": "caja-observadora-transparente-para-atrapar-insectos"
+    },
     {
       "id": "melila2uoSCrU",
       "source": "mercadolibre",
@@ -170,27 +189,6 @@
       "fecha_publicacion": "2026-06-22T04:52:28.935Z",
       "instagram_post_id": null,
       "slug": "nintendo-switch-2-system-negro"
-    },
-    {
-      "id": "melila2jDxhCM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
-      "precio": 28990,
-      "precio_original": 59990,
-      "descuento": "51% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782103601/zerch/melila2jDxhCM_1782103483/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2jDxhCM",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T04:44:49.120Z",
-      "instagram_post_id": null,
-      "slug": "creatine-100-pure-monohydrate-1kg-foodtech-sin-sabor"
     },
     {
       "id": "melila1DVPbMv",
