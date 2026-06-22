@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T03:12:16.577Z"
+    "last_updated": "2026-06-22T03:40:35.922Z"
   },
   "productos": [
+    {
+      "id": "melila1DVPbMv",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Rápida Cargador De Batería Auto Y Moto 12v 24v Inteligent Anhtczyx J30 Rojo",
+      "precio": 22831,
+      "precio_original": 28900,
+      "descuento": "21% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782099747/zerch/melila1DVPbMv_1782099629/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1DVPbMv",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-22T03:40:35.922Z",
+      "instagram_post_id": null,
+      "slug": "rapida-cargador-de-bateria-auto-y-moto-12v-24v-inteligent-anhtczyx-j30"
+    },
     {
       "id": "melila1Kk94Vf",
       "source": "mercadolibre",
@@ -248,27 +266,6 @@
       "fecha_publicacion": "2026-06-19T19:28:31.463Z",
       "instagram_post_id": null,
       "slug": "tensometro-automatico-de-brazo-beurer-bm-25"
-    },
-    {
-      "id": "melila1DVPbMv",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Cargador De Batería Auto Y Moto 12v 24v Inteligente J30",
-      "precio": 22831,
-      "precio_original": 28900,
-      "descuento": "21% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781896153/zerch/melila1DVPbMv_1781896073/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1DVPbMv",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-19T19:07:59.813Z",
-      "instagram_post_id": null,
-      "slug": "cargador-de-bateria-auto-y-moto-12v-24v-inteligente-j30"
     },
     {
       "id": "melila1jiYk4U",
