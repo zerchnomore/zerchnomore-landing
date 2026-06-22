@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T03:40:35.922Z"
+    "last_updated": "2026-06-22T03:59:59.339Z"
   },
   "productos": [
+    {
+      "id": "melila2GgJBaN",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Termoventilador Mademsa 1800w 2 Velocidades Termostato Tv300 Blanco",
+      "precio": 15511,
+      "precio_original": 24990,
+      "descuento": "37% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782100911/zerch/melila2GgJBaN_1782100793/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2GgJBaN",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T03:59:59.338Z",
+      "instagram_post_id": null,
+      "slug": "termoventilador-mademsa-1800w-2-velocidades-termostato-tv300-blanco"
+    },
     {
       "id": "melila1DVPbMv",
       "source": "mercadolibre",
@@ -245,27 +263,6 @@
       "fecha_publicacion": "2026-06-19T19:57:49.408Z",
       "instagram_post_id": null,
       "slug": "calefont-gas-licuado-5-litros-tiro-natural-essential-5-eco-blanco-glp"
-    },
-    {
-      "id": "melila1HpdxbD",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Tensómetro Automático De Brazo Beurer BM 25",
-      "precio": 21714,
-      "precio_original": 36879,
-      "descuento": "41% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781897386/zerch/melila1HpdxbD_1781897305/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1HpdxbD",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-19T19:28:31.463Z",
-      "instagram_post_id": null,
-      "slug": "tensometro-automatico-de-brazo-beurer-bm-25"
     },
     {
       "id": "melila1jiYk4U",
