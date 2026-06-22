@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T04:52:28.936Z"
+    "last_updated": "2026-06-22T12:43:28.180Z"
   },
   "productos": [
+    {
+      "id": "AE1005005139432408",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Martillo de acero con alto contenido de carbono, alicates, cuchillo de utilidad, cinta métrica, herramientas de reparación de carpintero, herramientas manuales para el hogar, 1 pieza",
+      "precio": 3266,
+      "precio_original": 9333,
+      "descuento": "65%",
+      "moneda": "CLP",
+      "rating": 4.6,
+      "reviews_count": 0,
+      "vendidos": "419 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782132325/zerch/AE1005005139432408_1782132201/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c33gn9IN",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-22T12:43:28.179Z",
+      "instagram_post_id": null,
+      "slug": "martillo-de-acero-con-alto-contenido-de-carbono-alicates-cuchillo-de-u"
+    },
     {
       "id": "melila17YY4YM",
       "source": "mercadolibre",
@@ -560,27 +581,6 @@
       "fecha_publicacion": "2026-06-15T07:45:15.435Z",
       "instagram_post_id": null,
       "slug": "kit-de-internet-via-satelite-starlink-mini-blanco"
-    },
-    {
-      "id": "melila1DQZWqU",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Generador Bencinero 4500w Erux Con Llave Y Control 4t",
-      "precio": 249990,
-      "precio_original": 270990,
-      "descuento": "9% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781494530/zerch/melila1DQZWqU_1781494524/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNDDVLVVX%2BbI3JeCEH4FDSMT0jXYKOz2AHTkV0hojhsiOGHXykSUEzKxwPKsvHNBLPM5LrmUFLqdDCYpiCOYa4gxkenHDZM%2Fs2gxnWqksCVNJL0bT595khZoOUuZoKz4dAJ%2FkESwB8ofwIPgC95GX2%2BAcCh1TewxoSQhDWF4NDoPzrKmE4AL5x1KOhwlBUydnStZWcir0XOM5dfhY3%2FO44VkdCiYLUir%2FYEA0A%3D%3D",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-15T03:35:31.872Z",
-      "instagram_post_id": null,
-      "slug": "generador-bencinero-4500w-erux-con-llave-y-control-4t"
     },
     {
       "id": "melila2KNfTa3",
