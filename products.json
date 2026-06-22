@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-20T21:51:37.093Z"
+    "last_updated": "2026-06-22T01:51:16.318Z"
   },
   "productos": [
+    {
+      "id": "melila2EymGwk",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Billetera Y Tarjetero | Modelo Deluxe Xclusive | Color Dorado Con Protección Rfid",
+      "precio": 24990,
+      "precio_original": 25990,
+      "descuento": "5% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782093184/zerch/melila2EymGwk_1782093067/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2EymGwk",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T01:51:16.318Z",
+      "instagram_post_id": null,
+      "slug": "billetera-y-tarjetero-modelo-deluxe-xclusive-color-dorado-con-protecci"
+    },
     {
       "id": "melila11eqkgj",
       "source": "mercadolibre",
@@ -311,27 +332,6 @@
       "fecha_publicacion": "2026-06-19T13:45:31.766Z",
       "instagram_post_id": null,
       "slug": "kit-herramientas-de-supervivencia-camping"
-    },
-    {
-      "id": "melila1xWu4v9",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sandwichera Compacta Oster, Platos Hondos, Negro, Ckstsm400",
-      "precio": 19890,
-      "precio_original": 29990,
-      "descuento": "33% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781844232/zerch/melila1xWu4v9_1781844161/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1xWu4v9",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-19T04:42:47.455Z",
-      "instagram_post_id": null,
-      "slug": "sandwichera-compacta-oster-platos-hondos-negro-ckstsm400"
     },
     {
       "id": "melila1V27a4L",
