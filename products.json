@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T18:23:10.710Z"
+    "last_updated": "2026-06-22T19:04:04.270Z"
   },
   "productos": [
+    {
+      "id": "melila2n9KwYF",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Ratón Inalámbrico Anillo Para Dedo 2.4GHz",
+      "precio": 6663,
+      "precio_original": 31154,
+      "descuento": "27% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782155165/zerch/melila2n9KwYF_1782155037/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2n9KwYF",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T19:04:04.269Z",
+      "instagram_post_id": null,
+      "slug": "raton-inalambrico-anillo-para-dedo-2-4ghz"
+    },
     {
       "id": "melila2mjbR8x",
       "source": "mercadolibre",
@@ -173,27 +194,6 @@
       "fecha_publicacion": "2026-06-22T04:37:20.264Z",
       "instagram_post_id": null,
       "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro"
-    },
-    {
-      "id": "melila2BSqnmJ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Set 5 Bandas Elasticas Resistencia Con Accesorios Gym Multi",
-      "precio": 13990,
-      "precio_original": 18990,
-      "descuento": "26% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782102993/zerch/melila2BSqnmJ_1782102874/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2BSqnmJ",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T04:34:40.828Z",
-      "instagram_post_id": null,
-      "slug": "set-5-bandas-elasticas-resistencia-con-accesorios-gym-multi"
     },
     {
       "id": "melila1DVPbMv",
