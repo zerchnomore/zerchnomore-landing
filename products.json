@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T04:15:43.654Z"
+    "last_updated": "2026-06-22T04:34:40.829Z"
   },
   "productos": [
+    {
+      "id": "melila2BSqnmJ",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set 5 Bandas Elasticas Resistencia Con Accesorios Gym Multi",
+      "precio": 13990,
+      "precio_original": 18990,
+      "descuento": "26% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782102993/zerch/melila2BSqnmJ_1782102874/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2BSqnmJ",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T04:34:40.828Z",
+      "instagram_post_id": null,
+      "slug": "set-5-bandas-elasticas-resistencia-con-accesorios-gym-multi"
+    },
     {
       "id": "melila2RVgJfk",
       "source": "mercadolibre",
@@ -227,27 +248,6 @@
       "fecha_publicacion": "2026-06-20T21:47:51.685Z",
       "instagram_post_id": null,
       "slug": "limpiador-a-vapor-pistola-limpieza-alta-presion-blanco"
-    },
-    {
-      "id": "melila2tLrGBA",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Baofeng Radio Transmisor 2 Vías Bf-888s Negro Uhf",
-      "precio": 12627,
-      "precio_original": 16990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781917089/zerch/melila2tLrGBA_1781917004/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2tLrGBA",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-20T00:56:51.886Z",
-      "instagram_post_id": null,
-      "slug": "baofeng-radio-transmisor-2-vias-bf-888s-negro-uhf"
     },
     {
       "id": "melila2eGm646",
