@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T04:44:49.120Z"
+    "last_updated": "2026-06-22T04:52:28.936Z"
   },
   "productos": [
+    {
+      "id": "melila17YY4YM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Nintendo Switch 2 System Negro",
+      "precio": 544574,
+      "precio_original": 629990,
+      "descuento": "13% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782104062/zerch/melila17YY4YM_1782103943/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/17YY4YM",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T04:52:28.935Z",
+      "instagram_post_id": null,
+      "slug": "nintendo-switch-2-system-negro"
+    },
     {
       "id": "melila2jDxhCM",
       "source": "mercadolibre",
@@ -205,28 +226,7 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-20T21:51:14.870Z",
       "instagram_post_id": null,
-      "slug": "nintendo-switch-2-system-negro"
-    },
-    {
-      "id": "melila2bayfiP",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Pack Album + 5 Sobres Fifa World Cup 2026 Panini 35 Laminas",
-      "precio": 17790,
-      "precio_original": 19490,
-      "descuento": "8% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992345/zerch/melila2bayfiP_1781992247/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BER64iLN%2BvVfEgFC88shJ9iW7P83T3oRM%2FcNOZPpFhcCT5GgiDEhSoUbp8VrOl0Uiwk7nlnWoCJeEGeGrCUGtUudGIFnRBAyAHjuWC1H3oSEVMtf7ACkrAZvwl9EFCSvUk2JSG05%2FxqtB1deIwlwzWaaHfhs0Ng9QXs5twXw4vvduHgFvlzq%2FWqD2cOhA4EqmJuUZrh%2FxAToLYIAjrcSkHTAUGUkiCVw%2FD3Ao%2FqLMCqPh0qG",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-20T21:50:53.323Z",
-      "instagram_post_id": null,
-      "slug": "pack-album-5-sobres-fifa-world-cup-2026-panini-35-laminas"
+      "slug": "nintendo-switch-2-system-negro-melila2FvXfzH"
     },
     {
       "id": "melila1989Er5",
