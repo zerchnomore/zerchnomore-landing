@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T18:13:57.372Z"
+    "last_updated": "2026-06-22T18:23:10.710Z"
   },
   "productos": [
+    {
+      "id": "melila2mjbR8x",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Sujetadores De Sábana Con Correas Pack X4",
+      "precio": 3290,
+      "precio_original": 5985,
+      "descuento": "45% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782152711/zerch/melila2mjbR8x_1782152583/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2mjbR8x",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T18:23:10.709Z",
+      "instagram_post_id": null,
+      "slug": "sujetadores-de-sabana-con-correas-pack-x4"
+    },
     {
       "id": "melila2jjyeba",
       "source": "mercadolibre",
@@ -173,27 +194,6 @@
       "fecha_publicacion": "2026-06-22T04:34:40.828Z",
       "instagram_post_id": null,
       "slug": "set-5-bandas-elasticas-resistencia-con-accesorios-gym-multi"
-    },
-    {
-      "id": "melila2RVgJfk",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Mochila De Viaje Avión Multifuncional Gran Capacidad 30 Lts",
-      "precio": 15400,
-      "precio_original": 35000,
-      "descuento": "56% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782101855/zerch/melila2RVgJfk_1782101737/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2RVgJfk",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T04:15:43.654Z",
-      "instagram_post_id": null,
-      "slug": "mochila-de-viaje-avion-multifuncional-gran-capacidad-30-lts"
     },
     {
       "id": "melila1DVPbMv",
