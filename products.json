@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T03:59:59.339Z"
+    "last_updated": "2026-06-22T04:15:43.654Z"
   },
   "productos": [
+    {
+      "id": "melila2RVgJfk",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Mochila De Viaje Avión Multifuncional Gran Capacidad 30 Lts",
+      "precio": 15400,
+      "precio_original": 35000,
+      "descuento": "56% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782101855/zerch/melila2RVgJfk_1782101737/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2RVgJfk",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T04:15:43.654Z",
+      "instagram_post_id": null,
+      "slug": "mochila-de-viaje-avion-multifuncional-gran-capacidad-30-lts"
+    },
     {
       "id": "melila2GgJBaN",
       "source": "mercadolibre",
@@ -245,24 +266,6 @@
       "fecha_publicacion": "2026-06-19T20:12:43.781Z",
       "instagram_post_id": null,
       "slug": "dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo"
-    },
-    {
-      "id": "melila1KEoJqW",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Calefont Gas Licuado 5 Litros Tiro Natural Essential 5 Eco Blanco Glp",
-      "precio": 99990,
-      "precio_original": 139990,
-      "descuento": "28% OFF",
-      "moneda": "CLP",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781899144/zerch/melila1KEoJqW_1781899063/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1KEoJqW",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-19T19:57:49.408Z",
-      "instagram_post_id": null,
-      "slug": "calefont-gas-licuado-5-litros-tiro-natural-essential-5-eco-blanco-glp"
     },
     {
       "id": "melila1jiYk4U",
