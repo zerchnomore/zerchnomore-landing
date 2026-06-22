@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T04:34:40.829Z"
+    "last_updated": "2026-06-22T04:37:20.264Z"
   },
   "productos": [
+    {
+      "id": "melila2oiekj2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Estufa Eléctrica Mademsa Infrarroja 1500w Digital Eco Inf10 Negro",
+      "precio": 79990,
+      "precio_original": 129990,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782103153/zerch/melila2oiekj2_1782103034/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2oiekj2",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T04:37:20.264Z",
+      "instagram_post_id": null,
+      "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro"
+    },
     {
       "id": "melila2BSqnmJ",
       "source": "mercadolibre",
@@ -227,27 +248,6 @@
       "fecha_publicacion": "2026-06-20T21:48:13.987Z",
       "instagram_post_id": null,
       "slug": "silla-de-oficina-ejecutiva-altura-ajustable-con-apoya-brazos-color-neg"
-    },
-    {
-      "id": "melila2UX2XJo",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Limpiador A Vapor Pistola Limpieza Alta Presión Blanco",
-      "precio": 39990,
-      "precio_original": 49990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992164/zerch/melila2UX2XJo_1781992065/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BFFMQAGFz7SKCxyU5FI64cvjmjxAPQr4G7HKRTfr2S18f8qDqt2nQMB47u3Cp1BwpA2O9xUgZRlKFL3ssqx7rUh2ViyXFW%2FEQHgeysrhWR4ffr3vKKW77w%2F%2BSWrv9up1KP00H1nvH50bVUq54WwRpL3Yzdj%2F%2Fq2teyvR1ZeOtSqbv%2BIYBuS0ubV8rkjwvnn99FNNNM525zn4bQ72p4Izzf4bT3MQcXpFkmiIKEdHqrP%2BizmD",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-20T21:47:51.685Z",
-      "instagram_post_id": null,
-      "slug": "limpiador-a-vapor-pistola-limpieza-alta-presion-blanco"
     },
     {
       "id": "melila2eGm646",
