@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T04:37:20.264Z"
+    "last_updated": "2026-06-22T04:44:49.120Z"
   },
   "productos": [
+    {
+      "id": "melila2jDxhCM",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Creatine 100% Pure Monohydrate 1kg Foodtech Sin Sabor",
+      "precio": 28990,
+      "precio_original": 59990,
+      "descuento": "51% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782103601/zerch/melila2jDxhCM_1782103483/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2jDxhCM",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T04:44:49.120Z",
+      "instagram_post_id": null,
+      "slug": "creatine-100-pure-monohydrate-1kg-foodtech-sin-sabor"
+    },
     {
       "id": "melila2oiekj2",
       "source": "mercadolibre",
@@ -227,27 +248,6 @@
       "fecha_publicacion": "2026-06-20T21:50:26.040Z",
       "instagram_post_id": null,
       "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung"
-    },
-    {
-      "id": "melila2KQgjKE",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Silla De Oficina Ejecutiva Altura Ajustable Con Apoya Brazos Color Negro",
-      "precio": 42990,
-      "precio_original": 84990,
-      "descuento": "49% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992186/zerch/melila2KQgjKE_1781992087/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKaS1w48nUc4os1hy5YiQNpM5NrCdG67f8Ao5wfXosYHe7RLcDKa%2F948dxuTjeZl76KfeabV83JhN4%2BanXBpUpx%2FsuWtUnLKVJUE9phZ4oekS9Hik%2FNT0thVYkSf%2BC%2BrGibsINlsEU1U6J%2FPe7Z2snzLCp0SnBk%2BMwg4adJAhD2XSxeBpGno05t%2B%2FYI6nv7aQGVIvEZUcZw7pQr9fgrIhgOs0%2BsihGNhlBL7aw%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-20T21:48:13.987Z",
-      "instagram_post_id": null,
-      "slug": "silla-de-oficina-ejecutiva-altura-ajustable-con-apoya-brazos-color-neg"
     },
     {
       "id": "melila2eGm646",
