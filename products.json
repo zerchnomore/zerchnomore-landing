@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T16:09:06.668Z"
+    "last_updated": "2026-06-22T18:13:57.372Z"
   },
   "productos": [
+    {
+      "id": "melila2jjyeba",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Marco Para Impresión De Manos Y Pies De Recién Nacidos",
+      "precio": 11475,
+      "precio_original": 12612,
+      "descuento": "9% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782152156/zerch/melila2jjyeba_1782152028/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2jjyeba",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T18:13:57.360Z",
+      "instagram_post_id": null,
+      "slug": "marco-para-impresion-de-manos-y-pies-de-recien-nacidos"
+    },
     {
       "id": "melila1YCHCnT",
       "source": "mercadolibre",
@@ -173,24 +194,6 @@
       "fecha_publicacion": "2026-06-22T04:15:43.654Z",
       "instagram_post_id": null,
       "slug": "mochila-de-viaje-avion-multifuncional-gran-capacidad-30-lts"
-    },
-    {
-      "id": "melila2GgJBaN",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Termoventilador Mademsa 1800w 2 Velocidades Termostato Tv300 Blanco",
-      "precio": 15511,
-      "precio_original": 24990,
-      "descuento": "37% OFF",
-      "moneda": "CLP",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782100911/zerch/melila2GgJBaN_1782100793/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2GgJBaN",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T03:59:59.338Z",
-      "instagram_post_id": null,
-      "slug": "termoventilador-mademsa-1800w-2-velocidades-termostato-tv300-blanco"
     },
     {
       "id": "melila1DVPbMv",
