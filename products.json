@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T19:04:04.270Z"
+    "last_updated": "2026-06-22T21:01:24.036Z"
   },
   "productos": [
+    {
+      "id": "melila2uoSCrU",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Traje De Dos Piezas Tecla De Joystick Teclas De Flecha",
+      "precio": 4344,
+      "precio_original": 4830,
+      "descuento": "10% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782162207/zerch/melila2uoSCrU_1782162077/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2uoSCrU",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T21:01:24.035Z",
+      "instagram_post_id": null,
+      "slug": "traje-de-dos-piezas-tecla-de-joystick-teclas-de-flecha"
+    },
     {
       "id": "melila2n9KwYF",
       "source": "mercadolibre",
@@ -173,27 +191,6 @@
       "fecha_publicacion": "2026-06-22T04:44:49.120Z",
       "instagram_post_id": null,
       "slug": "creatine-100-pure-monohydrate-1kg-foodtech-sin-sabor"
-    },
-    {
-      "id": "melila2oiekj2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Estufa Eléctrica Mademsa Infrarroja 1500w Digital Eco Inf10 Negro",
-      "precio": 79990,
-      "precio_original": 129990,
-      "descuento": "38% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782103153/zerch/melila2oiekj2_1782103034/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2oiekj2",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T04:37:20.264Z",
-      "instagram_post_id": null,
-      "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro"
     },
     {
       "id": "melila1DVPbMv",
