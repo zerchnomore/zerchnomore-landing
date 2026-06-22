@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T21:43:55.539Z"
+    "last_updated": "2026-06-22T22:01:38.581Z"
   },
   "productos": [
+    {
+      "id": "AE1005009292433611",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Cámara de impresión en Color para niños, cámara instantánea de 32GB, 1080P, impresión térmica, cámara Digital, impresión de fotos, videojuegos, música, regalo para niños",
+      "precio": 26700,
+      "precio_original": 53346,
+      "descuento": "49%",
+      "moneda": "CLP",
+      "rating": 4.7,
+      "reviews_count": 0,
+      "vendidos": "651 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782165822/zerch/AE1005009292433611_1782165693/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4lXTMtf",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T22:01:38.581Z",
+      "instagram_post_id": null,
+      "slug": "camara-de-impresion-en-color-para-ninos-camara-instantanea-de-32gb-108"
+    },
     {
       "id": "AE1005012470878124",
       "source": "aliexpress",
@@ -168,27 +189,6 @@
       "fecha_publicacion": "2026-06-22T12:46:54.261Z",
       "instagram_post_id": null,
       "slug": "kit-herramientas-deli-martillo-acero-alto-carbono-alicates-cuchillo-ut"
-    },
-    {
-      "id": "melila17YY4YM",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Nintendo Switch 2 System Negro",
-      "precio": 544574,
-      "precio_original": 629990,
-      "descuento": "13% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782104062/zerch/melila17YY4YM_1782103943/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/17YY4YM",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T04:52:28.935Z",
-      "instagram_post_id": null,
-      "slug": "nintendo-switch-2-system-negro"
     },
     {
       "id": "melila1DVPbMv",
