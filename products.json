@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T13:06:13.745Z"
+    "last_updated": "2026-06-22T16:09:06.668Z"
   },
   "productos": [
+    {
+      "id": "melila1YCHCnT",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Juguetes De Boxeo Para Gatos Juguetes De Boxeo Juguetes Inte",
+      "precio": 7131,
+      "precio_original": 8771,
+      "descuento": "19% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782144665/zerch/melila1YCHCnT_1782144539/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1YCHCnT",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-22T16:09:06.667Z",
+      "instagram_post_id": null,
+      "slug": "juguetes-de-boxeo-para-gatos-juguetes-de-boxeo-juguetes-inte"
+    },
     {
       "id": "melila1ax31EK",
       "source": "mercadolibre",
@@ -206,27 +227,6 @@
       "fecha_publicacion": "2026-06-22T03:12:16.577Z",
       "instagram_post_id": null,
       "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home"
-    },
-    {
-      "id": "melila2EymGwk",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Billetera Y Tarjetero | Modelo Deluxe Xclusive | Color Dorado Con Protección Rfid",
-      "precio": 24990,
-      "precio_original": 25990,
-      "descuento": "5% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782096763/zerch/melila2EymGwk_1782096646/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2EymGwk",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T02:50:53.527Z",
-      "instagram_post_id": null,
-      "slug": "billetera-y-tarjetero-modelo-deluxe-xclusive-color-dorado-con-protecci"
     },
     {
       "id": "melila11eqkgj",
