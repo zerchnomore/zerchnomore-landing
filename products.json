@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T01:03:08.197Z"
+    "last_updated": "2026-06-23T02:17:06.318Z"
   },
   "productos": [
+    {
+      "id": "AE1005008779689384",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "GOPEAK-minilinterna de bolsillo para exteriores, tapa con Clip para llave, Led ambiental, larga resistencia, alivio de desastres, emergencia, luz pequeña 5050",
+      "precio": 5900,
+      "precio_original": 12553,
+      "descuento": "52%",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "vendidos": "13417 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782181152/zerch/AE1005008779689384_1782181019/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c3kMIuzR",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-23T02:17:06.317Z",
+      "instagram_post_id": null,
+      "slug": "gopeak-minilinterna-de-bolsillo-para-exteriores-tapa-con-clip-para-lla"
+    },
     {
       "id": "AE1005009744479223",
       "source": "aliexpress",
@@ -458,27 +479,6 @@
       "fecha_publicacion": "2026-06-19T04:35:45.644Z",
       "instagram_post_id": null,
       "slug": "set-camping-acero-inox-organizador-cubiertos-completos"
-    },
-    {
-      "id": "melila16L1hsB",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sierra Sable Reciproca Inalámbrica Lernen + 2 Baterías",
-      "precio": 34990,
-      "precio_original": 69990,
-      "descuento": "50% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781837274/zerch/melila16L1hsB_1781837204/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/16L1hsB",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-19T02:46:50.952Z",
-      "instagram_post_id": null,
-      "slug": "sierra-sable-reciproca-inalambrica-lernen-2-baterias"
     },
     {
       "id": "AE1005009893416972",
