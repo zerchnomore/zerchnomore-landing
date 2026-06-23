@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:48:48.762Z"
+    "last_updated": "2026-06-23T00:52:23.536Z"
   },
   "productos": [
+    {
+      "id": "AE1005006599887492",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Afeitadora Eléctrica Xiaomi Mijia S101, Máquina de Afeitar Mejorada para Hombres, Resistente al Agua, Afeitado en Seco y Húmedo, Recortadora de Barba",
+      "precio": 23300,
+      "precio_original": 67013,
+      "descuento": "65%",
+      "moneda": "CLP",
+      "rating": 4.6,
+      "reviews_count": 0,
+      "vendidos": "1291 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176068/zerch/AE1005006599887492_1782175936/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4rSywrF",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T00:52:23.536Z",
+      "instagram_post_id": null,
+      "slug": "afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par"
+    },
     {
       "id": "AE1005010565069760",
       "source": "aliexpress",
@@ -213,27 +234,6 @@
       "fecha_publicacion": "2026-06-22T19:04:04.269Z",
       "instagram_post_id": null,
       "slug": "raton-inalambrico-anillo-para-dedo-2-4ghz"
-    },
-    {
-      "id": "melila2mjbR8x",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Sujetadores De Sábana Con Correas Pack X4",
-      "precio": 3290,
-      "precio_original": 5985,
-      "descuento": "45% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782152711/zerch/melila2mjbR8x_1782152583/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2mjbR8x",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T18:23:10.709Z",
-      "instagram_post_id": null,
-      "slug": "sujetadores-de-sabana-con-correas-pack-x4"
     },
     {
       "id": "AE1005005139432408",
