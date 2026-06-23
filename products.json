@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:30:20.430Z"
+    "last_updated": "2026-06-23T02:34:05.065Z"
   },
   "productos": [
+    {
+      "id": "AE1005008248141347",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Aqara Sensor Inteligente de Temperatura, Dispositivo Medidor de Humedad, Presión del Aire, Control Remoto Zigbee, Funciona con XiaoMi Home, Concentrador de Puerta de Enlace de Homekit",
+      "precio": 13300,
+      "precio_original": 26543,
+      "descuento": "49%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "2519 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182171/zerch/AE1005008248141347_1782182038/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4CiPcKp",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T02:34:05.065Z",
+      "instagram_post_id": null,
+      "slug": "aqara-sensor-inteligente-de-temperatura-dispositivo-medidor-de-humedad"
+    },
     {
       "id": "AE1005006437000769",
       "source": "aliexpress",
@@ -299,27 +320,6 @@
       "fecha_publicacion": "2026-06-23T00:05:13.230Z",
       "instagram_post_id": null,
       "slug": "micrscopico-educacional-portatil-para-ninos-amarillo"
-    },
-    {
-      "id": "melila2uoSCrU",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Traje De Dos Piezas Tecla De Joystick Teclas De Flecha",
-      "precio": 4344,
-      "precio_original": 4830,
-      "descuento": "10% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782172687/zerch/melila2uoSCrU_1782172555/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2uoSCrU",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T23:56:01.919Z",
-      "instagram_post_id": null,
-      "slug": "traje-de-dos-piezas-tecla-de-joystick-teclas-de-flecha"
     },
     {
       "id": "AE1005005139432408",
