@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:52:23.536Z"
+    "last_updated": "2026-06-23T00:56:27.627Z"
   },
   "productos": [
+    {
+      "id": "AE1005009658408878",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Nuevo Removedor de Pelusas Xiaomi 2026, Máquina Portátil USB para Eliminar Bolitas de Ropa, Recortadora de Pelusas para el Hogar",
+      "precio": 16700,
+      "precio_original": 23857,
+      "descuento": "29%",
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 0,
+      "vendidos": "7 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176313/zerch/AE1005009658408878_1782176181/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4rRWlQ9",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T00:56:27.626Z",
+      "instagram_post_id": null,
+      "slug": "nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi"
+    },
     {
       "id": "AE1005006599887492",
       "source": "aliexpress",
@@ -213,27 +234,6 @@
       "fecha_publicacion": "2026-06-22T21:43:55.539Z",
       "instagram_post_id": null,
       "slug": "caja-observadora-transparente-para-atrapar-insectos"
-    },
-    {
-      "id": "melila2n9KwYF",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Ratón Inalámbrico Anillo Para Dedo 2.4GHz",
-      "precio": 6663,
-      "precio_original": 31154,
-      "descuento": "27% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782155165/zerch/melila2n9KwYF_1782155037/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2n9KwYF",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T19:04:04.269Z",
-      "instagram_post_id": null,
-      "slug": "raton-inalambrico-anillo-para-dedo-2-4ghz"
     },
     {
       "id": "AE1005005139432408",
