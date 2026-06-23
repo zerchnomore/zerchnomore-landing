@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:35:39.078Z"
+    "last_updated": "2026-06-23T02:37:14.194Z"
   },
   "productos": [
+    {
+      "id": "AE1005006991409303",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Cinta métrica de acero de alta precisión para el hogar, herramienta de medición portátil, multifuncional, gruesa, 5M",
+      "precio": 6500,
+      "precio_original": 12962,
+      "descuento": "49%",
+      "moneda": "CLP",
+      "rating": 4.5,
+      "reviews_count": 0,
+      "vendidos": "237 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182360/zerch/AE1005006991409303_1782182227/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c3v1f1rB",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-23T02:37:14.194Z",
+      "instagram_post_id": null,
+      "slug": "cinta-metrica-de-acero-de-alta-precision-para-el-hogar-herramienta-de"
+    },
     {
       "id": "AE1005007344883681",
       "source": "aliexpress",
@@ -479,27 +500,6 @@
       "fecha_publicacion": "2026-06-19T18:09:23.895Z",
       "instagram_post_id": null,
       "slug": "compresor-de-aire-lernen-290-w-120-psi-2-baterias-negro"
-    },
-    {
-      "id": "melila2vze2MW",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kit Herramientas De Supervivencia Camping",
-      "precio": 13990,
-      "precio_original": 21613,
-      "descuento": "18% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781876801/zerch/melila2vze2MW_1781876724/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2vze2MW",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-19T13:45:31.766Z",
-      "instagram_post_id": null,
-      "slug": "kit-herramientas-de-supervivencia-camping"
     },
     {
       "id": "melila1V27a4L",
