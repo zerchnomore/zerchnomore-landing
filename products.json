@@ -3,9 +3,27 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:05:13.230Z"
+    "last_updated": "2026-06-23T00:21:40.484Z"
   },
   "productos": [
+    {
+      "id": "melila2vaFKAx",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Limpiador Parrilla Eléctrica Herramientas Barbacoa",
+      "precio": 19055,
+      "precio_original": 29862,
+      "descuento": "39% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782174225/zerch/melila2vaFKAx_1782174094/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2vaFKAx",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-23T00:21:40.483Z",
+      "instagram_post_id": null,
+      "slug": "limpiador-parrilla-electrica-herramientas-barbacoa"
+    },
     {
       "id": "melila15zRRyR",
       "source": "mercadolibre",
@@ -498,27 +516,6 @@
       "fecha_publicacion": "2026-06-16T07:48:09.714Z",
       "instagram_post_id": null,
       "slug": "raton-vertical-ugreen-inalambrico-bluetooth5-0-2-4g-ergonomico-4000dpi"
-    },
-    {
-      "id": "melila16qcJiV",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Soldadora Indura Nanoweld 160 + Máscara Flame Grado 11 Color Verde",
-      "precio": 126166,
-      "precio_original": 199990,
-      "descuento": "36% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781566560/zerch/melila16qcJiV_1781566538/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/16qcJiV",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-15T23:35:44.625Z",
-      "instagram_post_id": null,
-      "slug": "soldadora-indura-nanoweld-160-mascara-flame-grado-11-color-verde"
     },
     {
       "id": "MLC3515531814",
