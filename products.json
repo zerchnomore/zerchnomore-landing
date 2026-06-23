@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:40:24.566Z"
+    "last_updated": "2026-06-23T19:27:29.851Z"
   },
   "productos": [
+    {
+      "id": "melila2AJ7MQz",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set Ollas Outdoor Camping Cocina Para Camping Utensilios Gris Oscuro",
+      "precio": 13580,
+      "precio_original": 19890,
+      "descuento": "31% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782242986/zerch/melila2AJ7MQz_1782242842/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2AJ7MQz",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-06-23T19:27:29.851Z",
+      "instagram_post_id": null,
+      "short": "ollas-outdoor",
+      "slug": "set-ollas-outdoor-camping-cocina-para-camping-utensilios-gris-oscuro"
+    },
     {
       "id": "AE1005006860976121",
       "source": "aliexpress",
@@ -788,25 +810,6 @@
       "instagram_post_id": null,
       "slug": "carrito-camping-plegable-multiuso-100kg-ruedas-360-negro",
       "short": "carrito-camping"
-    },
-    {
-      "id": "MLC1472443623",
-      "titulo": "Chaqueta Trade Executive Unisex",
-      "precio": 30620,
-      "precio_original": 30620,
-      "descuento": "5% OFF",
-      "moneda": "CLP",
-      "rating": 4.8,
-      "reviews_count": 22,
-      "vendidos": "+100",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779082008/zerch/MLC1472443623/carrusel/slide_02_hero.png",
-      "link": "https://articulo.mercadolibre.cl/MLC-1472443623",
-      "categoria_id": "outdoor",
-      "categoria_label": "🌲 OUTDOOR",
-      "fecha_publicacion": "2026-05-18T05:26:51.155Z",
-      "instagram_post_id": null,
-      "slug": "chaqueta-trade-executive-unisex",
-      "short": "chaqueta-trade"
     }
   ]
 }
