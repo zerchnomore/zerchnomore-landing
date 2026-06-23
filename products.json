@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-22T23:56:01.919Z"
+    "last_updated": "2026-06-23T00:05:13.230Z"
   },
   "productos": [
+    {
+      "id": "melila15zRRyR",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Micrscópico Educacional Portátil Para Niños Amarillo",
+      "precio": 38750,
+      "precio_original": 46250,
+      "descuento": "16% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782173239/zerch/melila15zRRyR_1782173107/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/15zRRyR",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T00:05:13.230Z",
+      "instagram_post_id": null,
+      "slug": "micrscopico-educacional-portatil-para-ninos-amarillo"
+    },
     {
       "id": "melila2uoSCrU",
       "source": "mercadolibre",
@@ -150,27 +171,6 @@
       "fecha_publicacion": "2026-06-22T16:09:06.667Z",
       "instagram_post_id": null,
       "slug": "juguetes-de-boxeo-para-gatos-juguetes-de-boxeo-juguetes-inte"
-    },
-    {
-      "id": "melila1ax31EK",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Maleta De Viaje 10 Kilos 20l Cabina 4 Ruedas 360 Carry On",
-      "precio": 19980,
-      "precio_original": 33990,
-      "descuento": "41% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782133691/zerch/melila1ax31EK_1782133567/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1ax31EK",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T13:06:13.745Z",
-      "instagram_post_id": null,
-      "slug": "maleta-de-viaje-10-kilos-20l-cabina-4-ruedas-360-carry-on"
     },
     {
       "id": "AE1005005139432408",
