@@ -50,16 +50,23 @@ const slugify = s => String(s || '')
 const SHORT_STOP = new Set(['de','la','el','los','las','para','con','por','y','o','a','un','una','del','en','al','x','pack','set','kit','color','negro','blanco','azul','rojo','gris','verde','premium','original','nuevo','nueva']);
 // Rutas reservadas del sitio — un slug corto NUNCA puede pisarlas.
 const SHORT_RESERVED = new Set(['producto','categoria','top-hallazgos-zerch-chile','health','click','index','404','robots','sitemap','app','build-seo','readme','assets','img','images','static','api']);
+// slug SOLO letras a-z (sin acentos, ñ, números ni símbolos) + guiones entre palabras.
+const lslug = s => String(s || '')
+  .toLowerCase()
+  .normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .replace(/[^a-z]+/g, '-')
+  .replace(/^-+|-+$/g, '');
 // Genera un slug corto (2 palabras clave) único. Usa p.short si Zerchy ya lo definió.
 function shortSlug(p, taken) {
-  let base = p.short ? slugify(p.short) : '';
+  let base = p.short ? lslug(p.short) : '';
   if (!base) {
-    const words = slugify(p.titulo).split('-').filter(w => w && !SHORT_STOP.has(w) && !/^\d+$/.test(w));
+    const words = lslug(p.titulo).split('-').filter(w => w && !SHORT_STOP.has(w));
     base = words.slice(0, 2).join('-');
   }
-  base = base || slugify(p.titulo).split('-').slice(0, 2).join('-') || String(p.id).toLowerCase();
-  let s = base, i = 2;
-  while (SHORT_RESERVED.has(s) || taken.has(s)) s = `${base}-${i++}`;
+  base = base || lslug(p.titulo).split('-').filter(Boolean).slice(0, 2).join('-') || lslug(p.id) || 'producto';
+  // Dedup SOLO letras: -b, -c, -d…
+  let s = base, n = 0;
+  while (SHORT_RESERVED.has(s) || taken.has(s)) s = `${base}-${String.fromCharCode(98 + n++)}`;
   taken.add(s);
   return s;
 }
