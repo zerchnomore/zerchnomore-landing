@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:38:51.877Z"
+    "last_updated": "2026-06-23T02:40:24.566Z"
   },
   "productos": [
+    {
+      "id": "AE1005006860976121",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Nuevo ratón Bluetooth inalámbrico ultrafino recargable silencioso Multi Arc Touch ratones ratón mágico para ordenador portátil Ipad Mac PC Macbook",
+      "precio": 8800,
+      "precio_original": 18333,
+      "descuento": "51%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "2616 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182551/zerch/AE1005006860976121_1782182418/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c3eAtXwH",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-23T02:40:24.565Z",
+      "instagram_post_id": null,
+      "slug": "nuevo-raton-bluetooth-inalambrico-ultrafino-recargable-silencioso-mult"
+    },
     {
       "id": "AE1005010216871271",
       "source": "aliexpress",
@@ -521,27 +542,6 @@
       "fecha_publicacion": "2026-06-19T04:35:45.644Z",
       "instagram_post_id": null,
       "slug": "set-camping-acero-inox-organizador-cubiertos-completos"
-    },
-    {
-      "id": "AE1005009893416972",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Rastreador de Google, etiquetas de seguimiento Android, rastreador Bluetooth, dispositivo de seguimiento de etiquetas inteligentes, buscador de artículos para llaves, billetera, equipaje, mascotas,",
-      "precio": 13200,
-      "precio_original": 21706,
-      "descuento": "39%",
-      "moneda": "CLP",
-      "rating": 4.6,
-      "reviews_count": 0,
-      "vendidos": "1970 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781663731/zerch/AE1005009893416972_1781663696/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4PBVRhX",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-17T02:35:02.906Z",
-      "instagram_post_id": null,
-      "slug": "rastreador-de-google-etiquetas-de-seguimiento-android-rastreador-bluet"
     },
     {
       "id": "melila2UqMcCw",
