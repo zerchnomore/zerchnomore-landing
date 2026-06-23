@@ -3,7 +3,7 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:21:40.484Z"
+    "last_updated": "2026-06-23T00:27:00.470Z"
   },
   "productos": [
     {
@@ -16,11 +16,14 @@
       "precio_original": 29862,
       "descuento": "39% OFF",
       "moneda": "CLP",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782174225/zerch/melila2vaFKAx_1782174094/carrusel/slide_02_hero.png",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782174545/zerch/melila2vaFKAx_1782174413/carrusel/slide_02_hero.png",
       "link": "https://meli.la/2vaFKAx",
       "categoria_id": "herramientas",
       "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-23T00:21:40.483Z",
+      "fecha_publicacion": "2026-06-23T00:27:00.470Z",
       "instagram_post_id": null,
       "slug": "limpiador-parrilla-electrica-herramientas-barbacoa"
     },
