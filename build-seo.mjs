@@ -341,11 +341,10 @@ const REDIRECTS_HEADER = `# Cloudflare Pages _redirects — generado por build-s
 # Click tracking endpoint (Cloudflare Worker)
 # /click  https://click-tracker.zerchnomore.workers.dev/track  200
 `;
-function buildRedirects(productos) {
-  const lines = productos
-    .filter(p => p.short && p.slug)
-    .map(p => `/${p.short}  /producto/${p.slug}/index.html  200`);
-  return `${REDIRECTS_HEADER}\n# Slugs cortos por producto (zerchnomore.app/<short>)\n${lines.join('\n')}\n`;
+function buildRedirects() {
+  // Los slugs cortos ahora son páginas REALES en /<short>/index.html (la URL corta se queda
+  // en la barra). _redirects solo mantiene las reglas fijas del sitio.
+  return REDIRECTS_HEADER;
 }
 
 // ─── Inyección en la home ─────────────────────────────────────────────────────
@@ -424,12 +423,27 @@ async function main() {
     await fs.rm(path.join(ROOT, dir), { recursive: true, force: true });
   }
 
-  // Páginas de producto
+  // Limpiar páginas de slug corto huérfanas (manifest del build anterior) para no acumular basura
+  const manifestFile = path.join(ROOT, '.shorts.json');
+  let oldShorts = [];
+  try { oldShorts = JSON.parse(await fs.readFile(manifestFile, 'utf-8')); } catch {}
+  for (const s of oldShorts) {
+    if (s && !SHORT_RESERVED.has(s)) await fs.rm(path.join(ROOT, s), { recursive: true, force: true });
+  }
+
+  // Páginas de producto (canónica en /producto/<slug>/ + alias corto en /<short>/)
   for (const p of productos) {
+    const html = productPage(p, productos);
     const dir = path.join(ROOT, 'producto', p.slug);
     await fs.mkdir(dir, { recursive: true });
-    await fs.writeFile(path.join(dir, 'index.html'), productPage(p, productos), 'utf-8');
+    await fs.writeFile(path.join(dir, 'index.html'), html, 'utf-8');
+    if (p.short && !SHORT_RESERVED.has(p.short)) {
+      const sdir = path.join(ROOT, p.short);
+      await fs.mkdir(sdir, { recursive: true });
+      await fs.writeFile(path.join(sdir, 'index.html'), html, 'utf-8');
+    }
   }
+  await fs.writeFile(manifestFile, JSON.stringify(productos.map(p => p.short).filter(Boolean)) + '\n', 'utf-8');
 
   // Páginas de categoría (solo con productos)
   const catsConProductos = Object.keys(CATEGORIES).filter(id => productos.some(p => p.categoria_id === id));
