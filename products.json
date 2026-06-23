@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:56:27.627Z"
+    "last_updated": "2026-06-23T00:59:58.841Z"
   },
   "productos": [
+    {
+      "id": "AE1005009332334323",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "XIAOMI Banco de energía de 165 W, 10000 mAh, cable USB‐C incorporado, pantalla inteligente en color, carga rápida de doble puerto para iPhone 16 15 14 Pro Max",
+      "precio": 47300,
+      "precio_original": 59125,
+      "descuento": "20%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "108 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176515/zerch/AE1005009332334323_1782176384/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4DZozK5",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-23T00:59:58.841Z",
+      "instagram_post_id": null,
+      "slug": "xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan"
+    },
     {
       "id": "AE1005009658408878",
       "source": "aliexpress",
@@ -540,27 +561,6 @@
       "fecha_publicacion": "2026-06-15T08:05:54.141Z",
       "instagram_post_id": null,
       "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey"
-    },
-    {
-      "id": "melila1NyVHM2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Tablet Lenovo Ideatab 11 2k mtk D6300 8g 256g 5g+kb+fol+pen Luna Grey",
-      "precio": 308207,
-      "precio_original": 349990,
-      "descuento": "11% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781510083/zerch/melila1NyVHM2_1781510074/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1NyVHM2",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-15T07:54:41.430Z",
-      "instagram_post_id": null,
-      "slug": "tablet-lenovo-ideatab-11-2k-mtk-d6300-8g-256g-5g-kb-fol-pen-luna-grey-melila1NyVHM2"
     },
     {
       "id": "melila2MrgrW9",
