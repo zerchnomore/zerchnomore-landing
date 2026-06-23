@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:44:57.539Z"
+    "last_updated": "2026-06-23T00:48:48.762Z"
   },
   "productos": [
+    {
+      "id": "AE1005010565069760",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Xiaomi ZINK Papel de impresora de bolsillo Impresión fotográfica autoadhesiva 50/100/150/200 hojas Xiaomi Mini papeles de impresora de 3 pulgadas",
+      "precio": 22600,
+      "precio_original": 50222,
+      "descuento": "54%",
+      "moneda": "CLP",
+      "rating": 5,
+      "reviews_count": 0,
+      "vendidos": "75 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782175853/zerch/AE1005010565069760_1782175721/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c45SHZFR",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T00:48:48.761Z",
+      "instagram_post_id": null,
+      "slug": "xiaomi-zink-papel-de-impresora-de-bolsillo-impresion-fotografica-autoa"
+    },
     {
       "id": "AE1005006211308114",
       "source": "aliexpress",
@@ -213,27 +234,6 @@
       "fecha_publicacion": "2026-06-22T18:23:10.709Z",
       "instagram_post_id": null,
       "slug": "sujetadores-de-sabana-con-correas-pack-x4"
-    },
-    {
-      "id": "melila2jjyeba",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Marco Para Impresión De Manos Y Pies De Recién Nacidos",
-      "precio": 11475,
-      "precio_original": 12612,
-      "descuento": "9% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782152156/zerch/melila2jjyeba_1782152028/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2jjyeba",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T18:13:57.360Z",
-      "instagram_post_id": null,
-      "slug": "marco-para-impresion-de-manos-y-pies-de-recien-nacidos"
     },
     {
       "id": "AE1005005139432408",
