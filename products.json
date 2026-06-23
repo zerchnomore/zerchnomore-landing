@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:26:58.889Z"
+    "last_updated": "2026-06-23T02:30:20.430Z"
   },
   "productos": [
+    {
+      "id": "AE1005006437000769",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Edifier MP85 Altavoces Bluetooth portátiles Altavoz para acampar Caminar Estéreo inalámbrico 70g Ligero Reproducción 8H Impermeable",
+      "precio": 16200,
+      "precio_original": 36000,
+      "descuento": "55%",
+      "moneda": "CLP",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "vendidos": "788 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782181947/zerch/AE1005006437000769_1782181814/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4blhOdR",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-06-23T02:30:20.430Z",
+      "instagram_post_id": null,
+      "slug": "edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin"
+    },
     {
       "id": "AE1005008715563874",
       "source": "aliexpress",
@@ -542,27 +563,6 @@
       "fecha_publicacion": "2026-06-17T01:16:14.181Z",
       "instagram_post_id": null,
       "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve"
-    },
-    {
-      "id": "AE1005007308391125",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Ratón Vertical UGREEN inalámbrico Bluetooth5.0 2,4G ergonómico 4000DPI 6 botones silenciosos para MacBook Tablet portátiles ordenador PC ratones",
-      "precio": 20200,
-      "precio_original": 26933,
-      "descuento": "24%",
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 0,
-      "vendidos": "55 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781596104/zerch/AE1005007308391125_1781596082/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c3jYkXW1",
-      "categoria_id": "tech",
-      "categoria_label": "📱 TECH",
-      "fecha_publicacion": "2026-06-16T07:48:09.714Z",
-      "instagram_post_id": null,
-      "slug": "raton-vertical-ugreen-inalambrico-bluetooth5-0-2-4g-ergonomico-4000dpi"
     },
     {
       "id": "melila2MrgrW9",
