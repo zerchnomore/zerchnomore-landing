@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:59:58.841Z"
+    "last_updated": "2026-06-23T01:03:08.197Z"
   },
   "productos": [
+    {
+      "id": "AE1005009744479223",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Luz de pared con cámara Solar 2K, cámara WIFI para exteriores de 2,4G, protección del hogar, cámara de seguridad con batería, visión nocturna en Color, alarma Local",
+      "precio": 39700,
+      "precio_original": 66167,
+      "descuento": "40%",
+      "moneda": "CLP",
+      "rating": 4.7,
+      "reviews_count": 0,
+      "vendidos": "145 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176714/zerch/AE1005009744479223_1782176582/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c2ztSCFx",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T01:03:08.196Z",
+      "instagram_post_id": null,
+      "slug": "luz-de-pared-con-camara-solar-2k-camara-wifi-para-exteriores-de-2-4g-p"
+    },
     {
       "id": "AE1005009332334323",
       "source": "aliexpress",
@@ -236,25 +257,6 @@
       "fecha_publicacion": "2026-06-22T22:01:38.581Z",
       "instagram_post_id": null,
       "slug": "camara-de-impresion-en-color-para-ninos-camara-instantanea-de-32gb-108"
-    },
-    {
-      "id": "AE1005012470878124",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Caja Observadora Transparente para Atrapar Insectos",
-      "precio": 5400,
-      "precio_original": 10810,
-      "descuento": "50%",
-      "moneda": "CLP",
-      "vendidos": "26 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782164758/zerch/AE1005012470878124_1782164628/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4BoCtFr",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T21:43:55.539Z",
-      "instagram_post_id": null,
-      "slug": "caja-observadora-transparente-para-atrapar-insectos"
     },
     {
       "id": "AE1005005139432408",
