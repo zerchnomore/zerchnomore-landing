@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:27:00.470Z"
+    "last_updated": "2026-06-23T00:36:31.354Z"
   },
   "productos": [
+    {
+      "id": "AE1005006904690516",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Baseus-concentrador de red 7 en 1, Gen 2, USB C HUB 4K @ 60Hz HDMI 3 x USB 3,0 PD 100W tipo C Puerto SD/TF lector de tarjetas para Macbook iPad M2 M1, Steam Deck",
+      "precio": 18700,
+      "precio_original": 38958,
+      "descuento": "51%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "2306 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782175116/zerch/AE1005006904690516_1782174984/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4EcusVf",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T00:36:31.354Z",
+      "instagram_post_id": null,
+      "slug": "baseus-concentrador-de-red-7-en-1-gen-2-usb-c-hub-4k-60hz-hdmi-3-x-usb"
+    },
     {
       "id": "melila2vaFKAx",
       "source": "mercadolibre",
@@ -171,27 +192,6 @@
       "fecha_publicacion": "2026-06-22T18:13:57.360Z",
       "instagram_post_id": null,
       "slug": "marco-para-impresion-de-manos-y-pies-de-recien-nacidos"
-    },
-    {
-      "id": "melila1YCHCnT",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Juguetes De Boxeo Para Gatos Juguetes De Boxeo Juguetes Inte",
-      "precio": 7131,
-      "precio_original": 8771,
-      "descuento": "19% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782144665/zerch/melila1YCHCnT_1782144539/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/1YCHCnT",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-22T16:09:06.667Z",
-      "instagram_post_id": null,
-      "slug": "juguetes-de-boxeo-para-gatos-juguetes-de-boxeo-juguetes-inte"
     },
     {
       "id": "AE1005005139432408",
