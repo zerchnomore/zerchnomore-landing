@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:37:14.194Z"
+    "last_updated": "2026-06-23T02:38:51.877Z"
   },
   "productos": [
+    {
+      "id": "AE1005010216871271",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Telémetro láser medidor de distancia telémetro cinta láser telémetro construcción Mini telémetro infrarrojo USB recargable 30M caliente",
+      "precio": 20800,
+      "precio_original": 45217,
+      "descuento": "53%",
+      "moneda": "CLP",
+      "rating": 4.7,
+      "reviews_count": 0,
+      "vendidos": "431 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182458/zerch/AE1005010216871271_1782182325/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4tHoLnJ",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T02:38:51.876Z",
+      "instagram_post_id": null,
+      "slug": "telemetro-laser-medidor-de-distancia-telemetro-cinta-laser-telemetro-c"
+    },
     {
       "id": "AE1005006991409303",
       "source": "aliexpress",
@@ -299,27 +320,6 @@
       "fecha_publicacion": "2026-06-23T00:41:14.261Z",
       "instagram_post_id": null,
       "slug": "baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil"
-    },
-    {
-      "id": "AE1005006904690516",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Baseus-concentrador de red 7 en 1, Gen 2, USB C HUB 4K @ 60Hz HDMI 3 x USB 3,0 PD 100W tipo C Puerto SD/TF lector de tarjetas para Macbook iPad M2 M1, Steam Deck",
-      "precio": 18700,
-      "precio_original": 38958,
-      "descuento": "51%",
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 0,
-      "vendidos": "2306 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782175116/zerch/AE1005006904690516_1782174984/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4EcusVf",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T00:36:31.354Z",
-      "instagram_post_id": null,
-      "slug": "baseus-concentrador-de-red-7-en-1-gen-2-usb-c-hub-4k-60hz-hdmi-3-x-usb"
     },
     {
       "id": "melila2vaFKAx",
