@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T02:34:05.065Z"
+    "last_updated": "2026-06-23T02:35:39.078Z"
   },
   "productos": [
+    {
+      "id": "AE1005007344883681",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Aqara-Sensor de movimiento inteligente para el hogar, dispositivo con conexión inalámbrica, ZigBee, para Mijia MiHome Homekit APP, Original",
+      "precio": 14800,
+      "precio_original": 29623,
+      "descuento": "50%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "1490 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182265/zerch/AE1005007344883681_1782182132/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4E4dzJJ",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-23T02:35:39.078Z",
+      "instagram_post_id": null,
+      "slug": "aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c"
+    },
     {
       "id": "AE1005008248141347",
       "source": "aliexpress",
@@ -299,27 +320,6 @@
       "fecha_publicacion": "2026-06-23T00:27:00.470Z",
       "instagram_post_id": null,
       "slug": "limpiador-parrilla-electrica-herramientas-barbacoa"
-    },
-    {
-      "id": "melila15zRRyR",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Micrscópico Educacional Portátil Para Niños Amarillo",
-      "precio": 38750,
-      "precio_original": 46250,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782173239/zerch/melila15zRRyR_1782173107/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/15zRRyR",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T00:05:13.230Z",
-      "instagram_post_id": null,
-      "slug": "micrscopico-educacional-portatil-para-ninos-amarillo"
     },
     {
       "id": "AE1005005139432408",
