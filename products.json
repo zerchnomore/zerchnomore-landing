@@ -3,9 +3,30 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-23T00:36:31.354Z"
+    "last_updated": "2026-06-23T00:41:14.261Z"
   },
   "productos": [
+    {
+      "id": "AE1005005605683958",
+      "source": "aliexpress",
+      "source_label": "aliexpress",
+      "source_emoji": "🏪",
+      "titulo": "Baseus-bomba de aire inalámbrica para coche, compresor de aire portátil para coches, motocicletas, inflador de neumáticos eléctrico de bicicleta con pantalla Digital LCD",
+      "precio": 38600,
+      "precio_original": 55143,
+      "descuento": "30%",
+      "moneda": "CLP",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "vendidos": "6008 vendidos",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782175399/zerch/AE1005005605683958_1782175267/carrusel/slide_02_hero.png",
+      "link": "https://s.click.aliexpress.com/e/_c4pXqsRb",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-23T00:41:14.261Z",
+      "instagram_post_id": null,
+      "slug": "baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil"
+    },
     {
       "id": "AE1005006904690516",
       "source": "aliexpress",
@@ -435,27 +456,6 @@
       "fecha_publicacion": "2026-06-17T15:31:19.581Z",
       "instagram_post_id": null,
       "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico"
-    },
-    {
-      "id": "melila1ubZasc",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kit Taladro Destornillador Inalámbrico Lernen 21v + 2 Baterías Color Gris",
-      "precio": 29990,
-      "precio_original": 64990,
-      "descuento": "53% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781702396/zerch/melila1ubZasc_1781702353/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGBgfoUp%2FY2vDimbUnKtCvDgRf%2BJiNJA40vymSuNBU%2FIrvgY1i47IlsRV9AELN6WdfNWxMnXfTFsf3jbylNRg6qyq%2BdpoFH3f3HhrwiGnL1q5Jb%2BHzEX%2Fq3i%2FF2TMQTRQMjDocc5%2Bv%2FhCQf1xh%2FYzNG5p%2F6eb6PjzKqtcMEYv406SSsBWb5n2ZT%2FnPzzGjkScx4JqUgNt%2BQZy4idm2f7gAehq8aE0%2Fu874geNQ%3D%3D",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-17T13:19:21.163Z",
-      "instagram_post_id": null,
-      "slug": "kit-taladro-destornillador-inalambrico-lernen-21v-2-baterias-color-gri"
     },
     {
       "id": "AE1005009893416972",
