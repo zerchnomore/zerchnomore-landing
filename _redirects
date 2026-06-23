@@ -1,6 +1,45 @@
-# Cloudflare Pages _redirects
+# Cloudflare Pages _redirects — generado por build-seo.mjs (NO editar a mano la sección de productos)
 # Health check
 /health  /index.html  200
 
 # Click tracking endpoint (Cloudflare Worker)
 # /click  https://click-tracker.zerchnomore.workers.dev/track  200
+
+# Slugs cortos por producto (zerchnomore.app/<short>)
+/raton-bluetooth  /producto/nuevo-raton-bluetooth-inalambrico-ultrafino-recargable-silencioso-mult/index.html  200
+/telemetro-laser  /producto/telemetro-laser-medidor-de-distancia-telemetro-cinta-laser-telemetro-c/index.html  200
+/cinta-metrica  /producto/cinta-metrica-de-acero-de-alta-precision-para-el-hogar-herramienta-de/index.html  200
+/aqara-sensor  /producto/aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c/index.html  200
+/aqara-sensor-2  /producto/aqara-sensor-inteligente-de-temperatura-dispositivo-medidor-de-humedad/index.html  200
+/edifier-mp85  /producto/edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin/index.html  200
+/conmutador-hdmi  /producto/conmutador-hdmi-vention-8k-bidireccional-2-1-interruptor-hdmi-1x2-2x1/index.html  200
+/pelacables-industrial  /producto/pelacables-industrial-multifuncional-de-8-5-pulgadas-cortador-alicates/index.html  200
+/gopeak-minilinterna  /producto/gopeak-minilinterna-de-bolsillo-para-exteriores-tapa-con-clip-para-lla/index.html  200
+/luz-pared  /producto/luz-de-pared-con-camara-solar-2k-camara-wifi-para-exteriores-de-2-4g-p/index.html  200
+/xiaomi-banco  /producto/xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan/index.html  200
+/removedor-pelusas  /producto/nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi/index.html  200
+/afeitadora-electrica  /producto/afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par/index.html  200
+/xiaomi-zink  /producto/xiaomi-zink-papel-de-impresora-de-bolsillo-impresion-fotografica-autoa/index.html  200
+/baseus-probador  /producto/baseus-probador-de-alcohol-portatil-sin-contacto-alcoholimetro-con-pan/index.html  200
+/baseus-bomba  /producto/baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil/index.html  200
+/limpiador-parrilla  /producto/limpiador-parrilla-electrica-herramientas-barbacoa/index.html  200
+/herramientas-deli  /producto/kit-herramientas-deli-martillo-acero-alto-carbono-alicates-cuchillo-ut/index.html  200
+/rapida-cargador  /producto/rapida-cargador-de-bateria-auto-y-moto-12v-24v-inteligent-anhtczyx-j30/index.html  200
+/notebook-hp  /producto/notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home/index.html  200
+/foco-led  /producto/foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris/index.html  200
+/tablet-galaxy  /producto/tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung/index.html  200
+/dongle-usb  /producto/dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo/index.html  200
+/mochila-impermeable  /producto/mochila-impermeable-norplat-90l-para-camping-trekking-viajes-color-neg/index.html  200
+/compresor-aire  /producto/compresor-de-aire-lernen-290-w-120-psi-2-baterias-negro/index.html  200
+/camping-acero  /producto/set-camping-acero-inox-organizador-cubiertos-completos/index.html  200
+/brasero-fogon  /producto/brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve/index.html  200
+/internet-via  /producto/kit-de-internet-via-satelite-starlink-mini-blanco/index.html  200
+/gas-butano  /producto/gas-butano-nautika-230grs-para-cocinillas-lamparas-camping/index.html  200
+/manta-aislante  /producto/manta-aislante-de-aluminio-para-camping-o-picnic-2x2m/index.html  200
+/ionizador-solar  /producto/ionizador-solar-para-piscina-lernen-para-130-000-litros-accesorios/index.html  200
+/manguera-limpia  /producto/manguera-limpia-piscina-10-metros-flexible-azul-con-terminal/index.html  200
+/manguera-jardin  /producto/manguera-jardin-reforzada-1-2-pulgada-30-mts-mas-accesorios-verde-oscu/index.html  200
+/sillas-playa  /producto/sillas-playa-camping-ninos-plegable-con-bolso-y-portavaso/index.html  200
+/guirnalda-solar  /producto/guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo/index.html  200
+/carrito-camping  /producto/carrito-camping-plegable-multiuso-100kg-ruedas-360-negro/index.html  200
+/chaqueta-trade  /producto/chaqueta-trade-executive-unisex/index.html  200

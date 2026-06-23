@@ -45,6 +45,25 @@ const slugify = s => String(s || '')
   .slice(0, 70)
   .replace(/-+$/g, '');
 
+// ─── Slug CORTO para URL memorable (zerchnomore.app/creatina) ────────────────
+// Palabras de relleno que NO aportan al nombre corto.
+const SHORT_STOP = new Set(['de','la','el','los','las','para','con','por','y','o','a','un','una','del','en','al','x','pack','set','kit','color','negro','blanco','azul','rojo','gris','verde','premium','original','nuevo','nueva']);
+// Rutas reservadas del sitio — un slug corto NUNCA puede pisarlas.
+const SHORT_RESERVED = new Set(['producto','categoria','top-hallazgos-zerch-chile','health','click','index','404','robots','sitemap','app','build-seo','readme','assets','img','images','static','api']);
+// Genera un slug corto (2 palabras clave) único. Usa p.short si Zerchy ya lo definió.
+function shortSlug(p, taken) {
+  let base = p.short ? slugify(p.short) : '';
+  if (!base) {
+    const words = slugify(p.titulo).split('-').filter(w => w && !SHORT_STOP.has(w) && !/^\d+$/.test(w));
+    base = words.slice(0, 2).join('-');
+  }
+  base = base || slugify(p.titulo).split('-').slice(0, 2).join('-') || String(p.id).toLowerCase();
+  let s = base, i = 2;
+  while (SHORT_RESERVED.has(s) || taken.has(s)) s = `${base}-${i++}`;
+  taken.add(s);
+  return s;
+}
+
 const clp = (n, moneda = 'CLP') => !n ? '' : (moneda === 'CLP' ? '$' + n.toLocaleString('es-CL') : n.toLocaleString());
 
 /** Descuento VALIDADO: solo si precio_original existe y es mayor que el precio actual. */
@@ -314,6 +333,21 @@ function sitemap(productos, catsConProductos) {
 
 const ROBOTS = `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`;
 
+// ─── _redirects: slugs cortos por producto (rewrite 200 → la URL corta se queda) ──
+const REDIRECTS_HEADER = `# Cloudflare Pages _redirects — generado por build-seo.mjs (NO editar a mano la sección de productos)
+# Health check
+/health  /index.html  200
+
+# Click tracking endpoint (Cloudflare Worker)
+# /click  https://click-tracker.zerchnomore.workers.dev/track  200
+`;
+function buildRedirects(productos) {
+  const lines = productos
+    .filter(p => p.short && p.slug)
+    .map(p => `/${p.short}  /producto/${p.slug}/index.html  200`);
+  return `${REDIRECTS_HEADER}\n# Slugs cortos por producto (zerchnomore.app/<short>)\n${lines.join('\n')}\n`;
+}
+
 // ─── Inyección en la home ─────────────────────────────────────────────────────
 
 async function injectHome(productos) {
@@ -373,6 +407,9 @@ async function main() {
     seen.add(slug);
     p.slug = slug;
   }
+  // Slug CORTO único por producto (zerchnomore.app/<short>) — se persiste en products.json
+  const takenShort = new Set();
+  for (const p of productos) p.short = shortSlug(p, takenShort);
   await fs.writeFile(dataFile, JSON.stringify(data, null, 2) + '\n', 'utf-8');
 
   // Aviso de datos sospechosos (no bloquea el build)
@@ -411,6 +448,7 @@ async function main() {
   // Sitemap, robots, 404
   await fs.writeFile(path.join(ROOT, 'sitemap.xml'), sitemap(productos, catsConProductos), 'utf-8');
   await fs.writeFile(path.join(ROOT, 'robots.txt'), ROBOTS, 'utf-8');
+  await fs.writeFile(path.join(ROOT, '_redirects'), buildRedirects(productos), 'utf-8');
   await fs.writeFile(path.join(ROOT, '404.html'), notFoundPage(), 'utf-8');
 
   // Home estática

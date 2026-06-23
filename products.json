@@ -25,7 +25,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-23T02:40:24.565Z",
       "instagram_post_id": null,
-      "slug": "nuevo-raton-bluetooth-inalambrico-ultrafino-recargable-silencioso-mult"
+      "slug": "nuevo-raton-bluetooth-inalambrico-ultrafino-recargable-silencioso-mult",
+      "short": "raton-bluetooth"
     },
     {
       "id": "AE1005010216871271",
@@ -46,7 +47,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T02:38:51.876Z",
       "instagram_post_id": null,
-      "slug": "telemetro-laser-medidor-de-distancia-telemetro-cinta-laser-telemetro-c"
+      "slug": "telemetro-laser-medidor-de-distancia-telemetro-cinta-laser-telemetro-c",
+      "short": "telemetro-laser"
     },
     {
       "id": "AE1005006991409303",
@@ -67,7 +69,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-23T02:37:14.194Z",
       "instagram_post_id": null,
-      "slug": "cinta-metrica-de-acero-de-alta-precision-para-el-hogar-herramienta-de"
+      "slug": "cinta-metrica-de-acero-de-alta-precision-para-el-hogar-herramienta-de",
+      "short": "cinta-metrica"
     },
     {
       "id": "AE1005007344883681",
@@ -88,7 +91,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T02:35:39.078Z",
       "instagram_post_id": null,
-      "slug": "aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c"
+      "slug": "aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c",
+      "short": "aqara-sensor"
     },
     {
       "id": "AE1005008248141347",
@@ -109,7 +113,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T02:34:05.065Z",
       "instagram_post_id": null,
-      "slug": "aqara-sensor-inteligente-de-temperatura-dispositivo-medidor-de-humedad"
+      "slug": "aqara-sensor-inteligente-de-temperatura-dispositivo-medidor-de-humedad",
+      "short": "aqara-sensor-2"
     },
     {
       "id": "AE1005006437000769",
@@ -130,7 +135,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-23T02:30:20.430Z",
       "instagram_post_id": null,
-      "slug": "edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin"
+      "slug": "edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin",
+      "short": "edifier-mp85"
     },
     {
       "id": "AE1005008715563874",
@@ -151,7 +157,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T02:26:58.889Z",
       "instagram_post_id": null,
-      "slug": "conmutador-hdmi-vention-8k-bidireccional-2-1-interruptor-hdmi-1x2-2x1"
+      "slug": "conmutador-hdmi-vention-8k-bidireccional-2-1-interruptor-hdmi-1x2-2x1",
+      "short": "conmutador-hdmi"
     },
     {
       "id": "AE1005009694480700",
@@ -172,7 +179,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-23T02:23:07.645Z",
       "instagram_post_id": null,
-      "slug": "pelacables-industrial-multifuncional-de-8-5-pulgadas-cortador-alicates"
+      "slug": "pelacables-industrial-multifuncional-de-8-5-pulgadas-cortador-alicates",
+      "short": "pelacables-industrial"
     },
     {
       "id": "AE1005008779689384",
@@ -193,7 +201,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-23T02:17:06.317Z",
       "instagram_post_id": null,
-      "slug": "gopeak-minilinterna-de-bolsillo-para-exteriores-tapa-con-clip-para-lla"
+      "slug": "gopeak-minilinterna-de-bolsillo-para-exteriores-tapa-con-clip-para-lla",
+      "short": "gopeak-minilinterna"
     },
     {
       "id": "AE1005009744479223",
@@ -214,7 +223,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T01:03:08.196Z",
       "instagram_post_id": null,
-      "slug": "luz-de-pared-con-camara-solar-2k-camara-wifi-para-exteriores-de-2-4g-p"
+      "slug": "luz-de-pared-con-camara-solar-2k-camara-wifi-para-exteriores-de-2-4g-p",
+      "short": "luz-pared"
     },
     {
       "id": "AE1005009332334323",
@@ -235,7 +245,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-23T00:59:58.841Z",
       "instagram_post_id": null,
-      "slug": "xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan"
+      "slug": "xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan",
+      "short": "xiaomi-banco"
     },
     {
       "id": "AE1005009658408878",
@@ -256,7 +267,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T00:56:27.626Z",
       "instagram_post_id": null,
-      "slug": "nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi"
+      "slug": "nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi",
+      "short": "removedor-pelusas"
     },
     {
       "id": "AE1005006599887492",
@@ -277,7 +289,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T00:52:23.536Z",
       "instagram_post_id": null,
-      "slug": "afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par"
+      "slug": "afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par",
+      "short": "afeitadora-electrica"
     },
     {
       "id": "AE1005010565069760",
@@ -298,7 +311,8 @@
       "categoria_label": "🏠 HOGAR",
       "fecha_publicacion": "2026-06-23T00:48:48.761Z",
       "instagram_post_id": null,
-      "slug": "xiaomi-zink-papel-de-impresora-de-bolsillo-impresion-fotografica-autoa"
+      "slug": "xiaomi-zink-papel-de-impresora-de-bolsillo-impresion-fotografica-autoa",
+      "short": "xiaomi-zink"
     },
     {
       "id": "AE1005006211308114",
@@ -319,7 +333,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-23T00:44:57.538Z",
       "instagram_post_id": null,
-      "slug": "baseus-probador-de-alcohol-portatil-sin-contacto-alcoholimetro-con-pan"
+      "slug": "baseus-probador-de-alcohol-portatil-sin-contacto-alcoholimetro-con-pan",
+      "short": "baseus-probador"
     },
     {
       "id": "AE1005005605683958",
@@ -340,7 +355,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-23T00:41:14.261Z",
       "instagram_post_id": null,
-      "slug": "baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil"
+      "slug": "baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil",
+      "short": "baseus-bomba"
     },
     {
       "id": "melila2vaFKAx",
@@ -361,7 +377,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-23T00:27:00.470Z",
       "instagram_post_id": null,
-      "slug": "limpiador-parrilla-electrica-herramientas-barbacoa"
+      "slug": "limpiador-parrilla-electrica-herramientas-barbacoa",
+      "short": "limpiador-parrilla"
     },
     {
       "id": "AE1005005139432408",
@@ -382,7 +399,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-22T12:46:54.261Z",
       "instagram_post_id": null,
-      "slug": "kit-herramientas-deli-martillo-acero-alto-carbono-alicates-cuchillo-ut"
+      "slug": "kit-herramientas-deli-martillo-acero-alto-carbono-alicates-cuchillo-ut",
+      "short": "herramientas-deli"
     },
     {
       "id": "melila1DVPbMv",
@@ -400,7 +418,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-22T03:40:35.922Z",
       "instagram_post_id": null,
-      "slug": "rapida-cargador-de-bateria-auto-y-moto-12v-24v-inteligent-anhtczyx-j30"
+      "slug": "rapida-cargador-de-bateria-auto-y-moto-12v-24v-inteligent-anhtczyx-j30",
+      "short": "rapida-cargador"
     },
     {
       "id": "melila1Kk94Vf",
@@ -418,7 +437,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-22T03:12:16.577Z",
       "instagram_post_id": null,
-      "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home"
+      "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home",
+      "short": "notebook-hp"
     },
     {
       "id": "melila11eqkgj",
@@ -439,7 +459,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-20T21:51:37.093Z",
       "instagram_post_id": null,
-      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris"
+      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris",
+      "short": "foco-led"
     },
     {
       "id": "melila1989Er5",
@@ -460,7 +481,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-20T21:50:26.040Z",
       "instagram_post_id": null,
-      "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung"
+      "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung",
+      "short": "tablet-galaxy"
     },
     {
       "id": "melila2eGm646",
@@ -478,7 +500,8 @@
       "categoria_label": "📱 TECH",
       "fecha_publicacion": "2026-06-19T20:12:43.781Z",
       "instagram_post_id": null,
-      "slug": "dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo"
+      "slug": "dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo",
+      "short": "dongle-usb"
     },
     {
       "id": "melila1jiYk4U",
@@ -499,7 +522,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-06-19T18:48:31.472Z",
       "instagram_post_id": null,
-      "slug": "mochila-impermeable-norplat-90l-para-camping-trekking-viajes-color-neg"
+      "slug": "mochila-impermeable-norplat-90l-para-camping-trekking-viajes-color-neg",
+      "short": "mochila-impermeable"
     },
     {
       "id": "melila1ti1YTC",
@@ -520,7 +544,8 @@
       "categoria_label": "🔧 HERRAMIENTAS",
       "fecha_publicacion": "2026-06-19T18:09:23.895Z",
       "instagram_post_id": null,
-      "slug": "compresor-de-aire-lernen-290-w-120-psi-2-baterias-negro"
+      "slug": "compresor-de-aire-lernen-290-w-120-psi-2-baterias-negro",
+      "short": "compresor-aire"
     },
     {
       "id": "melila1V27a4L",
@@ -541,7 +566,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-06-19T04:35:45.644Z",
       "instagram_post_id": null,
-      "slug": "set-camping-acero-inox-organizador-cubiertos-completos"
+      "slug": "set-camping-acero-inox-organizador-cubiertos-completos",
+      "short": "camping-acero"
     },
     {
       "id": "melila2UqMcCw",
@@ -562,7 +588,8 @@
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-06-17T01:16:14.181Z",
       "instagram_post_id": null,
-      "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve"
+      "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve",
+      "short": "brasero-fogon"
     },
     {
       "id": "melila2MrgrW9",
@@ -583,7 +610,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-06-15T07:45:15.435Z",
       "instagram_post_id": null,
-      "slug": "kit-de-internet-via-satelite-starlink-mini-blanco"
+      "slug": "kit-de-internet-via-satelite-starlink-mini-blanco",
+      "short": "internet-via"
     },
     {
       "id": "melila2KNfTa3",
@@ -604,7 +632,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-26T08:05:55.149Z",
       "instagram_post_id": null,
-      "slug": "gas-butano-nautika-230grs-para-cocinillas-lamparas-camping"
+      "slug": "gas-butano-nautika-230grs-para-cocinillas-lamparas-camping",
+      "short": "gas-butano"
     },
     {
       "id": "melila1faKJRG",
@@ -625,7 +654,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-26T02:16:28.604Z",
       "instagram_post_id": null,
-      "slug": "manta-aislante-de-aluminio-para-camping-o-picnic-2x2m"
+      "slug": "manta-aislante-de-aluminio-para-camping-o-picnic-2x2m",
+      "short": "manta-aislante"
     },
     {
       "id": "melila1tUSpQ6",
@@ -646,7 +676,8 @@
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-25T06:54:16.794Z",
       "instagram_post_id": null,
-      "slug": "ionizador-solar-para-piscina-lernen-para-130-000-litros-accesorios"
+      "slug": "ionizador-solar-para-piscina-lernen-para-130-000-litros-accesorios",
+      "short": "ionizador-solar"
     },
     {
       "id": "melila29PpMtv",
@@ -667,7 +698,8 @@
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-25T06:54:06.962Z",
       "instagram_post_id": null,
-      "slug": "manguera-limpia-piscina-10-metros-flexible-azul-con-terminal"
+      "slug": "manguera-limpia-piscina-10-metros-flexible-azul-con-terminal",
+      "short": "manguera-limpia"
     },
     {
       "id": "melila2Vub3kw",
@@ -688,7 +720,8 @@
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-25T06:14:48.330Z",
       "instagram_post_id": null,
-      "slug": "manguera-jardin-reforzada-1-2-pulgada-30-mts-mas-accesorios-verde-oscu"
+      "slug": "manguera-jardin-reforzada-1-2-pulgada-30-mts-mas-accesorios-verde-oscu",
+      "short": "manguera-jardin"
     },
     {
       "id": "melila2xmT4mK",
@@ -709,7 +742,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-22T19:27:20.272Z",
       "instagram_post_id": null,
-      "slug": "sillas-playa-camping-ninos-plegable-con-bolso-y-portavaso"
+      "slug": "sillas-playa-camping-ninos-plegable-con-bolso-y-portavaso",
+      "short": "sillas-playa"
     },
     {
       "id": "melila275dsYD",
@@ -730,7 +764,8 @@
       "categoria_label": "🌿 JARDÍN",
       "fecha_publicacion": "2026-05-22T19:25:14.280Z",
       "instagram_post_id": null,
-      "slug": "guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo"
+      "slug": "guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo",
+      "short": "guirnalda-solar"
     },
     {
       "id": "melila1Gix7Fs",
@@ -751,7 +786,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-21T14:52:17.202Z",
       "instagram_post_id": null,
-      "slug": "carrito-camping-plegable-multiuso-100kg-ruedas-360-negro"
+      "slug": "carrito-camping-plegable-multiuso-100kg-ruedas-360-negro",
+      "short": "carrito-camping"
     },
     {
       "id": "MLC1472443623",
@@ -769,7 +805,8 @@
       "categoria_label": "🌲 OUTDOOR",
       "fecha_publicacion": "2026-05-18T05:26:51.155Z",
       "instagram_post_id": null,
-      "slug": "chaqueta-trade-executive-unisex"
+      "slug": "chaqueta-trade-executive-unisex",
+      "short": "chaqueta-trade"
     }
   ]
 }
