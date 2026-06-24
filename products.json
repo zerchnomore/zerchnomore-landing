@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T01:04:43.166Z"
+    "last_updated": "2026-06-24T01:17:59.478Z"
   },
   "productos": [
+    {
+      "id": "melila1sizGXK",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Rasuradora Corporal Masculina Mycocos® 4.0 Azul",
+      "precio": 55990,
+      "precio_original": 69990,
+      "descuento": "20% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782264020/zerch/melila1sizGXK_1782263873/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJWib6MAVd0O0BrRszkYb9uS%2FZCMwqznntLExEQu4pDy9I8o7WzsSodblRribMkb7LxTlzoLhf3ZoUafAkMmJJciurALyCv5XrAnczRBr3vNdZtpQKN1R1AHGWTu%2FxHG8pWdzPPhoM5sQ%2FjEC9ztlkCmNNkNRl5lZDnK3W4FElzdhvtKpEHeSwkaTDNMsVEohKVWt%2Bhe3pqpT4xU4lVX8XfNsfX5IolBESfS6w%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-24T01:17:59.478Z",
+      "instagram_post_id": null,
+      "short": "rasuradora-corporal",
+      "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul"
+    },
     {
       "id": "melila1ubZasc",
       "source": "mercadolibre",
@@ -335,28 +357,6 @@
       "instagram_post_id": null,
       "slug": "afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par",
       "short": "afeitadora-electrica"
-    },
-    {
-      "id": "AE1005010565069760",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Xiaomi ZINK Papel de impresora de bolsillo Impresión fotográfica autoadhesiva 50/100/150/200 hojas Xiaomi Mini papeles de impresora de 3 pulgadas",
-      "precio": 22600,
-      "precio_original": 50222,
-      "descuento": "54%",
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 0,
-      "vendidos": "75 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782175853/zerch/AE1005010565069760_1782175721/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c45SHZFR",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T00:48:48.761Z",
-      "instagram_post_id": null,
-      "slug": "xiaomi-zink-papel-de-impresora-de-bolsillo-impresion-fotografica-autoa",
-      "short": "xiaomi-zink"
     },
     {
       "id": "AE1005006211308114",
