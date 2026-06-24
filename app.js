@@ -214,10 +214,17 @@ window.filterByCategory = function(catId) {
 function renderStoreNav(productos) {
   const nav = document.getElementById('stores-nav');
   if (!nav) return;
+  const NICE = {
+    mercadolibre: { label: 'Mercado Libre', emoji: '🛒' },
+    aliexpress: { label: 'AliExpress', emoji: '📦' },
+  };
   const stores = {};
   productos.forEach(p => {
     if (!p.source) return;
-    if (!stores[p.source]) stores[p.source] = { label: p.source_label || p.source, emoji: p.source_emoji || '🏪', n: 0 };
+    if (!stores[p.source]) {
+      const m = NICE[p.source] || { label: p.source_label || p.source, emoji: p.source_emoji || '🏪' };
+      stores[p.source] = { label: m.label, emoji: m.emoji, n: 0 };
+    }
     stores[p.source].n++;
   });
   const btns = Object.entries(stores).map(([src, s]) =>
