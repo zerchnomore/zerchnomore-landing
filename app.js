@@ -88,7 +88,7 @@ function renderFeatured(producto) {
     container.innerHTML = `
       <div class="text-center py-12 text-zerch-gray">
         <p>Primer hallazgo cargando pronto...</p>
-        <p class="text-xs mt-2 text-zerch-dim">Visitá @zerch_nomore mientras tanto.</p>
+        <p class="text-xs mt-2 text-zerch-dim">Visita @zerch_nomore mientras tanto.</p>
       </div>`;
     return;
   }
@@ -112,10 +112,10 @@ function renderFeatured(producto) {
           <span class="text-3xl md:text-4xl font-black text-zerch-lime">${precioFmt}</span>
           ${precioOrigFmt ? `<span class="text-zerch-dim line-through text-lg">${precioOrigFmt}</span>` : ''}
         </div>
-        ${producto.rating ? `
+        ${(producto.rating && producto.reviews_count > 0) ? `
           <p class="text-zerch-gray text-sm mb-6">
-            ★ ${producto.rating.toFixed(1)} · ${producto.reviews_count?.toLocaleString('es-CL') || 0} reviews · ${escapeHtml(producto.vendidos || 'bestseller')}
-          </p>` : '<div class="mb-6"></div>'}
+            ★ ${producto.rating.toFixed(1)} · ${producto.reviews_count.toLocaleString('es-CL')} reviews · ${escapeHtml(producto.vendidos || 'bestseller')}
+          </p>` : (producto.vendidos ? `<p class="text-zerch-gray text-sm mb-6">${escapeHtml(producto.vendidos)}</p>` : '<div class="mb-6"></div>')}
         <a href="${escapeHtml(producto.link)}" target="_blank" rel="noopener nofollow sponsored"
            onclick="handleProductClick(event, '${escapeHtml(producto.id)}', '${escapeHtml(producto.link)}')"
            class="btn-cta block w-full py-5 rounded-full text-center text-lg">
@@ -163,7 +163,7 @@ function renderProductsList(productos, filter = 'all') {
     list.innerHTML = `
       <div class="col-span-full text-center py-12 text-zerch-gray">
         <p>Sin productos en esta categoría todavía.</p>
-        <p class="text-xs mt-2 text-zerch-dim">Vienen más pronto. Seguinos en @zerch_nomore.</p>
+        <p class="text-xs mt-2 text-zerch-dim">Vienen más pronto. Síguenos en @zerch_nomore.</p>
       </div>`;
     return;
   }
@@ -185,7 +185,7 @@ function renderProductsList(productos, filter = 'all') {
           <span class="text-zerch-lime font-black text-lg">${formatPrice(p.precio, p.moneda)}</span>
           ${dealPct ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">${dealPct}% OFF</span>` : ''}
         </div>
-        ${p.rating ? `<p class="text-zerch-dim text-xs mt-2">★ ${p.rating.toFixed(1)} · ${p.reviews_count?.toLocaleString('es-CL') || 0} reviews</p>` : ''}
+        ${(p.rating && p.reviews_count > 0) ? `<p class="text-zerch-dim text-xs mt-2">★ ${p.rating.toFixed(1)} · ${p.reviews_count.toLocaleString('es-CL')} reviews</p>` : ''}
       </div>
     </a>`;
   }).join('');
