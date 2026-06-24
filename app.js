@@ -116,8 +116,7 @@ function renderFeatured(producto) {
           <p class="text-zerch-gray text-sm mb-6">
             ★ ${producto.rating.toFixed(1)} · ${producto.reviews_count.toLocaleString('es-CL')} reviews · ${escapeHtml(producto.vendidos || 'bestseller')}
           </p>` : (producto.vendidos ? `<p class="text-zerch-gray text-sm mb-6">${escapeHtml(producto.vendidos)}</p>` : '<div class="mb-6"></div>')}
-        <a href="${escapeHtml(producto.link)}" target="_blank" rel="noopener nofollow sponsored"
-           onclick="handleProductClick(event, '${escapeHtml(producto.id)}', '${escapeHtml(producto.link)}')"
+        <a href="/click?id=${escapeHtml(producto.id)}" target="_blank" rel="noopener nofollow sponsored"
            class="btn-cta block w-full py-5 rounded-full text-center text-lg">
           COMPRA AQUÍ →
         </a>

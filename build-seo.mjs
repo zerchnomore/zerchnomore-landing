@@ -226,8 +226,7 @@ function productPage(p, all) {
         Precio real de ${clp(p.precio, p.moneda)}${d ? `, un ${d}% menos que su precio normal de ${clp(p.precio_original, p.moneda)}` : ''}${(p.rating && p.reviews_count > 0) ? `, con ${p.rating.toFixed(1)} estrellas de compradores reales` : ''}.
         Sin humo: si está acá, es porque lo publicaríamos igual en nuestro Instagram.
       </p>
-      <a href="${esc(p.link)}" target="_blank" rel="noopener nofollow sponsored"
-         onclick="zerchTrack('${esc(p.id)}', '${esc(p.link)}')"
+      <a href="/click?id=${esc(p.id)}" target="_blank" rel="noopener nofollow sponsored"
          class="btn-cta block w-full py-5 rounded-full text-center text-lg">COMPRA AQUÍ EN ${esc(tienda.toUpperCase())} →</a>
       <p class="text-zerch-dim text-xs text-center mt-3">Link de afiliado · #publicidad · Precio verificado el ${fecha}</p>
     </div>
