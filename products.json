@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T02:07:00.225Z"
+    "last_updated": "2026-06-24T02:15:55.147Z"
   },
   "productos": [
+    {
+      "id": "melila1TwRynQ",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Aspiradora Multifunción Metálica Polvo Agua 30 Litros 1500w",
+      "precio": 62555,
+      "precio_original": 99990,
+      "descuento": "37% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782267496/zerch/melila1TwRynQ_1782267348/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGKzSI8IV9i3Cmdx%2BYtQDfb41scZtDyOUkNz3GtsiSrAVDnq%2Bm%2BgkQuv%2BEWO7UTIGNLShF414u1dk5ESkKYLmeXW1chP5irOD5bPU0bafru7NeSLdyioLs9uQY5SVN88x4yo2vLatznFieJzf4WuUoadXnWVPaqvSPejaKSg2BON0y1LXkFOf0E8gadhDvgHBKClfkgqo3EpU9DnTgb9d954C36f%2FmxHNXO6EQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-24T02:15:55.147Z",
+      "instagram_post_id": null,
+      "short": "aspiradora-multifuncion",
+      "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w"
+    },
     {
       "id": "melila23NK8U6",
       "source": "mercadolibre",
@@ -313,28 +335,6 @@
       "instagram_post_id": null,
       "slug": "edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin",
       "short": "edifier-mp"
-    },
-    {
-      "id": "AE1005008715563874",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Conmutador HDMI Vention 8K bidireccional 2,1 interruptor HDMI 1x2/2x1 adaptador 2 en 1 convertidor de salida para PS4/5 Xiaomi TV Box divisor HDMI",
-      "precio": 11200,
-      "precio_original": 24348,
-      "descuento": "54%",
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 0,
-      "vendidos": "1306 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782181745/zerch/AE1005008715563874_1782181612/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c3dkgKdr",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T02:26:58.889Z",
-      "instagram_post_id": null,
-      "slug": "conmutador-hdmi-vention-8k-bidireccional-2-1-interruptor-hdmi-1x2-2x1",
-      "short": "conmutador-hdmi"
     },
     {
       "id": "AE1005009694480700",
