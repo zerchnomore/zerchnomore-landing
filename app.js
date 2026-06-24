@@ -105,7 +105,7 @@ function renderFeatured(producto) {
       </div>
       <div class="p-6 md:p-8">
         <h3 class="text-xl md:text-2xl font-black text-zerch-white mb-3 leading-tight">
-          ${escapeHtml(producto.titulo)}
+          ${escapeHtml(producto.titulo_display || producto.titulo)}
         </h3>
         <div class="flex items-baseline gap-3 mb-3">
           ${dealPct ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">${dealPct}% OFF</span>` : ''}
@@ -180,7 +180,7 @@ function renderProductsList() {
       </div>
       <div class="p-4">
         <h4 class="text-zerch-white font-bold text-sm mb-2 line-clamp-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
-          ${escapeHtml(p.titulo)}
+          ${escapeHtml(p.titulo_display || p.titulo)}
         </h4>
         <div class="flex items-baseline justify-between">
           <span class="text-zerch-lime font-black text-lg">${formatPrice(p.precio, p.moneda)}</span>

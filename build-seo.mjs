@@ -152,7 +152,7 @@ function card(p) {
     <img src="${esc(p.imagen)}" alt="${esc(p.titulo)} — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
   </div>
   <div class="p-4">
-    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">${esc(p.titulo)}</h3>
+    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">${esc(p.titulo_display || p.titulo)}</h3>
     <div class="flex items-baseline justify-between">
       <span class="text-zerch-lime font-black text-lg">${clp(p.precio, p.moneda)}</span>
       ${d ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">${d}% OFF</span>` : ''}
@@ -205,7 +205,7 @@ function productPage(p, all) {
 <nav class="max-w-3xl mx-auto px-6 pt-6 text-xs text-zerch-dim" aria-label="breadcrumb">
   <a href="/" class="hover:text-zerch-lime">Inicio</a> ›
   <a href="/categoria/${p.categoria_id}/" class="hover:text-zerch-lime">${esc(cat.nombre)}</a> ›
-  <span class="text-zerch-gray">${esc(p.titulo)}</span>
+  <span class="text-zerch-gray">${esc(p.titulo_display || p.titulo)}</span>
 </nav>
 <main class="max-w-3xl mx-auto px-6 py-8">
   <article class="bg-zerch-char rounded-xl overflow-hidden border border-zinc-800">
@@ -213,7 +213,7 @@ function productPage(p, all) {
       <img src="${esc(p.imagen)}" alt="${esc(p.titulo)} — precio y oferta en Chile" class="w-full h-full object-contain" loading="eager">
     </div>
     <div class="p-6 md:p-8">
-      <h1 class="text-2xl md:text-3xl font-black text-zerch-white mb-4 leading-tight">${esc(p.titulo)} en Chile</h1>
+      <h1 class="text-2xl md:text-3xl font-black text-zerch-white mb-4 leading-tight">${esc(p.titulo_display || p.titulo)} en Chile</h1>
       <div class="flex items-baseline gap-3 mb-4 flex-wrap">
         ${d ? `<span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">${d}% OFF</span>` : ''}
         <span class="text-4xl font-black text-zerch-lime">${clp(p.precio, p.moneda)}</span>
