@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T01:37:46.066Z"
+    "last_updated": "2026-06-24T01:48:32.468Z"
   },
   "productos": [
+    {
+      "id": "melila1xwG8Ge",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
+      "precio": 84990,
+      "precio_original": 199990,
+      "descuento": "57% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782265853/zerch/melila1xwG8Ge_1782265705/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNa7oxntMiL%2F8zuHmHAAQ4kF9uSLxhHRaNbn1V9YHQE8cdYhXXKlBrd%2Fph10YV3MbBrq9CFC5sEKtbY0oo9KireAojEhVaxF%2FR8CSkKY0Qu6UAi7JU0csTv8NJ3QSBVeaQ7FjoainuI8aNTo7PpbUmeLVElgoNOusr0x7aQWiUjmRVTwmBuZIp9PlDcUQDqo1QMJarMYCMtaBTJDIk3JuuOjsMIdNmryjjWZwQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-24T01:48:32.468Z",
+      "instagram_post_id": null,
+      "short": "monitor-gamer",
+      "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f"
+    },
     {
       "id": "melila1zGXboA",
       "source": "mercadolibre",
@@ -357,28 +379,6 @@
       "instagram_post_id": null,
       "slug": "xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan",
       "short": "xiaomi-banco"
-    },
-    {
-      "id": "AE1005009658408878",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Nuevo Removedor de Pelusas Xiaomi 2026, Máquina Portátil USB para Eliminar Bolitas de Ropa, Recortadora de Pelusas para el Hogar",
-      "precio": 16700,
-      "precio_original": 23857,
-      "descuento": "29%",
-      "moneda": "CLP",
-      "rating": 5,
-      "reviews_count": 0,
-      "vendidos": "7 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176313/zerch/AE1005009658408878_1782176181/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4rRWlQ9",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T00:56:27.626Z",
-      "instagram_post_id": null,
-      "slug": "nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi",
-      "short": "removedor-pelusas"
     },
     {
       "id": "AE1005006211308114",
