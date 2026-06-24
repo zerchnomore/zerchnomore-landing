@@ -153,11 +153,12 @@ function renderCategoriesNav(productos) {
   `;
 }
 
-function renderProductsList(productos, filter = 'all') {
+function renderProductsList() {
   const list = document.getElementById('products-list');
-  const filtered = filter === 'all'
-    ? productos
-    : productos.filter(p => p.categoria_id === filter);
+  const filtered = _allProducts.filter(p =>
+    (_catFilter === 'all' || p.categoria_id === _catFilter) &&
+    (_storeFilter === 'all' || p.source === _storeFilter)
+  );
 
   if (filtered.length === 0) {
     list.innerHTML = `
@@ -193,9 +194,12 @@ function renderProductsList(productos, filter = 'all') {
 
 // Expongo globalmente para los onclick inline
 let _allProducts = [];
+let _catFilter = 'all';
+let _storeFilter = 'all';
 
 window.filterByCategory = function(catId) {
-  renderProductsList(_allProducts, catId);
+  _catFilter = catId;
+  renderProductsList();
   document.querySelectorAll('.cat-btn').forEach(btn => {
     if (btn.dataset.cat === catId) {
       btn.classList.add('bg-zerch-lime', 'text-black');
@@ -204,6 +208,31 @@ window.filterByCategory = function(catId) {
       btn.classList.remove('bg-zerch-lime', 'text-black');
       btn.classList.add('bg-zerch-char', 'border', 'border-zinc-800');
     }
+  });
+};
+
+function renderStoreNav(productos) {
+  const nav = document.getElementById('stores-nav');
+  if (!nav) return;
+  const stores = {};
+  productos.forEach(p => {
+    if (!p.source) return;
+    if (!stores[p.source]) stores[p.source] = { label: p.source_label || p.source, emoji: p.source_emoji || '🏪', n: 0 };
+    stores[p.source].n++;
+  });
+  const btns = Object.entries(stores).map(([src, s]) =>
+    `<button onclick="filterByStore('${src}')" data-store="${src}" class="store-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime transition-all">${s.emoji} ${escapeHtml(s.label)} <span class="text-zerch-dim">(${s.n})</span></button>`
+  ).join('');
+  nav.innerHTML = `<button onclick="filterByStore('all')" data-store="all" class="store-btn bg-zerch-lime text-black px-4 py-2 rounded-full text-sm font-black">TODAS LAS TIENDAS (${productos.length})</button>` + btns;
+}
+
+window.filterByStore = function(src) {
+  _storeFilter = src;
+  renderProductsList();
+  document.querySelectorAll('.store-btn').forEach(btn => {
+    const on = btn.dataset.store === src;
+    if (on) { btn.classList.add('bg-zerch-lime', 'text-black'); btn.classList.remove('bg-zerch-char', 'border', 'border-zinc-800'); }
+    else { btn.classList.remove('bg-zerch-lime', 'text-black'); btn.classList.add('bg-zerch-char', 'border', 'border-zinc-800'); }
   });
 };
 
@@ -224,14 +253,15 @@ async function boot() {
 
     // Featured = el más reciente
     renderFeatured(_allProducts[0]);
+    renderStoreNav(_allProducts);
     renderCategoriesNav(_allProducts);
-    renderProductsList(_allProducts);
+    renderProductsList();
 
   } catch (err) {
     console.error('Error cargando products.json:', err);
     document.getElementById('featured-product').innerHTML = `
       <div class="text-center py-12 text-zerch-gray">
-        <p>Error cargando productos. Intentá refrescar.</p>
+        <p>Error cargando productos. Intenta refrescar.</p>
       </div>`;
   }
 }
