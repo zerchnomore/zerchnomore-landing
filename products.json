@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T01:28:21.560Z"
+    "last_updated": "2026-06-24T01:37:46.066Z"
   },
   "productos": [
+    {
+      "id": "melila1zGXboA",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cadenas Para La Nieve,barro Y Hielo Antideslizante Camioneta",
+      "precio": 58990,
+      "precio_original": 76999,
+      "descuento": "28% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782265207/zerch/melila1zGXboA_1782265058/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBIktZGyQAmOkNk505R1Ht4sYfSsnRH5%2B7qG%2Bcco1JbGG2WmLrMWc%2Baj0J4AXHdr7yI2e7qRPJJ1U%2BFw52Haa2cAi37Yda4vN3RmE6CBxtF9%2FSptwYv3EuZhos66KU52lfMVp21oxg1eoOsUSlTm8VZ5jdQ9%2Fs9mXCpb8U%2F4DhfidsLUlOgGhJ3YPMne8CrjTNf1bA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-24T01:37:46.066Z",
+      "instagram_post_id": null,
+      "short": "cadenas-nieve",
+      "slug": "cadenas-para-la-nieve-barro-y-hielo-antideslizante-camioneta"
+    },
     {
       "id": "melila2UqMcCw",
       "source": "mercadolibre",
@@ -357,28 +379,6 @@
       "instagram_post_id": null,
       "slug": "nuevo-removedor-de-pelusas-xiaomi-2026-maquina-portatil-usb-para-elimi",
       "short": "removedor-pelusas"
-    },
-    {
-      "id": "AE1005006599887492",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Afeitadora Eléctrica Xiaomi Mijia S101, Máquina de Afeitar Mejorada para Hombres, Resistente al Agua, Afeitado en Seco y Húmedo, Recortadora de Barba",
-      "precio": 23300,
-      "precio_original": 67013,
-      "descuento": "65%",
-      "moneda": "CLP",
-      "rating": 4.6,
-      "reviews_count": 0,
-      "vendidos": "1291 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782176068/zerch/AE1005006599887492_1782175936/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4rSywrF",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T00:52:23.536Z",
-      "instagram_post_id": null,
-      "slug": "afeitadora-electrica-xiaomi-mijia-s101-maquina-de-afeitar-mejorada-par",
-      "short": "afeitadora-electrica"
     },
     {
       "id": "AE1005006211308114",
