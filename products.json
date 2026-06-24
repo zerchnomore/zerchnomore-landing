@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T02:15:55.147Z"
+    "last_updated": "2026-06-24T02:24:40.256Z"
   },
   "productos": [
+    {
+      "id": "melila1HHPgLo",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Hidrolavadora Lernen Hlp-1600 1600w Con Jabonera Espumador 120 Bar Color Amarillo Frecuencia 60 Hz",
+      "precio": 59990,
+      "precio_original": 99990,
+      "descuento": "40% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782268021/zerch/melila1HHPgLo_1782267872/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLT3y1ERhrRclxlasB6xLMY2MIRFnpb47%2BqbR%2BUDqdi384G4lQ%2BymE%2BPAZBiC3SyaR0FgBnn6UeOtMnM6f291zs%2FccLnR4tkLDFry2rBDrS3gR%2FwRC2A03suVYYLXlIbTZ7di4qswSYD6oWP1XT4hE5lR4W%2FgAiEbxZoXNI9pV0a%2BrCWx5ne0Tap2xOZHpTgxv2PL9rldZ0OqojO40hsWS7zT6gMENCxINJl%2FQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-06-24T02:24:40.255Z",
+      "instagram_post_id": null,
+      "short": "hidrolavadora-lernen",
+      "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col"
+    },
     {
       "id": "melila1TwRynQ",
       "source": "mercadolibre",
@@ -291,28 +313,6 @@
       "instagram_post_id": null,
       "slug": "aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c",
       "short": "aqara-sensor"
-    },
-    {
-      "id": "AE1005008248141347",
-      "source": "aliexpress",
-      "source_label": "aliexpress",
-      "source_emoji": "🏪",
-      "titulo": "Aqara Sensor Inteligente de Temperatura, Dispositivo Medidor de Humedad, Presión del Aire, Control Remoto Zigbee, Funciona con XiaoMi Home, Concentrador de Puerta de Enlace de Homekit",
-      "precio": 13300,
-      "precio_original": 26543,
-      "descuento": "49%",
-      "moneda": "CLP",
-      "rating": 4.9,
-      "reviews_count": 0,
-      "vendidos": "2519 vendidos",
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782182171/zerch/AE1005008248141347_1782182038/carrusel/slide_02_hero.png",
-      "link": "https://s.click.aliexpress.com/e/_c4CiPcKp",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-23T02:34:05.065Z",
-      "instagram_post_id": null,
-      "slug": "aqara-sensor-inteligente-de-temperatura-dispositivo-medidor-de-humedad",
-      "short": "aqara-sensor-b"
     },
     {
       "id": "AE1005006437000769",
