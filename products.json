@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T01:17:59.478Z"
+    "last_updated": "2026-06-24T01:28:21.560Z"
   },
   "productos": [
+    {
+      "id": "melila2UqMcCw",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Brasero Fogon Fireboss Terraza Sin Humo 68 Cm Bosscamp Silve",
+      "precio": 259990,
+      "precio_original": 349990,
+      "descuento": "25% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782264642/zerch/melila2UqMcCw_1782264494/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGusY1tcA4XZ5ruRuj%2FDNKtxlSqtTRMD%2FHjrPfhBV%2F0qRwCsjdX%2Bd1G0T9VUYfusunVpMfU7Bb1HynS7Hk2U5kBzxDwTh%2BHOUrO6pK8TRpThwai12huY%2FlXxeCy8AI82%2B4ca2Z63M7agzqDo9VBrWt54b2Klu8W4mZnrAEL0DuUbTYTz307c0WTkgT450RaV3saTJMCG4zEfZ5tDq%2BA7FgYO1bmySPDI6Ol%2FKCVaa66rJAC5",
+      "categoria_id": "jardin",
+      "categoria_label": "🌿 JARDÍN",
+      "fecha_publicacion": "2026-06-24T01:28:21.559Z",
+      "instagram_post_id": null,
+      "short": "brasero-fogon",
+      "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve"
+    },
     {
       "id": "melila1sizGXK",
       "source": "mercadolibre",
@@ -590,28 +612,6 @@
       "instagram_post_id": null,
       "slug": "set-camping-acero-inox-organizador-cubiertos-completos",
       "short": "camping-acero"
-    },
-    {
-      "id": "melila2UqMcCw",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Brasero Fogon Fireboss Terraza Sin Humo 68 Cm Bosscamp Silve",
-      "precio": 259990,
-      "precio_original": 349990,
-      "descuento": "25% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781659002/zerch/melila2UqMcCw_1781658967/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGusY1tcA4XZ5ruRuj%2FDNKtxlSqtTRMD%2FHjrPfhBV%2F0qRwCsjdX%2Bd1G0T9VUYfusunVpMfU7Bb1HynS7Hk2U5kBzxDwTh%2BHOUrO6pK8TRpThwai12huY%2FlXxeCy8AI82%2B4ca2Z63M7agzqDo9VBrWt54b2Klu8W4mZnrAEL0DuUbTYTz307c0WTkgT450RaV3saTJMCG4zEfZ5tDq%2BA7FgYO1bmySPDI6Ol%2FKCVaa66rJAC5",
-      "categoria_id": "jardin",
-      "categoria_label": "🌿 JARDÍN",
-      "fecha_publicacion": "2026-06-17T01:16:14.181Z",
-      "instagram_post_id": null,
-      "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve",
-      "short": "brasero-fogon"
     },
     {
       "id": "melila2MrgrW9",
