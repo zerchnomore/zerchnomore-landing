@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-06-24T01:57:43.630Z"
+    "last_updated": "2026-06-24T02:07:00.225Z"
   },
   "productos": [
+    {
+      "id": "melila23NK8U6",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Estación De Energía Portátil Lernen 350w Generador Eléctrico",
+      "precio": 174990,
+      "precio_original": 519990,
+      "descuento": "66% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782266962/zerch/melila23NK8U6_1782266814/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BH5lMtS96rmEY4ild5IuzuUnoOMXB%2BkS%2BFlaNUSjYFlqFynzhmk78h5yfj8GY7rg42uix1Had7oPIQQndq%2B7yv%2BDP9AQTRODuYBFeA1aA5qgBhUni3q%2F7YYvW4%2B01o1HT8HNRAWC2m8E6catPvqlIt6%2F%2BnBi8kZZ0U7EDbLSXcS7uhBIxgSLWuVktLbIOdNm6ltTcuovc89Tj8EtIUsZUGt0y0wesh5b1lot5w%3D%3D",
+      "categoria_id": "herramientas",
+      "categoria_label": "🔧 HERRAMIENTAS",
+      "fecha_publicacion": "2026-06-24T02:07:00.225Z",
+      "instagram_post_id": null,
+      "short": "estacion-energia",
+      "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico"
+    },
     {
       "id": "melila1HxK1jd",
       "source": "mercadolibre",
@@ -505,28 +527,6 @@
       "instagram_post_id": null,
       "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home",
       "short": "notebook-hp"
-    },
-    {
-      "id": "melila11eqkgj",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Foco Led Caza 1800w Largo Alcance Linterna Minera Camping Gris",
-      "precio": 35990,
-      "precio_original": 59990,
-      "descuento": "16% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781992389/zerch/melila11eqkgj_1781992291/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BDt5sUNuC%2F3PXORuYTwQPDLwUTTWA7CCVFiF7ja0NJKKBcdH5wD9xd81R7Qu8Lzw7uGkI1fLaSQxrPuUGcYH8YMqTMf0X%2F%2FTl2prn9KSiBmSih48x%2BDRVskMb%2BmPpf1jwZ3vEUFryOhYAp6Wxi41MeDw%2B1cBDRR3FREmrpBAc9BDr4qMj0Hxqfq7Af%2FWmFnoHohEh2Xcxo50LNUXWvEvrdOYDBjfQHOVuAIXwwqgn5%2BZP2Po",
-      "categoria_id": "herramientas",
-      "categoria_label": "🔧 HERRAMIENTAS",
-      "fecha_publicacion": "2026-06-20T21:51:37.093Z",
-      "instagram_post_id": null,
-      "slug": "foco-led-caza-1800w-largo-alcance-linterna-minera-camping-gris",
-      "short": "foco-led"
     },
     {
       "id": "melila1989Er5",
