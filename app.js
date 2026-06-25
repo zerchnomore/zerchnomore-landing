@@ -215,7 +215,6 @@ function renderStoreNav(productos) {
   if (!nav) return;
   const NICE = {
     mercadolibre: { label: 'Mercado Libre', emoji: '🛒' },
-    aliexpress: { label: 'AliExpress', emoji: '📦' },
   };
   const stores = {};
   productos.forEach(p => {

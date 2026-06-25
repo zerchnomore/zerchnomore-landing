@@ -168,8 +168,7 @@ function productPage(p, all) {
   const d = deal(p);
   const cat = CATEGORIES[p.categoria_id] || CATEGORIES.hogar;
   const fecha = (p.fecha_publicacion || '').slice(0, 10) || TODAY;
-  const esAli = p.source === 'aliexpress';
-  const tienda = esAli ? 'AliExpress' : (p.source_label || 'la tienda');
+  const tienda = p.source_label || "Mercado Libre";
   const description = `${p.titulo} a ${clp(p.precio, p.moneda)} en Chile${d ? ` (${d}% bajo su precio normal)` : ''}. Hallazgo de Zerch No More con link directo a ${tienda}.`;
 
   const jsonld = [{
@@ -187,7 +186,7 @@ function productPage(p, all) {
       priceCurrency: p.moneda || 'CLP',
       price: String(p.precio),
       availability: 'https://schema.org/InStock',
-      seller: { '@type': 'Organization', name: esAli ? 'AliExpress' : `${tienda} Chile` }
+      seller: { '@type': 'Organization', name: `${tienda} Chile` }
     }
   }, {
     '@context': 'https://schema.org',
@@ -222,7 +221,7 @@ function productPage(p, all) {
       ${(p.rating && p.reviews_count > 0) ? `<p class="text-zerch-gray text-sm mb-4">★ ${p.rating.toFixed(1)} · ${(p.reviews_count || 0).toLocaleString('es-CL')} reviews${p.vendidos ? ` · ${esc(p.vendidos)}` : ''}</p>` : (p.vendidos ? `<p class="text-zerch-gray text-sm mb-4">${esc(p.vendidos)}</p>` : '')}
       <h2 class="text-zerch-lime text-xs font-bold tracking-widest mb-2">POR QUÉ ES UN BUEN HALLAZGO</h2>
       <p class="text-zerch-gray text-sm leading-relaxed mb-6">
-        Parte de nuestra selección de ${esc(cat.copy)}. ${esAli ? `Viene de <strong class="text-zerch-white">AliExpress</strong> — envío internacional (suele llegar en 2-4 semanas); lo elegimos por su precio, no por entrega rápida.` : `Verificado en <strong class="text-zerch-white">${esc(tienda)}</strong> Chile, con despacho local.`}
+        Parte de nuestra selección de ${esc(cat.copy)}. Verificado en <strong class=\"text-zerch-white\">${esc(tienda)}</strong> Chile, con despacho local.
         Precio real de ${clp(p.precio, p.moneda)}${d ? `, un ${d}% menos que su precio normal de ${clp(p.precio_original, p.moneda)}` : ''}${(p.rating && p.reviews_count > 0) ? `, con ${p.rating.toFixed(1)} estrellas de compradores reales` : ''}.
         Sin humo: si está acá, es porque lo publicaríamos igual en nuestro Instagram.
       </p>
@@ -285,8 +284,7 @@ function evergreenPage(productos) {
   <p class="text-zerch-gray text-sm leading-relaxed mb-2 max-w-3xl">
     Los mejores hallazgos que encontramos para Chile: tecnología útil, cosas para la casa,
     herramientas para la pega y equipo outdoor. Acá no hay descuentos inventados — cada precio sale
-    de la ficha real del producto en su tienda (Mercado Libre, con despacho local, o AliExpress, con
-    envío internacional), y los descuentos se calculan sobre el precio normal real.
+    de la ficha real del producto en Mercado Libre, con despacho local a Chile, y los descuentos se calculan sobre el precio normal real.
   </p>
   <p class="text-zerch-dim text-xs mb-8">Actualizado: ${TODAY} · #publicidad · links de afiliado</p>
   <h2 class="text-zerch-lime text-xs font-bold tracking-widest mb-4">EL TOP 10 DE HOY (POR DESCUENTO REAL)</h2>
