@@ -401,7 +401,8 @@ async function injectHome(productos) {
 async function main() {
   const dataFile = path.join(ROOT, 'products.json');
   const data = JSON.parse(await fs.readFile(dataFile, 'utf-8'));
-  const productos = data.productos || [];
+  const dataIsArray = Array.isArray(data);
+  const productos = dataIsArray ? data : (data.productos || []);
 
   // Slugs estables y únicos (se persisten en products.json)
   const seen = new Set();
@@ -414,7 +415,8 @@ async function main() {
   // Slug CORTO único por producto (zerchnomore.app/<short>) — se persiste en products.json
   const takenShort = new Set();
   for (const p of productos) p.short = shortSlug(p, takenShort);
-  await fs.writeFile(dataFile, JSON.stringify(data, null, 2) + '\n', 'utf-8');
+  if (!dataIsArray) data.productos = productos;
+  await fs.writeFile(dataFile, JSON.stringify(dataIsArray ? productos : data, null, 2) + '\n', 'utf-8');
 
   // Aviso de datos sospechosos (no bloquea el build)
   for (const p of productos) {
