@@ -1,54 +1,8 @@
 // Cloudflare Pages Function — /stats?k=zerchstats  → ranking de clicks por producto (lee del KV).
-// Con ?format=json → { clicks: {id: count}, events: últimos 100 (ts/id/src), emails_count }.
-// El HTML se mantiene como respuesta por defecto.
-
-async function listAllKeys(kv, prefix) {
-  const keys = [];
-  let cursor;
-  do {
-    const res = await kv.list(cursor ? { prefix, cursor } : { prefix });
-    keys.push(...res.keys);
-    cursor = res.list_complete ? undefined : res.cursor;
-  } while (cursor);
-  return keys;
-}
-
 export async function onRequestGet({ request, env }) {
   const url = new URL(request.url);
   if (url.searchParams.get('k') !== 'zerchstats') return new Response('no autorizado', { status: 401 });
   const H = { 'content-type': 'text/html; charset=utf-8' };
-
-  // ── modo JSON ──
-  if (url.searchParams.get('format') === 'json') {
-    const JH = { 'content-type': 'application/json; charset=utf-8' };
-    if (!(env && env.CLICKS)) {
-      return new Response(JSON.stringify({ error: 'KV CLICKS no vinculado' }), { status: 500, headers: JH });
-    }
-    const out = { clicks: {}, events: [], emails_count: 0 };
-    try {
-      const clickKeys = await listAllKeys(env.CLICKS, 'clicks:');
-      for (const key of clickKeys) {
-        out.clicks[key.name.slice('clicks:'.length)] = parseInt((await env.CLICKS.get(key.name)) || '0', 10) || 0;
-      }
-      // eventos: key = 'ev:<ISO 24 chars>:<id>:<src>' — orden lexicográfico = cronológico
-      const evKeys = await listAllKeys(env.CLICKS, 'ev:');
-      out.events = evKeys.slice(-100).reverse().map(k => {
-        const rest = k.name.slice(3);
-        const ts = rest.slice(0, 24);
-        const remainder = rest.slice(25);
-        const cut = remainder.lastIndexOf(':');
-        return {
-          ts,
-          id: cut > 0 ? remainder.slice(0, cut) : remainder,
-          src: cut > 0 ? remainder.slice(cut + 1) : 'direct'
-        };
-      });
-      out.emails_count = (await listAllKeys(env.CLICKS, 'email:')).length;
-    } catch (_) { /* noop */ }
-    return new Response(JSON.stringify(out), { headers: JH });
-  }
-
-  // ── modo HTML (default, sin cambios) ──
   if (!(env && env.CLICKS)) {
     return new Response('<meta charset=utf-8><p style="font-family:system-ui">El KV <b>CLICKS</b> aún no está vinculado. Cloudflare → Pages → tu proyecto → Settings → Functions → KV namespace bindings → variable <code>CLICKS</code>.</p>', { headers: H });
   }

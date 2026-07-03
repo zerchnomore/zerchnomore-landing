@@ -241,57 +241,6 @@
   </div>
 </section>
 
-<!-- ═════════════ SUSCRIPCIÓN ═════════════ -->
-<section class="py-12 px-6">
-  <div class="max-w-xl mx-auto bg-zerch-char border border-zinc-800 rounded-xl p-6 md:p-8 text-center">
-    <h2 class="text-zerch-lime text-lg md:text-xl font-black mb-2 leading-tight">📬 Las 3 mejores ofertas verificadas de Chile, una vez por semana</h2>
-    <p class="text-zerch-gray text-sm mb-6">Sin spam. Solo hallazgos que ya revisamos.</p>
-    <form id="form-suscripcion" class="flex flex-col sm:flex-row gap-3 justify-center" autocomplete="off">
-      <input type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true"
-             style="position:absolute;left:-9999px;width:0;height:0;opacity:0;border:0;padding:0">
-      <input id="email-suscripcion" type="email" name="email" required placeholder="tu@correo.cl"
-             class="flex-1 bg-black border border-zinc-800 rounded-full px-5 py-3 text-zerch-white text-sm focus:border-zerch-lime focus:outline-none">
-      <button type="submit" class="bg-zerch-lime text-black font-black px-8 py-3 rounded-full text-sm tracking-widest hover:opacity-90">Suscribirme</button>
-    </form>
-    <p id="msg-suscripcion" class="text-zerch-lime text-sm font-bold mt-4 hidden"></p>
-  </div>
-</section>
-<script>
-(function () {
-  var f = document.getElementById('form-suscripcion');
-  if (!f) return;
-  f.addEventListener('submit', function (e) {
-    e.preventDefault();
-    var input = document.getElementById('email-suscripcion');
-    var msg = document.getElementById('msg-suscripcion');
-    var btn = f.querySelector('button[type=submit]');
-    var payload = { email: input.value.trim(), web: f.querySelector('input[name=web]').value };
-    btn.disabled = true;
-    fetch('/subscribe', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    })
-      .then(function (r) { return r.json(); })
-      .then(function (d) {
-        if (d && d.ok) {
-          msg.textContent = '¡Listo! Te llegarán solo ofertas verificadas.';
-          input.value = '';
-        } else {
-          msg.textContent = 'Revisa que tu correo esté bien escrito e intenta de nuevo.';
-        }
-        msg.classList.remove('hidden');
-        btn.disabled = false;
-      })
-      .catch(function () {
-        msg.textContent = 'No se pudo enviar. Intenta de nuevo en un momento.';
-        msg.classList.remove('hidden');
-        btn.disabled = false;
-      });
-  });
-})();
-</script>
-
 <!-- ═════════════ FOOTER ═════════════ -->
 <footer class="border-t border-zinc-900 py-12 px-6 mt-12">
   <div class="max-w-3xl mx-auto text-center">

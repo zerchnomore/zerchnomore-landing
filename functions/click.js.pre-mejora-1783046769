@@ -1,7 +1,6 @@
-// Cloudflare Pages Function — /click?id=<producto.id>&s=<origen: tt|ig|yt|mail>
-// Cuenta el clic (si el KV "CLICKS" está vinculado), registra un evento por origen
-// y redirige 302 al link de afiliado REAL del producto (sacado de products.json,
-// nunca de input del usuario → sin open-redirect). El 302 sale SIEMPRE aunque el KV falle.
+// Cloudflare Pages Function — /click?id=<producto.id>
+// Cuenta el clic (si el KV "CLICKS" está vinculado) y redirige 302 al link de afiliado REAL
+// del producto (sacado de products.json, nunca de input del usuario → sin open-redirect).
 export async function onRequestGet({ request, env }) {
   const url = new URL(request.url);
   const id = url.searchParams.get('id');
@@ -30,13 +29,6 @@ export async function onRequestGet({ request, env }) {
       const dkey = 'day:' + new Date().toISOString().slice(0, 10);
       const dn = parseInt((await env.CLICKS.get(dkey)) || '0', 10) || 0;
       await env.CLICKS.put(dkey, String(dn + 1));
-    } catch (_) { /* noop */ }
-    // evento por click con origen (?s=tt|ig|yt|mail, default 'direct') — retención 90 días
-    try {
-      const raw = (url.searchParams.get('s') || '').toLowerCase().trim();
-      const src = /^[a-z0-9_-]{1,16}$/.test(raw) ? raw : 'direct';
-      const evKey = 'ev:' + new Date().toISOString() + ':' + id + ':' + src;
-      await env.CLICKS.put(evKey, '1', { expirationTtl: 90 * 24 * 60 * 60 });
     } catch (_) { /* noop */ }
   }
   return Response.redirect(dest, 302);
