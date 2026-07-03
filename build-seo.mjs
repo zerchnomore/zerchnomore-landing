@@ -49,7 +49,7 @@ const slugify = s => String(s || '')
 // Palabras de relleno que NO aportan al nombre corto.
 const SHORT_STOP = new Set(['de','la','el','los','las','para','con','por','y','o','a','un','una','del','en','al','x','pack','set','kit','color','negro','blanco','azul','rojo','gris','verde','premium','original','nuevo','nueva']);
 // Rutas reservadas del sitio — un slug corto NUNCA puede pisarlas.
-const SHORT_RESERVED = new Set(['producto','categoria','top-hallazgos-zerch-chile','health','click','index','404','robots','sitemap','app','build-seo','readme','assets','img','images','static','api']);
+const SHORT_RESERVED = new Set(['producto','categoria','top-hallazgos-zerch-chile','health','click','index','404','robots','sitemap','app','build-seo','readme','assets','img','images','static','api','terminos','privacidad','stats','subscribe','health']);
 // slug SOLO letras a-z (sin acentos, ñ, números ni símbolos) + guiones entre palabras.
 const lslug = s => String(s || '')
   .toLowerCase()
