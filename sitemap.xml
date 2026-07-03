@@ -2,45 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zerchnomore.app/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/top-hallazgos-zerch-chile/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/categoria/tech/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/categoria/herramientas/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/categoria/hogar/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/categoria/outdoor/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/categoria/jardin/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zerchnomore.app/producto/estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://zerchnomore.app/producto/hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col/</loc>
@@ -97,80 +103,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://zerchnomore.app/producto/set-ollas-outdoor-camping-cocina-para-camping-utensilios-gris-oscuro/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/nuevo-raton-bluetooth-inalambrico-ultrafino-recargable-silencioso-mult/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/telemetro-laser-medidor-de-distancia-telemetro-cinta-laser-telemetro-c/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/cinta-metrica-de-acero-de-alta-precision-para-el-hogar-herramienta-de/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/aqara-sensor-de-movimiento-inteligente-para-el-hogar-dispositivo-con-c/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/edifier-mp85-altavoces-bluetooth-portatiles-altavoz-para-acampar-camin/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/pelacables-industrial-multifuncional-de-8-5-pulgadas-cortador-alicates/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/gopeak-minilinterna-de-bolsillo-para-exteriores-tapa-con-clip-para-lla/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/xiaomi-banco-de-energia-de-165-w-10000-mah-cable-usb-c-incorporado-pan/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/baseus-probador-de-alcohol-portatil-sin-contacto-alcoholimetro-con-pan/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/baseus-bomba-de-aire-inalambrica-para-coche-compresor-de-aire-portatil/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://zerchnomore.app/producto/limpiador-parrilla-electrica-herramientas-barbacoa/</loc>
     <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/kit-herramientas-deli-martillo-acero-alto-carbono-alicates-cuchillo-ut/</loc>
-    <lastmod>2026-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -211,24 +145,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://zerchnomore.app/producto/kit-de-internet-via-satelite-starlink-mini-blanco/</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/gas-butano-nautika-230grs-para-cocinillas-lamparas-camping/</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/manta-aislante-de-aluminio-para-camping-o-picnic-2x2m/</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://zerchnomore.app/producto/ionizador-solar-para-piscina-lernen-para-130-000-litros-accesorios/</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -247,20 +163,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://zerchnomore.app/producto/sillas-playa-camping-ninos-plegable-con-bolso-y-portavaso/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://zerchnomore.app/producto/guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo/</loc>
     <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://zerchnomore.app/producto/carrito-camping-plegable-multiuso-100kg-ruedas-360-negro/</loc>
-    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

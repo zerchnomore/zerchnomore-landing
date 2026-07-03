@@ -19,7 +19,8 @@
     "fecha_publicacion": "2026-07-02T22:18:06.993Z",
     "instagram_post_id": null,
     "short": "estufa-electrica",
-    "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro"
+    "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro",
+    "comision_pct": 8
   },
   {
     "id": "melila1HHPgLo",
@@ -41,7 +42,8 @@
     "fecha_publicacion": "2026-06-24T02:24:40.255Z",
     "instagram_post_id": null,
     "short": "hidrolavadora-lernen",
-    "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col"
+    "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col",
+    "comision_pct": 8
   },
   {
     "id": "melila1TwRynQ",
@@ -63,7 +65,8 @@
     "fecha_publicacion": "2026-06-24T02:15:55.147Z",
     "instagram_post_id": null,
     "short": "aspiradora-multifuncion",
-    "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w"
+    "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w",
+    "comision_pct": 8
   },
   {
     "id": "melila23NK8U6",
@@ -85,7 +88,8 @@
     "fecha_publicacion": "2026-06-24T02:07:00.225Z",
     "instagram_post_id": null,
     "short": "estacion-energia",
-    "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico"
+    "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico",
+    "comision_pct": 8
   },
   {
     "id": "melila1HxK1jd",
@@ -107,7 +111,8 @@
     "fecha_publicacion": "2026-06-24T01:57:43.629Z",
     "instagram_post_id": null,
     "short": "juego-dados",
-    "slug": "juego-de-dados-chicharra-46-piezas-lernen-con-maletin-negro"
+    "slug": "juego-de-dados-chicharra-46-piezas-lernen-con-maletin-negro",
+    "comision_pct": 8
   },
   {
     "id": "melila1xwG8Ge",
@@ -129,7 +134,8 @@
     "fecha_publicacion": "2026-06-24T01:48:32.468Z",
     "instagram_post_id": null,
     "short": "monitor-gamer",
-    "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f"
+    "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f",
+    "comision_pct": 8
   },
   {
     "id": "melila1zGXboA",
@@ -138,8 +144,6 @@
     "source_emoji": "🛒",
     "titulo": "Cadenas Para La Nieve,barro Y Hielo Antideslizante Camioneta",
     "precio": 58990,
-    "precio_original": 76999,
-    "descuento": "28% OFF",
     "moneda": "CLP",
     "rating": null,
     "reviews_count": 0,
@@ -151,7 +155,8 @@
     "fecha_publicacion": "2026-06-24T01:37:46.066Z",
     "instagram_post_id": null,
     "short": "cadenas-nieve",
-    "slug": "cadenas-para-la-nieve-barro-y-hielo-antideslizante-camioneta"
+    "slug": "cadenas-para-la-nieve-barro-y-hielo-antideslizante-camioneta",
+    "comision_pct": 8
   },
   {
     "id": "melila2UqMcCw",
@@ -173,7 +178,8 @@
     "fecha_publicacion": "2026-06-24T01:28:21.559Z",
     "instagram_post_id": null,
     "short": "brasero-fogon",
-    "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve"
+    "slug": "brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve",
+    "comision_pct": 8
   },
   {
     "id": "melila1sizGXK",
@@ -195,7 +201,8 @@
     "fecha_publicacion": "2026-06-24T01:17:59.478Z",
     "instagram_post_id": null,
     "short": "rasuradora-corporal",
-    "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul"
+    "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul",
+    "comision_pct": 8
   },
   {
     "id": "melila1ubZasc",
@@ -217,29 +224,8 @@
     "fecha_publicacion": "2026-06-24T01:04:43.166Z",
     "instagram_post_id": null,
     "short": "taladro-destornillador",
-    "slug": "kit-taladro-destornillador-inalambrico-lernen-21v-2-baterias-color-gri"
-  },
-  {
-    "id": "melila2AJ7MQz",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Set Ollas Outdoor Camping Cocina Para Camping Utensilios Gris Oscuro",
-    "precio": 13580,
-    "precio_original": 19890,
-    "descuento": "31% OFF",
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782242986/zerch/melila2AJ7MQz_1782242842/carrusel/slide_02_hero.png",
-    "link": "https://meli.la/2AJ7MQz",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-06-23T19:27:29.851Z",
-    "instagram_post_id": null,
-    "short": "ollas-outdoor",
-    "slug": "set-ollas-outdoor-camping-cocina-para-camping-utensilios-gris-oscuro"
+    "slug": "kit-taladro-destornillador-inalambrico-lernen-21v-2-baterias-color-gri",
+    "comision_pct": 8
   },
   {
     "id": "melila2vaFKAx",
@@ -248,8 +234,6 @@
     "source_emoji": "🛒",
     "titulo": "Limpiador Parrilla Eléctrica Herramientas Barbacoa",
     "precio": 19055,
-    "precio_original": 29862,
-    "descuento": "39% OFF",
     "moneda": "CLP",
     "rating": null,
     "reviews_count": 0,
@@ -261,7 +245,8 @@
     "fecha_publicacion": "2026-06-23T00:27:00.470Z",
     "instagram_post_id": null,
     "slug": "limpiador-parrilla-electrica-herramientas-barbacoa",
-    "short": "limpiador-parrilla"
+    "short": "limpiador-parrilla",
+    "comision_pct": 8
   },
   {
     "id": "melila1DVPbMv",
@@ -280,7 +265,8 @@
     "fecha_publicacion": "2026-06-22T03:40:35.922Z",
     "instagram_post_id": null,
     "slug": "rapida-cargador-de-bateria-auto-y-moto-12v-24v-inteligent-anhtczyx-j30",
-    "short": "rapida-cargador"
+    "short": "rapida-cargador",
+    "comision_pct": 4
   },
   {
     "id": "melila1Kk94Vf",
@@ -299,7 +285,8 @@
     "fecha_publicacion": "2026-06-22T03:12:16.577Z",
     "instagram_post_id": null,
     "slug": "notebook-hp-15-fc0043la-amd-ryzen-3-8gb-ram-512gb-sssd-windows-11-home",
-    "short": "notebook-hp"
+    "short": "notebook-hp",
+    "comision_pct": 4
   },
   {
     "id": "melila1989Er5",
@@ -308,8 +295,6 @@
     "source_emoji": "🛒",
     "titulo": "Tablet Galaxy A11 Gris 64 Gb - 4 Gb Color Gris Samsung",
     "precio": 124990,
-    "precio_original": 199990,
-    "descuento": "28% OFF",
     "moneda": "CLP",
     "rating": null,
     "reviews_count": 0,
@@ -321,7 +306,8 @@
     "fecha_publicacion": "2026-06-20T21:50:26.040Z",
     "instagram_post_id": null,
     "slug": "tablet-galaxy-a11-gris-64-gb-4-gb-color-gris-samsung",
-    "short": "tablet-galaxy"
+    "short": "tablet-galaxy",
+    "comision_pct": 4
   },
   {
     "id": "melila2eGm646",
@@ -340,7 +326,8 @@
     "fecha_publicacion": "2026-06-19T20:12:43.781Z",
     "instagram_post_id": null,
     "slug": "dongle-usb-carplay-android-auto-inalambrico-2-en-1-wifi-2-4-5g-bluetoo",
-    "short": "dongle-usb"
+    "short": "dongle-usb",
+    "comision_pct": 4
   },
   {
     "id": "melila1jiYk4U",
@@ -349,8 +336,6 @@
     "source_emoji": "🛒",
     "titulo": "Mochila Impermeable Norplat 90l Para Camping Trekking Viajes Color Negro",
     "precio": 19980,
-    "precio_original": 25990,
-    "descuento": "10% OFF",
     "moneda": "CLP",
     "rating": null,
     "reviews_count": 0,
@@ -362,7 +347,8 @@
     "fecha_publicacion": "2026-06-19T18:48:31.472Z",
     "instagram_post_id": null,
     "slug": "mochila-impermeable-norplat-90l-para-camping-trekking-viajes-color-neg",
-    "short": "mochila-impermeable"
+    "short": "mochila-impermeable",
+    "comision_pct": 8
   },
   {
     "id": "melila1V27a4L",
@@ -384,73 +370,8 @@
     "fecha_publicacion": "2026-06-19T04:35:45.644Z",
     "instagram_post_id": null,
     "slug": "set-camping-acero-inox-organizador-cubiertos-completos",
-    "short": "camping-acero"
-  },
-  {
-    "id": "melila2MrgrW9",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Kit De Internet Via Satélite Starlink Mini Blanco",
-    "precio": 278490,
-    "precio_original": null,
-    "descuento": null,
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1781509516/zerch/melila2MrgrW9_1781509508/carrusel/slide_02_hero.png",
-    "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL1gS42LnpeKxwq97cVQki9zW58Oi5enzgU6gA19VAfM%2B6NZoeu9zWqPYGPyeFG7Q1QaJwpIEwb7Hn2ePhbmxPs7CbpDIZgWGxvKO6aXtYw0yAA83SBg%2BsRWnK8PkdjXQL6VFBOQlBRPHr60Ecqj1wjDj0iQgFtbR0%2BjzBufvq5p1J7JVBpzlCWRaZzysMVG%2Ft%2BBzf0%3D",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-06-15T07:45:15.435Z",
-    "instagram_post_id": null,
-    "slug": "kit-de-internet-via-satelite-starlink-mini-blanco",
-    "short": "internet-via"
-  },
-  {
-    "id": "melila2KNfTa3",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Gas Butano Nautika 230grs Para Cocinillas Lamparas Camping",
-    "precio": 12590,
-    "precio_original": 79990,
-    "descuento": "15% OFF",
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779782751/zerch/melila2KNfTa3_1779782750/carrusel/slide_02_hero.png",
-    "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHnkDQ%2FnYpAo2jQ5lQ6K6K7o%2BphzuJ90ZELV3ne0ZH3elVjlR4ic92BaIoUQAZ6aKbvzOp68B1TD08L%2F1W624Lr26BFFii8ZsLr3eW%2BTwuHqveyS0de13tkCQww1GCa6QnHdASPYK%2BK52NrSMmHtuNIS2HEzC2dUnujon3tADEI5gFz6oEABKG%2BqZPpaqzeLo4zpw0xZmzy5k0fyjKzkt8nLMWHizUg1qPoXkqo8",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-05-26T08:05:55.149Z",
-    "instagram_post_id": null,
-    "slug": "gas-butano-nautika-230grs-para-cocinillas-lamparas-camping",
-    "short": "gas-butano"
-  },
-  {
-    "id": "melila1faKJRG",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Manta Aislante De Aluminio Para Camping O Picnic 2x2m",
-    "precio": 11390,
-    "precio_original": 11990,
-    "descuento": "5% OFF",
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779761785/zerch/melila1faKJRG_1779761784/carrusel/slide_02_hero.png",
-    "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL%2BFn3yOGW16ZnmhPUX885qZ424PUMSC1I3se%2FkhWiEEPN8a7Qm%2FL9daoKaA9b1qgeF9VEfEdPqN5UV8DoBoScpgXBdNe%2FbtUOrhS5W00vyMbOesxM9FT2S49HmAwZDjj5GDsFRwcy0SzJz4sb6bayPjO0QwIFWdJbSeLZq0jcIppEzGxL3DKJxGRHXX1XoONQzft%2BWPAf39wsQ1gFt1cZ3BXS4TQNoGUP7zY%2BUE%2FRTk0BOi",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-05-26T02:16:28.604Z",
-    "instagram_post_id": null,
-    "slug": "manta-aislante-de-aluminio-para-camping-o-picnic-2x2m",
-    "short": "manta-aislante"
+    "short": "camping-acero",
+    "comision_pct": 8
   },
   {
     "id": "melila1tUSpQ6",
@@ -472,7 +393,8 @@
     "fecha_publicacion": "2026-05-25T06:54:16.794Z",
     "instagram_post_id": null,
     "slug": "ionizador-solar-para-piscina-lernen-para-130-000-litros-accesorios",
-    "short": "ionizador-solar"
+    "short": "ionizador-solar",
+    "comision_pct": 8
   },
   {
     "id": "melila29PpMtv",
@@ -494,7 +416,8 @@
     "fecha_publicacion": "2026-05-25T06:54:06.962Z",
     "instagram_post_id": null,
     "slug": "manguera-limpia-piscina-10-metros-flexible-azul-con-terminal",
-    "short": "manguera-limpia"
+    "short": "manguera-limpia",
+    "comision_pct": 8
   },
   {
     "id": "melila2Vub3kw",
@@ -516,29 +439,8 @@
     "fecha_publicacion": "2026-05-25T06:14:48.330Z",
     "instagram_post_id": null,
     "slug": "manguera-jardin-reforzada-1-2-pulgada-30-mts-mas-accesorios-verde-oscu",
-    "short": "manguera-jardin"
-  },
-  {
-    "id": "melila2xmT4mK",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Sillas Playa Camping Niños Plegable Con Bolso Y Portavaso",
-    "precio": 9990,
-    "precio_original": 19890,
-    "descuento": "29% OFF",
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779478036/zerch/melila2xmT4mK/carrusel/slide_02_hero.png",
-    "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BC%2B8ZOMgUPatb1an82vgzZTYpKRTTCGcXmcQ0VYrQNxQbwtARWH4DXeiLLjXknpFPhnSA1ff94c1fG1tV7xXF9BHv9NQXggHO%2F80YbhsS3p8Q7AMRop1SxcWzN6lkzYBxRM9b48rLX%2B5Y0%2BeM4brVKXx64ajatZ3ifq1X1uPDnINSzmHbGpoTS0WQsUOYXnliVW21A%3D%3D",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-05-22T19:27:20.272Z",
-    "instagram_post_id": null,
-    "slug": "sillas-playa-camping-ninos-plegable-con-bolso-y-portavaso",
-    "short": "sillas-playa"
+    "short": "manguera-jardin",
+    "comision_pct": 8
   },
   {
     "id": "melila275dsYD",
@@ -547,8 +449,6 @@
     "source_emoji": "🛒",
     "titulo": "Guirnalda Solar Maxwell 10m Luces Exterior Terraza Impermeab Amarillo Cálida",
     "precio": 17990,
-    "precio_original": 10990,
-    "descuento": "55% OFF",
     "moneda": "CLP",
     "rating": null,
     "reviews_count": 0,
@@ -560,28 +460,7 @@
     "fecha_publicacion": "2026-05-22T19:25:14.280Z",
     "instagram_post_id": null,
     "slug": "guirnalda-solar-maxwell-10m-luces-exterior-terraza-impermeab-amarillo",
-    "short": "guirnalda-solar"
-  },
-  {
-    "id": "melila1Gix7Fs",
-    "source": "mercadolibre",
-    "source_label": "Mercado Libre",
-    "source_emoji": "🛒",
-    "titulo": "Carrito Camping Plegable Multiuso 100kg Ruedas 360° Negro",
-    "precio": 18999,
-    "precio_original": 36980,
-    "descuento": "48% OFF",
-    "moneda": "CLP",
-    "rating": null,
-    "reviews_count": 0,
-    "vendidos": null,
-    "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1779375132/zerch/melila1Gix7Fs/carrusel/slide_02_hero.png",
-    "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNoA115reDn3CrTt6nkqB1xlxuUQBa51H6eVVtnQ2RUE1xqpxoYV3xpcIyQFqW59sV6gheC%2FIH%2FDfcepK7m5z5h12%2BdDKtkGbjpU4faBDbcYGsy8iJI4HDMqltqeFSsoVIzCYSYx2aSPBkXcs8%2B1mXsCyCFMRWF%2BvfaBttj3LjO5aADN41nVFA5emPErHQt4hEu%2F5Fk2BtK1sfcPXkv6KxsUeVgbMsosI9yWGw%3D%3D",
-    "categoria_id": "outdoor",
-    "categoria_label": "🌲 OUTDOOR",
-    "fecha_publicacion": "2026-05-21T14:52:17.202Z",
-    "instagram_post_id": null,
-    "slug": "carrito-camping-plegable-multiuso-100kg-ruedas-360-negro",
-    "short": "carrito-camping"
+    "short": "guirnalda-solar",
+    "comision_pct": 8
   }
 ]

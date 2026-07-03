@@ -13,7 +13,8 @@ export async function onRequestGet({ request, env }) {
     const res = await fetch(url.origin + '/products.json', { cf: { cacheTtl: 300, cacheEverything: true } });
     if (res.ok) {
       const data = await res.json();
-      const p = (data.productos || []).find(x => x.id === id);
+      const arr = Array.isArray(data) ? data : (data.productos || []);
+      const p = arr.find(x => x.id === id);
       if (p && typeof p.link === 'string' && p.link.startsWith('https://')) dest = p.link;
     }
   } catch (_) { /* noop */ }
