@@ -251,7 +251,7 @@ async function boot() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    _allProducts = (data.productos || []).sort((a, b) => {
+    _allProducts = (Array.isArray(data) ? data : (data.productos || [])).sort((a, b) => {
       // Más nuevos primero
       return new Date(b.fecha_publicacion || 0) - new Date(a.fecha_publicacion || 0);
     });
