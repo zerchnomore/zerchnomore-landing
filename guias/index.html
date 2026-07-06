@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guías con IA — sistemas Zerch No More | Comprar, Ahorrar, Vender y más</title>
+<meta name="description" content="Sistemas digitales de Zerch No More: guía + 10 prompts probados + herramienta Excel. Compra, Ahorra, Vende, Busca Pega y Emprende con IA. Descarga instantánea, pago local en Chile.">
+<link rel="canonical" href="https://zerchnomore.app/guias/">
+<meta property="og:title" content="Guías con IA — sistemas Zerch No More">
+<meta property="og:description" content="Guía + 10 prompts + Excel. Descarga instantánea. Pago local en Chile.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://zerchnomore.app/guias/">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = { theme: { extend: { colors: {
+    'zerch-bg': '#0a0a0a', 'zerch-char': '#121212', 'zerch-lime': '#B7FF2A',
+    'zerch-white': '#F5F5F5', 'zerch-gray': '#B0B0B0', 'zerch-dim': '#444'
+  } } } };
+</script>
+<style>
+  body { background:#0a0a0a; color:#F5F5F5; font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',sans-serif; }
+  .card { transition: transform .2s ease, box-shadow .2s ease; }
+  .card:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(183,255,42,.12); }
+  .btn { background:#B7FF2A; color:#000; font-weight:900; letter-spacing:.04em; transition: all .2s; }
+  .btn:hover { background:#fff; transform: scale(1.02); }
+</style>
+</head>
+<body class="min-h-screen">
+
+<!-- Header -->
+<header class="max-w-6xl mx-auto px-6 pt-8 pb-4 flex items-center justify-between">
+  <a href="/" class="font-black tracking-wide text-sm">⚡ ZERCH <span class="text-zerch-lime">NO MORE</span></a>
+  <a href="/" class="text-zerch-gray text-sm hover:text-zerch-lime">← Ofertas</a>
+</header>
+
+<!-- Hero -->
+<section class="max-w-6xl mx-auto px-6 pt-6 pb-10 text-center">
+  <span class="inline-block bg-zerch-lime/15 text-zerch-lime text-xs font-bold tracking-widest px-3 py-1 rounded-full mb-4">SISTEMAS DIGITALES</span>
+  <h1 class="text-4xl md:text-5xl font-black leading-tight mb-4">Deja que la <span class="text-zerch-lime">IA</span> haga el trabajo pesado</h1>
+  <p class="text-zerch-gray max-w-2xl mx-auto text-lg leading-relaxed">Sistemas simples para comprar, ahorrar, vender, encontrar pega y emprender — cada uno con su <strong class="text-zerch-white">guía</strong>, <strong class="text-zerch-white">10 prompts probados</strong> y una <strong class="text-zerch-white">herramienta en Excel</strong>. Descarga al instante.</p>
+  <div class="flex flex-wrap gap-3 justify-center mt-6 text-sm text-zerch-gray">
+    <span class="bg-zerch-char border border-zinc-800 px-3 py-1.5 rounded-full">⚡ Descarga instantánea</span>
+    <span class="bg-zerch-char border border-zinc-800 px-3 py-1.5 rounded-full">🇨🇱 Pago local (Webpay · transferencia · cuotas)</span>
+    <span class="bg-zerch-char border border-zinc-800 px-3 py-1.5 rounded-full">🔒 Pago seguro con Mercado Pago</span>
+  </div>
+</section>
+
+<!-- Bundle destacado -->
+<section class="max-w-6xl mx-auto px-6 mb-12">
+  <div class="card bg-gradient-to-br from-[#141a06] to-[#0d0d0d] border-2 border-zerch-lime rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center gap-6">
+    <div class="flex-1">
+      <span class="inline-block bg-zerch-lime text-black text-xs font-black tracking-widest px-3 py-1 rounded-full mb-3">PACK · AHORRA 40%</span>
+      <h2 class="text-2xl md:text-3xl font-black mb-2">Suite con IA — los 5 sistemas</h2>
+      <p class="text-zerch-gray leading-relaxed mb-3">Compra, Ahorra, Vende, Busca Pega y Emprende con IA — todo junto. <strong class="text-zerch-lime">+ Kit Compra Inteligente de regalo.</strong></p>
+      <div class="flex items-baseline gap-3">
+        <span class="text-3xl font-black text-zerch-lime">$29.990</span>
+        <span class="text-zerch-dim line-through text-lg">$49.950</span>
+        <span class="text-zerch-gray text-sm">CLP</span>
+      </div>
+    </div>
+    <a href="/comprar?prod=suite-con-ia" class="btn px-8 py-4 rounded-full text-center text-lg whitespace-nowrap">Llevar el pack →</a>
+  </div>
+</section>
+
+<!-- Grid de productos -->
+<section class="max-w-6xl mx-auto px-6 pb-16">
+  <h2 class="text-zerch-lime text-xs font-bold tracking-widest mb-5">O ELIGE EL QUE NECESITAS · $9.990 c/u</h2>
+  <div id="grid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+</section>
+
+<!-- Confianza -->
+<section class="max-w-3xl mx-auto px-6 pb-20 text-center">
+  <p class="text-zerch-gray leading-relaxed">Sin humo: cada sistema es una <strong class="text-zerch-white">herramienta útil</strong>, no un curso motivacional. Guía directa, prompts que funcionan con ChatGPT, Claude o Gemini, y un Excel que hace los cálculos por ti. Pago 100% seguro con Mercado Pago y descarga inmediata tras la compra.</p>
+</section>
+
+<footer class="border-t border-zinc-900 py-8 text-center text-zerch-dim text-sm">
+  <a href="/" class="text-zerch-gray hover:text-zerch-lime">Inicio</a> ·
+  <a href="/terminos/" class="text-zerch-gray hover:text-zerch-lime">Términos</a> ·
+  <a href="/privacidad/" class="text-zerch-gray hover:text-zerch-lime">Privacidad</a>
+  <p class="mt-2">© 2026 Zerch No More · Guías digitales</p>
+</footer>
+
+<script>
+const PRODUCTOS = [
+  { slug:'compra-con-ia',     titulo:'Compra con IA',      tag:'Que la IA te diga qué comprar — sin que te estafen.',
+    bullets:['Guía: 5 principios + 7 trampas','10 prompts probados','Excel: Matriz de Decisión'] },
+  { slug:'ahorra-con-ia',     titulo:'Ahorra con IA',      tag:'Descubre dónde se te va la plata y empieza a ahorrar de verdad.',
+    bullets:['Guía: 5 principios + 7 fugas','10 prompts probados','Excel: control de gastos 50/30/20'] },
+  { slug:'vende-con-ia',      titulo:'Vende con IA',       tag:'Vende (y revende) más caro y más rápido. ML, Marketplace o donde sea.',
+    bullets:['Guía de venta','10 prompts probados','Excel: Calculadora de Precio y Margen'] },
+  { slug:'busca-pega-con-ia', titulo:'Busca Pega con IA',  tag:'Encuentra trabajo más rápido: CV, LinkedIn, entrevistas y seguimiento.',
+    bullets:['Guía de búsqueda de empleo','10 prompts probados','Excel: Tracker de Postulaciones'] },
+  { slug:'emprende-con-ia',   titulo:'Emprende con IA',    tag:'De "tengo una idea" a "tengo clientes que pagan". Sin humo de gurú.',
+    bullets:['Guía de la idea a la venta','10 prompts probados','Excel: Calculadora de Negocio'] },
+];
+const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+document.getElementById('grid').innerHTML = PRODUCTOS.map(p => `
+  <div class="card bg-zerch-char border border-zinc-800 rounded-2xl overflow-hidden flex flex-col">
+    <img src="/guias/img/${p.slug}.png" alt="${esc(p.titulo)}" loading="lazy" class="w-full aspect-square object-cover">
+    <div class="p-5 flex flex-col flex-1">
+      <h3 class="text-lg font-black mb-1">${esc(p.titulo)}</h3>
+      <p class="text-zerch-gray text-sm leading-relaxed mb-4">${esc(p.tag)}</p>
+      <ul class="text-sm text-zerch-gray space-y-1 mb-5">
+        ${p.bullets.map(b => `<li class="flex gap-2"><span class="text-zerch-lime">+</span>${esc(b)}</li>`).join('')}
+      </ul>
+      <div class="mt-auto flex items-center justify-between gap-3">
+        <span class="text-xl font-black">$9.990 <span class="text-zerch-dim text-sm font-normal">CLP</span></span>
+        <a href="/comprar?prod=${p.slug}" class="btn px-5 py-2.5 rounded-full text-sm">Comprar</a>
+      </div>
+    </div>
+  </div>`).join('');
+</script>
+</body>
+</html>
