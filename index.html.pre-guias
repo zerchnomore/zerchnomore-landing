@@ -71,7 +71,6 @@
       Para el que trabaja duro y compra inteligente.
     </p>
     <p class="text-zerch-dim text-xs mt-2 tracking-widest">@ZERCH_NOMORE · #PUBLICIDAD</p>
-    <a href="/guias/" class="inline-block mt-5 bg-zerch-lime text-black font-black text-sm px-6 py-3 rounded-full hover:bg-white transition">🧠 Guías con IA — comprar, ahorrar, vender y más →</a>
   </div>
 </header>
 
@@ -84,16 +83,16 @@
 
       <div class="bg-zerch-char rounded-xl overflow-hidden border border-zinc-800">
         <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
-          <img src="https://http2.mlstatic.com/D_NQ_NP_875626-MLC91119640473_082025-O.webp" alt="Panel De Bajo Consumo Biocalor Bio400 Wifi — oferta en Chile" class="w-full h-full object-contain" loading="eager">
+          <img src="https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783048673/zerch/melila1tnuMFk_1783048365/carrusel/slide_02_hero.png" alt="Zapatilla Waterproof Hombre Panama Jack - L743 — oferta en Chile" class="w-full h-full object-contain" loading="eager">
         </div>
         <div class="p-6 md:p-8">
-          <h3 class="text-xl md:text-2xl font-black text-zerch-white mb-3 leading-tight">Panel De Bajo Consumo Biocalor Bio400 Wifi</h3>
+          <h3 class="text-xl md:text-2xl font-black text-zerch-white mb-3 leading-tight">Zapatilla Waterproof Hombre Panama Jack - L743</h3>
           <div class="flex items-baseline gap-3 mb-6">
-            <span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">45% OFF</span>
-            <span class="text-3xl md:text-4xl font-black text-zerch-lime">$77.290</span>
-            <span class="text-zerch-dim line-through text-lg">$139.990</span>
+            <span class="bg-zerch-lime text-black text-xs font-black px-2 py-1 tracking-widest">27% OFF</span>
+            <span class="text-3xl md:text-4xl font-black text-zerch-lime">$39.990</span>
+            <span class="text-zerch-dim line-through text-lg">$54.990</span>
           </div>
-          <a href="/producto/panel-de-bajo-consumo-biocalor-bio400-wifi/" class="btn-cta block w-full py-5 rounded-full text-center text-lg">VER PRECIO Y LINK →</a>
+          <a href="/producto/zapatilla-waterproof-hombre-panama-jack-l743/" class="btn-cta block w-full py-5 rounded-full text-center text-lg">VER PRECIO Y LINK →</a>
         </div>
       </div>
 <!-- /SEO:FEATURED -->
@@ -109,7 +108,7 @@
     <h2 class="text-zerch-white text-xs font-bold tracking-widest mb-6 text-center">📦 EXPLORA POR CATEGORÍA</h2>
     <div id="categories-nav" class="flex flex-wrap justify-center gap-3 mb-12">
       <!-- SEO:CATS -->
-      <a href="/categoria/tech/" class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime">📱 TECH (5)</a>
+      <a href="/categoria/tech/" class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime">📱 TECH (4)</a>
       <a href="/categoria/herramientas/" class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime">🔧 HERRAMIENTAS (3)</a>
       <a href="/categoria/hogar/" class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime">🏠 HOGAR (7)</a>
       <a href="/categoria/outdoor/" class="cat-btn bg-zerch-char border border-zinc-800 px-4 py-2 rounded-full text-sm font-bold hover:border-zerch-lime hover:text-zerch-lime">🌲 OUTDOOR (3)</a>
@@ -120,45 +119,6 @@
 
     <div id="products-list" class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       <!-- SEO:GRID -->
-<a href="/producto/panel-de-bajo-consumo-biocalor-bio400-wifi/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
-  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
-    <img src="https://http2.mlstatic.com/D_NQ_NP_875626-MLC91119640473_082025-O.webp" alt="Panel De Bajo Consumo Biocalor Bio400 Wifi — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
-  </div>
-  <div class="p-4">
-    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Panel De Bajo Consumo Biocalor Bio400 Wifi</h3>
-    <div class="flex items-baseline justify-between">
-      <span class="text-zerch-lime font-black text-lg">$77.290</span>
-      <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">45% OFF</span>
-    </div>
-    
-  </div>
-</a>
-<a href="/producto/cargador-portatil-carga-rapida-65w-con-cable-usb-c-master-g-color-negr/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
-  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
-    <img src="https://http2.mlstatic.com/D_NQ_NP_772943-MLA99937747987_112025-O.webp" alt="Cargador Portátil Carga Rápida 65w Con Cable Usb-c Master-g Color Negro — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
-  </div>
-  <div class="p-4">
-    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Cargador Portátil Carga Rápida 65w Con Cable Usb-c</h3>
-    <div class="flex items-baseline justify-between">
-      <span class="text-zerch-lime font-black text-lg">$19.875</span>
-      <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">31% OFF</span>
-    </div>
-    
-  </div>
-</a>
-<a href="/producto/aspiradora-vertical-sindelen-ap-700gr-500ml-gris-50hz/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
-  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
-    <img src="https://http2.mlstatic.com/D_NQ_NP_892970-MLA100186793417_122025-O.webp" alt="Aspiradora Vertical Sindelen Ap-700gr 500ml Gris 50hz — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
-  </div>
-  <div class="p-4">
-    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Aspiradora Vertical Sindelen Ap-700gr 500ml Gris 50hz</h3>
-    <div class="flex items-baseline justify-between">
-      <span class="text-zerch-lime font-black text-lg">$39.790</span>
-      <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">10% OFF</span>
-    </div>
-    
-  </div>
-</a>
 <a href="/producto/zapatilla-waterproof-hombre-panama-jack-l743/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
   <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
     <img src="https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783048673/zerch/melila1tnuMFk_1783048365/carrusel/slide_02_hero.png" alt="Zapatilla Waterproof Hombre Panama Jack - L743 — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
@@ -233,6 +193,45 @@
     <div class="flex items-baseline justify-between">
       <span class="text-zerch-lime font-black text-lg">$7.990</span>
       <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">20% OFF</span>
+    </div>
+    
+  </div>
+</a>
+<a href="/producto/monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
+  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
+    <img src="https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782265853/zerch/melila1xwG8Ge_1782265705/carrusel/slide_02_hero.png" alt="Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
+  </div>
+  <div class="p-4">
+    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro</h3>
+    <div class="flex items-baseline justify-between">
+      <span class="text-zerch-lime font-black text-lg">$84.990</span>
+      <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">58% OFF</span>
+    </div>
+    
+  </div>
+</a>
+<a href="/producto/cadenas-para-la-nieve-barro-y-hielo-antideslizante-camioneta/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
+  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
+    <img src="https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782265207/zerch/melila1zGXboA_1782265058/carrusel/slide_02_hero.png" alt="Cadenas Para La Nieve,barro Y Hielo Antideslizante Camioneta — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
+  </div>
+  <div class="p-4">
+    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Cadenas Para La Nieve,barro Y Hielo Antideslizante Camioneta</h3>
+    <div class="flex items-baseline justify-between">
+      <span class="text-zerch-lime font-black text-lg">$58.990</span>
+      
+    </div>
+    
+  </div>
+</a>
+<a href="/producto/brasero-fogon-fireboss-terraza-sin-humo-68-cm-bosscamp-silve/" class="product-card block bg-zerch-char rounded-xl overflow-hidden border border-zinc-800 hover:border-zerch-lime">
+  <div class="aspect-square bg-black flex items-center justify-center overflow-hidden">
+    <img src="https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782264642/zerch/melila2UqMcCw_1782264494/carrusel/slide_02_hero.png" alt="Brasero Fogon Fireboss Terraza Sin Humo 68 Cm Bosscamp Silve — oferta en Chile" class="w-full h-full object-contain" loading="lazy">
+  </div>
+  <div class="p-4">
+    <h3 class="text-zerch-white font-bold text-sm mb-2 leading-tight" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">Brasero Fogon Fireboss Terraza Sin Humo 68 Cm Bosscamp Silve</h3>
+    <div class="flex items-baseline justify-between">
+      <span class="text-zerch-lime font-black text-lg">$259.990</span>
+      <span class="bg-zerch-lime text-black text-xs font-black px-2 py-0.5">26% OFF</span>
     </div>
     
   </div>
