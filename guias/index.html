@@ -47,6 +47,21 @@
   </div>
 </section>
 
+<!-- Banner de lanzamiento con cupón -->
+<section class="max-w-6xl mx-auto px-6 mb-8">
+  <div id="promo-banner" class="rounded-2xl border border-zerch-lime/40 bg-zerch-lime/10 p-5 flex flex-col sm:flex-row items-center justify-center gap-4 text-center sm:text-left">
+    <div class="flex-1">
+      <p class="font-black text-zerch-lime text-lg">🎉 50% de lanzamiento</p>
+      <p class="text-zerch-gray text-sm">Usa el código <strong class="text-zerch-white tracking-wider">ILOVEZERCH</strong> y llévate cualquier guía a mitad de precio.</p>
+    </div>
+    <div class="flex gap-2 items-center">
+      <input id="cupon-input" type="text" placeholder="ILOVEZERCH" class="bg-zerch-char border border-zinc-700 rounded-full px-4 py-2.5 text-sm text-zerch-white uppercase tracking-wider w-40 focus:border-zerch-lime outline-none">
+      <button id="cupon-btn" class="btn px-5 py-2.5 rounded-full text-sm">Aplicar</button>
+    </div>
+    <p id="cupon-ok" class="hidden text-zerch-lime font-bold text-sm">✓ 50% aplicado</p>
+  </div>
+</section>
+
 <!-- Bundle destacado -->
 <section class="max-w-6xl mx-auto px-6 mb-12">
   <div class="card bg-gradient-to-br from-[#141a06] to-[#0d0d0d] border-2 border-zerch-lime rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center gap-6">
@@ -55,12 +70,12 @@
       <h2 class="text-2xl md:text-3xl font-black mb-2">Suite con IA — los 5 sistemas</h2>
       <p class="text-zerch-gray leading-relaxed mb-3">Compra, Ahorra, Vende, Busca Pega y Emprende con IA — todo junto. <strong class="text-zerch-lime">+ Kit Compra Inteligente de regalo.</strong></p>
       <div class="flex items-baseline gap-3">
-        <span class="text-3xl font-black text-zerch-lime">$29.990</span>
-        <span class="text-zerch-dim line-through text-lg">$49.950</span>
+        <span id="suite-price" class="text-3xl font-black text-zerch-lime">$29.990</span>
+        <span id="suite-old" class="text-zerch-dim line-through text-lg">$49.950</span>
         <span class="text-zerch-gray text-sm">CLP</span>
       </div>
     </div>
-    <a href="/comprar?prod=suite-con-ia" class="btn px-8 py-4 rounded-full text-center text-lg whitespace-nowrap">Llevar el pack →</a>
+    <a id="suite-btn" href="/comprar?prod=suite-con-ia" class="btn px-8 py-4 rounded-full text-center text-lg whitespace-nowrap">Llevar el pack →</a>
   </div>
 </section>
 
@@ -96,21 +111,56 @@ const PRODUCTOS = [
     bullets:['Guía de la idea a la venta','10 prompts probados','Excel: Calculadora de Negocio'] },
 ];
 const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-document.getElementById('grid').innerHTML = PRODUCTOS.map(p => `
-  <div class="card bg-zerch-char border border-zinc-800 rounded-2xl overflow-hidden flex flex-col">
-    <img src="/guias/img/${p.slug}.png" alt="${esc(p.titulo)}" loading="lazy" class="w-full aspect-square object-cover">
-    <div class="p-5 flex flex-col flex-1">
-      <h3 class="text-lg font-black mb-1">${esc(p.titulo)}</h3>
-      <p class="text-zerch-gray text-sm leading-relaxed mb-4">${esc(p.tag)}</p>
-      <ul class="text-sm text-zerch-gray space-y-1 mb-5">
-        ${p.bullets.map(b => `<li class="flex gap-2"><span class="text-zerch-lime">+</span>${esc(b)}</li>`).join('')}
-      </ul>
-      <div class="mt-auto flex items-center justify-between gap-3">
-        <span class="text-xl font-black">$9.990 <span class="text-zerch-dim text-sm font-normal">CLP</span></span>
-        <a href="/comprar?prod=${p.slug}" class="btn px-5 py-2.5 rounded-full text-sm">Comprar</a>
+const COUPONS = { 'ILOVEZERCH': 0.5 };
+let CUPON = null;
+const fmt = n => '$' + n.toLocaleString('es-CL');
+const off = base => CUPON ? Math.round(base * (1 - COUPONS[CUPON])) : base;
+const buyLink = slug => '/comprar?prod=' + slug + (CUPON ? '&cupon=' + CUPON : '');
+
+function renderGrid() {
+  document.getElementById('grid').innerHTML = PRODUCTOS.map(p => `
+    <div class="card bg-zerch-char border border-zinc-800 rounded-2xl overflow-hidden flex flex-col">
+      <img src="/guias/img/${p.slug}.png" alt="${esc(p.titulo)}" loading="lazy" class="w-full aspect-square object-cover">
+      <div class="p-5 flex flex-col flex-1">
+        <h3 class="text-lg font-black mb-1">${esc(p.titulo)}</h3>
+        <p class="text-zerch-gray text-sm leading-relaxed mb-4">${esc(p.tag)}</p>
+        <ul class="text-sm text-zerch-gray space-y-1 mb-5">
+          ${p.bullets.map(b => `<li class="flex gap-2"><span class="text-zerch-lime">+</span>${esc(b)}</li>`).join('')}
+        </ul>
+        <div class="mt-auto flex items-center justify-between gap-3">
+          <span class="text-xl font-black">${fmt(off(9990))} ${CUPON ? `<span class="text-zerch-dim text-sm line-through font-normal">$9.990</span>` : `<span class="text-zerch-dim text-sm font-normal">CLP</span>`}</span>
+          <a href="${buyLink(p.slug)}" class="btn px-5 py-2.5 rounded-full text-sm">Comprar</a>
+        </div>
       </div>
-    </div>
-  </div>`).join('');
+    </div>`).join('');
+}
+
+function renderSuite() {
+  document.getElementById('suite-price').textContent = fmt(off(29990));
+  document.getElementById('suite-old').textContent = CUPON ? fmt(29990) : '$49.950';
+  document.getElementById('suite-btn').href = buyLink('suite-con-ia');
+}
+
+function applyCupon(code) {
+  const c = String(code || '').toUpperCase().trim();
+  if (!COUPONS[c]) return false;
+  CUPON = c;
+  document.getElementById('cupon-ok').classList.remove('hidden');
+  document.getElementById('cupon-input').value = c;
+  renderGrid(); renderSuite();
+  return true;
+}
+
+document.getElementById('cupon-btn').addEventListener('click', () => {
+  const ok = applyCupon(document.getElementById('cupon-input').value);
+  if (!ok) document.getElementById('cupon-input').placeholder = 'Código inválido';
+});
+document.getElementById('cupon-input').addEventListener('keydown', e => { if (e.key === 'Enter') document.getElementById('cupon-btn').click(); });
+
+// Auto-aplicar desde la URL (?cupon=ILOVEZERCH) — para el link de la bio de Instagram
+const urlCupon = new URLSearchParams(location.search).get('cupon');
+renderGrid(); renderSuite();
+if (urlCupon) applyCupon(urlCupon);
 </script>
 </body>
 </html>

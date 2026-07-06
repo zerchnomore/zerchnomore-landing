@@ -9,6 +9,11 @@ const CATALOG = {
   'suite-con-ia':      { title: 'Suite con IA — los 5 + Kit',    price: 29990 },
 };
 
+// Cupones de descuento (validados server-side — el precio nunca viene del cliente)
+const COUPONS = {
+  'ILOVEZERCH': { off: 0.5, label: '50% de lanzamiento' },
+};
+
 function page(title, msg) {
   return `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${title} · Zerch No More</title>
@@ -28,11 +33,17 @@ export async function onRequestGet({ request, env }) {
     return new Response(page('Checkout en configuración', 'El pago con Mercado Pago se activa en breve. Vuelve muy pronto.'), { headers: H });
   }
 
+  // Cupón (opcional) — descuento aplicado server-side
+  const cupon = (url.searchParams.get('cupon') || '').toUpperCase().trim();
+  const promo = COUPONS[cupon];
+  const unitPrice = promo ? Math.round(item.price * (1 - promo.off)) : item.price;
+  const titleSuffix = promo ? ` (${promo.label})` : '';
+
   const pref = {
     items: [{
-      title: 'Zerch No More · ' + item.title,
+      title: 'Zerch No More · ' + item.title + titleSuffix,
       quantity: 1,
-      unit_price: item.price,
+      unit_price: unitPrice,
       currency_id: 'CLP',
     }],
     external_reference: prod,
