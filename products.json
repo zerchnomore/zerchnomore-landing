@@ -3,9 +3,32 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-06T06:44:38.221Z"
+    "last_updated": "2026-07-06T12:26:54.660Z"
   },
   "productos": [
+    {
+      "id": "melila2pXiVDc",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Kindle Basic 2024 Amazon 11va Generacion 16gb Pantalla 6 Color Verde Claro",
+      "titulo_display": "Kindle Basic 2024 Amazon 11va Generacion 16gb Pantalla",
+      "precio": 139990,
+      "precio_original": 169990,
+      "descuento": "17% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783341176/zerch/melila2pXiVDc_1783340807/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2pXiVDc",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-06T12:26:54.659Z",
+      "instagram_post_id": null,
+      "short": "kindle-basic",
+      "slug": "kindle-basic-2024-amazon-11va-generacion-16gb-pantalla-6-color-verde-c"
+    },
     {
       "id": "melila1Gix7Fs",
       "source": "mercadolibre",
