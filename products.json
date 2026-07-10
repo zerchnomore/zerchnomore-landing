@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-06T12:26:54.660Z"
+    "last_updated": "2026-07-10T10:57:27.814Z"
   },
   "productos": [
+    {
+      "id": "melila2EwmSY4",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Estante Librero Repisas De 6 Niveles 174cm By Lubabycas Café",
+      "precio": 79990,
+      "precio_original": 129990,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783681057/zerch/melila2EwmSY4_1783681040/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2EwmSY4",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-10T10:57:27.813Z",
+      "instagram_post_id": null,
+      "short": "estante-librero",
+      "slug": "estante-librero-repisas-de-6-niveles-174cm-by-lubabycas-cafe"
+    },
     {
       "id": "melila2pXiVDc",
       "source": "mercadolibre",
@@ -254,29 +276,6 @@
       "instagram_post_id": null,
       "short": "juego-dados",
       "slug": "juego-de-dados-chicharra-46-piezas-lernen-con-maletin-negro",
-      "comision_pct": 8
-    },
-    {
-      "id": "melila1xwG8Ge",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Monitor Gamer Arzopa A1 Gamut Con Pantalla De 15.6 60hz Y Resolución Full Hd Negro",
-      "precio": 84990,
-      "precio_original": 199990,
-      "descuento": "57% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782265853/zerch/melila1xwG8Ge_1782265705/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNa7oxntMiL%2F8zuHmHAAQ4kF9uSLxhHRaNbn1V9YHQE8cdYhXXKlBrd%2Fph10YV3MbBrq9CFC5sEKtbY0oo9KireAojEhVaxF%2FR8CSkKY0Qu6UAi7JU0csTv8NJ3QSBVeaQ7FjoainuI8aNTo7PpbUmeLVElgoNOusr0x7aQWiUjmRVTwmBuZIp9PlDcUQDqo1QMJarMYCMtaBTJDIk3JuuOjsMIdNmryjjWZwQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-24T01:48:32.468Z",
-      "instagram_post_id": null,
-      "short": "monitor-gamer",
-      "slug": "monitor-gamer-arzopa-a1-gamut-con-pantalla-de-15-6-60hz-y-resolucion-f",
       "comision_pct": 8
     },
     {
