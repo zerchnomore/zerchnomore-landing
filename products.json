@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-10T11:16:35.432Z"
+    "last_updated": "2026-07-10T11:19:17.300Z"
   },
   "productos": [
+    {
+      "id": "melila2BPfFH2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Dispensador De Agua Eléctrico Portátil Bomba Usb Botellon",
+      "precio": 4954,
+      "precio_original": 7990,
+      "descuento": "38% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783682367/zerch/melila2BPfFH2_1783682349/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BKgLz2%2FPDBaGqu50H0koICn9nmZ9Z2EMBqBk%2F4poqXL5ZqOehp6tXxrtu4O3VFGd0eG97WC7VOeuTG8uSlu3C%2FAhjTdUy91ok5XJ7tyMORjJkNRLMLcmg3ghuPTCIhFUm%2Fi9HhPp4h3RJJ3qtb5QHikxsZkK1SHAJbLxJ78jzyNTSzGrw3qdO2zJW0K23PTJ%2FIDFsQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-10T11:19:17.300Z",
+      "instagram_post_id": null,
+      "short": "dispensador-agua",
+      "slug": "dispensador-de-agua-electrico-portatil-bomba-usb-botellon"
+    },
     {
       "id": "melila1LaTqx2",
       "source": "mercadolibre",
@@ -248,29 +270,6 @@
       "instagram_post_id": null,
       "short": "estufa-electrica",
       "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro",
-      "comision_pct": 8
-    },
-    {
-      "id": "melila1HHPgLo",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Hidrolavadora Lernen Hlp-1600 1600w Con Jabonera Espumador 120 Bar Color Amarillo Frecuencia 60 Hz",
-      "precio": 59990,
-      "precio_original": 99990,
-      "descuento": "40% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782268021/zerch/melila1HHPgLo_1782267872/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BLT3y1ERhrRclxlasB6xLMY2MIRFnpb47%2BqbR%2BUDqdi384G4lQ%2BymE%2BPAZBiC3SyaR0FgBnn6UeOtMnM6f291zs%2FccLnR4tkLDFry2rBDrS3gR%2FwRC2A03suVYYLXlIbTZ7di4qswSYD6oWP1XT4hE5lR4W%2FgAiEbxZoXNI9pV0a%2BrCWx5ne0Tap2xOZHpTgxv2PL9rldZ0OqojO40hsWS7zT6gMENCxINJl%2FQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-24T02:24:40.255Z",
-      "instagram_post_id": null,
-      "short": "hidrolavadora-lernen",
-      "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col",
       "comision_pct": 8
     },
     {
