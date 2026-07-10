@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-10T11:09:13.889Z"
+    "last_updated": "2026-07-10T11:16:35.432Z"
   },
   "productos": [
+    {
+      "id": "melila1LaTqx2",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set Limpieza Pantalla Philco 78plc00801",
+      "precio": 4113,
+      "precio_original": 4990,
+      "descuento": "2% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783682204/zerch/melila1LaTqx2_1783682188/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL1DnGNOat1f189%2B%2Fy2wAm4fHuEycEcQ12TFClqe5dZ86DZCQ6evKOUxTh%2FB2DznWxV592D5wzmnClf2PlDqZxAhAX0bPJOEHrcb9PwtjiePtL6ZF8E4wGCAuxlm%2By8MUV2CDi0nKPteDORavks%2BkDaOFUyf5OyLWnci8jcCx4xvJgM2Ha0wirvDvMjcmlYhh7XpxlKH9JuwPcIGVURWh12gXnw%2FH7HJoWWGhQ%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-10T11:16:35.432Z",
+      "instagram_post_id": null,
+      "short": "limpieza-pantalla",
+      "slug": "set-limpieza-pantalla-philco-78plc00801"
+    },
     {
       "id": "melila2ZJiqcr",
       "source": "mercadolibre",
@@ -249,29 +271,6 @@
       "instagram_post_id": null,
       "short": "hidrolavadora-lernen",
       "slug": "hidrolavadora-lernen-hlp-1600-1600w-con-jabonera-espumador-120-bar-col",
-      "comision_pct": 8
-    },
-    {
-      "id": "melila1TwRynQ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Aspiradora Multifunción Metálica Polvo Agua 30 Litros 1500w",
-      "precio": 62555,
-      "precio_original": 99990,
-      "descuento": "37% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782267496/zerch/melila1TwRynQ_1782267348/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BGKzSI8IV9i3Cmdx%2BYtQDfb41scZtDyOUkNz3GtsiSrAVDnq%2Bm%2BgkQuv%2BEWO7UTIGNLShF414u1dk5ESkKYLmeXW1chP5irOD5bPU0bafru7NeSLdyioLs9uQY5SVN88x4yo2vLatznFieJzf4WuUoadXnWVPaqvSPejaKSg2BON0y1LXkFOf0E8gadhDvgHBKClfkgqo3EpU9DnTgb9d954C36f%2FmxHNXO6EQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-24T02:15:55.147Z",
-      "instagram_post_id": null,
-      "short": "aspiradora-multifuncion",
-      "slug": "aspiradora-multifuncion-metalica-polvo-agua-30-litros-1500w",
       "comision_pct": 8
     },
     {
