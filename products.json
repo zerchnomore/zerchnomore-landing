@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-10T10:57:27.814Z"
+    "last_updated": "2026-07-10T11:04:17.302Z"
   },
   "productos": [
+    {
+      "id": "melila1sizGXK",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Rasuradora Corporal Masculina Mycocos® 4.0 Azul",
+      "precio": 57990,
+      "precio_original": 69990,
+      "descuento": "17% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783681465/zerch/melila1sizGXK_1783681449/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/1sizGXK",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-10T11:04:17.301Z",
+      "instagram_post_id": null,
+      "short": "rasuradora-corporal",
+      "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul"
+    },
     {
       "id": "melila2EwmSY4",
       "source": "mercadolibre",
@@ -253,29 +275,6 @@
       "instagram_post_id": null,
       "short": "estacion-energia",
       "slug": "estacion-de-energia-portatil-lernen-350w-generador-electrico",
-      "comision_pct": 8
-    },
-    {
-      "id": "melila1HxK1jd",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Juego De Dados Chicharra 46 Piezas Lernen Con Maletín Negro",
-      "precio": 7990,
-      "precio_original": 9990,
-      "descuento": "20% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1782266405/zerch/melila1HxK1jd_1782266257/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJysLXw9wLpciFOpntbBU3mkSgEVgVoxYNDBTf8P8%2BOusX6ZrDjCQZkMnvxadaAr930d6EP%2BEfh8M9qEpd2kODmCSDxpW4jQykZzphYm%2B8x1nEZ4I0ZUXbGZZlb3TDwL21ruAl76CV16EV6jgb2e3%2FeK9AyKxSIidF7HJ89S%2FvNQ4b9QIOi3z%2FLvZ3nVf2sgqHWF7cWM4FClAkXB%2FX8Hzo%2BZLG0VseRzjhVHpQ%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-06-24T01:57:43.629Z",
-      "instagram_post_id": null,
-      "short": "juego-dados",
-      "slug": "juego-de-dados-chicharra-46-piezas-lernen-con-maletin-negro",
       "comision_pct": 8
     },
     {
