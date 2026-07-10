@@ -3,9 +3,29 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-10T11:04:17.302Z"
+    "last_updated": "2026-07-10T11:09:13.889Z"
   },
   "productos": [
+    {
+      "id": "melila2ZJiqcr",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Joystick Dualsense 1 Inalámbrico Bluetooth Ps5 Galactic Purple playstation",
+      "titulo_display": "Joystick Dualsense 1 Inalámbrico Bluetooth Ps5…",
+      "precio": 69990,
+      "precio_original": 82490,
+      "descuento": "15% OFF",
+      "moneda": "CLP",
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783681764/zerch/melila2ZJiqcr_1783681748/carrusel/slide_02_hero.png",
+      "link": "https://meli.la/2ZJiqcr",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-07-10T11:09:13.888Z",
+      "instagram_post_id": null,
+      "short": "joystick-dualsense",
+      "slug": "joystick-dualsense-1-inalambrico-bluetooth-ps5-galactic-purple-playsta"
+    },
     {
       "id": "melila1sizGXK",
       "source": "mercadolibre",
