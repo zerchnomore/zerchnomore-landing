@@ -3,9 +3,32 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T17:49:21.058Z"
+    "last_updated": "2026-07-13T17:56:44.152Z"
   },
   "productos": [
+    {
+      "id": "melila2Uq8vU6",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Set Ollas Outdoor Camping Cocinilla Utensilios Ds-308 Gris Oscuro Y Naranja",
+      "titulo_display": "Set Ollas Outdoor Camping Cocinilla Utensilios Ds-308…",
+      "precio": 12500,
+      "precio_original": 19890,
+      "descuento": "41% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783965467/zerch/melila2Uq8vU6_1783965398/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BA6N%2B%2F5ledyUowT4eYW4ZK9KBxjAXuCq2xtA%2BddvSpSCO%2B36zV69ty8EAE9UM2F6Ows3Ny2rOzIFA%2Bas5%2B1nfRcW%2BImSp1DtTJe3%2BJeLiTDWr8fSOCsvKzLLC8BmgfgH62wje19Oray%2FDWU68P4f9xxjxE4Redwg0um2Nr1S8KKZcbUUJDWTMdomKkO7gFCSQ07Kms5rnOGHCatQRiq6%2FQG%2FmLetkQtKl9D7aJJ7VwQK4A%3D%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-07-13T17:56:44.152Z",
+      "instagram_post_id": null,
+      "short": "ollas-outdoor",
+      "slug": "set-ollas-outdoor-camping-cocinilla-utensilios-ds-308-gris-oscuro-y-na"
+    },
     {
       "id": "melila1ybGKgh",
       "source": "mercadolibre",
