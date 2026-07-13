@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T18:03:47.630Z"
+    "last_updated": "2026-07-13T18:10:32.847Z"
   },
   "productos": [
+    {
+      "id": "melila2Za8Gru",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Hokkairon Bolsa Térmica Alta Temp. Pack X5 (50 Uni)",
+      "precio": 27990,
+      "precio_original": 28990,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783966294/zerch/melila2Za8Gru_1783966225/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BNwzlyeJGcCCI2r4a%2BPrI0GOMGgcGUPZOcABvq40FjyKIDsQe9LCLyDHTUey82euVFwxesDCY%2BgFV3EeGB5hm05KNHbYfTYyfpZq5HAR3TTGFbVF%2BQLLWqnI56%2FGZA%2BB%2F2aMDQVyW4%2FcwOiMkllor6zzzju5ys%2BmaVP6kGhjll1csJsor2TyeN0Hs%2BBG55jaL9npLk5hm%2Fg1i64J3HSzreleu2IKKHFXvqS1MbnAgA2B%2Fd9C",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-13T18:10:32.847Z",
+      "instagram_post_id": null,
+      "short": "hokkairon-bolsa",
+      "slug": "hokkairon-bolsa-termica-alta-temp-pack-x5-50-uni"
+    },
     {
       "id": "melila2hSRs6r",
       "source": "mercadolibre",
@@ -247,28 +269,6 @@
       "instagram_post_id": null,
       "short": "carrito-camping",
       "slug": "carrito-camping-plegable-multiuso-100kg-ruedas-360-negro"
-    },
-    {
-      "id": "melila117P6Pa",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Panel De Bajo Consumo Biocalor Bio400 Wifi",
-      "precio": 77290,
-      "precio_original": 139990,
-      "descuento": "44% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_875626-MLC91119640473_082025-O.webp",
-      "link": "https://meli.la/117P6Pa",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-07-06T06:35:01.384Z",
-      "instagram_post_id": null,
-      "short": "panel-calefactor",
-      "slug": "panel-de-bajo-consumo-biocalor-bio400-wifi"
     },
     {
       "id": "melila2u1qNz2",
