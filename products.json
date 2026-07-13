@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-10T11:19:17.300Z"
+    "last_updated": "2026-07-13T17:42:18.441Z"
   },
   "productos": [
+    {
+      "id": "melila31q8Kge",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Tetera Camping Caza Acero Inoxidable Olla Camping Tetera 0.8 Plateado",
+      "precio": 9490,
+      "precio_original": 19890,
+      "descuento": "41% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783964601/zerch/melila31q8Kge_1783964532/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJcx5mB9cAQL22PtexzpRTB%2FubPBuKH%2FvxJFxMVM6tMXCG7bdC3nP8XO%2FMEX520OEa3ZoGAJDlfmDLY5LdMvJqT07pRCCohxtwe7FrhY9Ongv7xXYqs%2BHm1RaVjp%2BcHBrnp%2BDl97ewp5J5mgYPbGIJVnXmWJWnFLf3TOK1R%2BLXoNwC8lBLe0umosescGlm%2B8KZbITDwVffPzwfkWoCZ1VvrzU5%2F%2FuTYgBYLRWGraj0LFiAwq",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-07-13T17:42:18.441Z",
+      "instagram_post_id": null,
+      "short": "tetera-camping",
+      "slug": "tetera-camping-caza-acero-inoxidable-olla-camping-tetera-0-8-plateado"
+    },
     {
       "id": "melila2BPfFH2",
       "source": "mercadolibre",
