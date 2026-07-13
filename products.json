@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T17:56:44.152Z"
+    "last_updated": "2026-07-13T18:03:47.630Z"
   },
   "productos": [
+    {
+      "id": "melila2hSRs6r",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Termo Liquido Mondial 1.8 Lt Cool Blanco Blanco",
+      "precio": 19890,
+      "precio_original": 14990,
+      "descuento": null,
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783965890/zerch/melila2hSRs6r_1783965821/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BL26tzH9iSDZiSf%2FpYuYCaUomOWq%2FEQRhfX%2FgkYtPNwObWN2pB5A3TIGqDISP6D4aUHN2y1Z9ZfXJ7zaC44WCSWNqPibRFHEDpMPmjtjYxnhtzS5XwoFwFpqQEdJINlvp8g6j%2BSMfK%2BJBuNA%2FtxAIjUygihin7Ni0zfh6p6H0%2BIj%2FI5fcqNjY8%2FZMkpLsrmw5JxiGpspOpznkv9QZ8iHoHr6fPEE7EuoxcDxYw%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-13T18:03:47.630Z",
+      "instagram_post_id": null,
+      "short": "termo-liquido",
+      "slug": "termo-liquido-mondial-1-8-lt-cool-blanco-blanco"
+    },
     {
       "id": "melila2Uq8vU6",
       "source": "mercadolibre",
@@ -270,28 +292,6 @@
       "instagram_post_id": null,
       "short": "cargador-w",
       "slug": "cargador-portatil-carga-rapida-65w-con-cable-usb-c-master-g-color-negr"
-    },
-    {
-      "id": "melila1qQpHSQ",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Aspiradora Vertical Sindelen Ap-700gr 500ml Gris 50hz",
-      "precio": 39790,
-      "precio_original": 43990,
-      "descuento": "9% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_892970-MLA100186793417_122025-O.webp",
-      "link": "https://meli.la/1qQpHSQ",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-07-06T06:34:52.378Z",
-      "instagram_post_id": null,
-      "short": "aspiradora-vertical",
-      "slug": "aspiradora-vertical-sindelen-ap-700gr-500ml-gris-50hz"
     },
     {
       "id": "melila1tnuMFk",
