@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T17:42:18.441Z"
+    "last_updated": "2026-07-13T17:49:21.058Z"
   },
   "productos": [
+    {
+      "id": "melila1ybGKgh",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Termo Sifon 1.9lts Agua Caliente 12h Frío 24h Acero Vidrio",
+      "precio": 7183,
+      "precio_original": 13990,
+      "descuento": "50% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783965023/zerch/melila1ybGKgh_1783964954/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BBf6tzN9ncOiyLS2s5YVnOqZzzhjULBx3JV96cNysHJlurH%2Fi2yqNdFclxElg%2BsEbUKpxNS7UNq%2FsF45LgVsBrxFWwDVbIpbLg0YU%2BIaHGLn4abOabqTAPoSGfixa%2FTwQ25aRiDs%2BEVz%2BSU0zGGYdSI3qR6cKvyL%2FGtYmEoDrTzBaaxFEj%2B0GLjIBdQcWHv%2FrT6lczSTquJyp4adtqr0%2BQzSaO6EzphJiXQd5Q%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-13T17:49:21.058Z",
+      "instagram_post_id": null,
+      "short": "termo-sifon",
+      "slug": "termo-sifon-1-9lts-agua-caliente-12h-frio-24h-acero-vidrio"
+    },
     {
       "id": "melila31q8Kge",
       "source": "mercadolibre",
@@ -269,29 +291,6 @@
       "instagram_post_id": null,
       "short": "zapatilla-waterproof",
       "slug": "zapatilla-waterproof-hombre-panama-jack-l743",
-      "comision_pct": 8
-    },
-    {
-      "id": "melila2oiekj2",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Estufa Eléctrica Mademsa Infrarroja 1500w Digital Eco Inf10 Negro",
-      "precio": 79990,
-      "precio_original": 129990,
-      "descuento": "38% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783031028/zerch/melila2oiekj2_1783030724/carrusel/slide_02_hero.png",
-      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BPNKg5TG%2B%2Bh3oDH0O3HLhlQYAjQL8K6cw5ogJkIcL%2BHz%2F4%2FYnQuA75EpLo%2BhzV4q0qg9EvpwmgeJ%2B%2BHzFjJvHqveroeWWfrKUrUHwklcMSdnapxeyPFCEan8EsB6aQb%2BxiZEh1jXDGldXfqgg3iW8GJ8rpivpTAH3Vj%2FzObpC99L0LqinbCLgu54y3wQWjrInsQ8Nkb8S1arF8wt8lU%2FTBthagbgLo8NRXqL1w%3D%3D",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-07-02T22:18:06.993Z",
-      "instagram_post_id": null,
-      "short": "estufa-electrica",
-      "slug": "estufa-electrica-mademsa-infrarroja-1500w-digital-eco-inf10-negro",
       "comision_pct": 8
     },
     {
