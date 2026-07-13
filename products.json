@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T18:10:32.847Z"
+    "last_updated": "2026-07-13T18:18:56.929Z"
   },
   "productos": [
+    {
+      "id": "melila2hPzmnG",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Cocinilla A Gas Regulador Camping Cocina Portátil Con Maleta",
+      "precio": 9057,
+      "precio_original": 12990,
+      "descuento": "29% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783966799/zerch/melila2hPzmnG_1783966730/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BD5p3V0i7J5RnLYu6XIo5pLmkvi2C9jzN99RheH2DERJ%2FQnxhVSX2sDVDaP4LZZLsT0vuZfgqQQFRHKT3HDVbjpTYiylXD25sD6fI7gLxMzA%2BLmtGgOmib7uJcLnrn4Voz7YDqp9QtCwH0sdHNrWcL8pdkjXgY8MXsycGfog39gkhSjVDbOuC%2FX89mEgTKCpM2uMA9s95mUVgdSc%2BlRcH8E4GbZ19rlOZLMF4g%3D%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-07-13T18:18:56.928Z",
+      "instagram_post_id": null,
+      "short": "cocinilla-gas",
+      "slug": "cocinilla-a-gas-regulador-camping-cocina-portatil-con-maleta"
+    },
     {
       "id": "melila2Za8Gru",
       "source": "mercadolibre",
