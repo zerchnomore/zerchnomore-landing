@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-13T18:18:56.929Z"
+    "last_updated": "2026-07-14T11:01:59.413Z"
   },
   "productos": [
+    {
+      "id": "melila2QxFDPh",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Starlink Kit Estandar 4 X",
+      "precio": 428990,
+      "precio_original": 39990,
+      "descuento": "29% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1784026991/zerch/melila2QxFDPh_1784026910/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BEzfS4A0UCdop5mrHntHydn3CLVwjrIVdMbIxz2Zj5mQ2hzLcmjAep%2FqFYdvWdZ2qJ74z5bwLzYxQ24spe8cu92qiWtuIUZ9Ru5FvOVy15tInyxFia30ihLY%2F1XT0x2e4cX0P2rxDcNXl7O87y%2BZ%2BT3lz%2FrsdzWiKuGgwrPSNaXxU9%2Fvfr1Lm%2FUKsKuwrlYssJjTpvYncRXGq6z%2FefDCjzRrzCSXsUHOEUFZkg%3D%3D",
+      "categoria_id": "outdoor",
+      "categoria_label": "🌲 OUTDOOR",
+      "fecha_publicacion": "2026-07-14T11:01:59.412Z",
+      "instagram_post_id": null,
+      "short": "starlink-estandar",
+      "slug": "starlink-kit-estandar-4-x"
+    },
     {
       "id": "melila2hPzmnG",
       "source": "mercadolibre",
