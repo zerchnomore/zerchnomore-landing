@@ -3,9 +3,32 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-14T11:01:59.413Z"
+    "last_updated": "2026-07-23T21:43:43.423Z"
   },
   "productos": [
+    {
+      "id": "melila1YvTsQs",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Notebook Asus Vivobook 15 M1502naq-bq073w Amd Ryzen 7 16gb Ram 512gb Ssd 15.6 Quiet Blue",
+      "titulo_display": "Notebook Asus Vivobook 15 M1502naq-bq073w Amd Ryzen 7",
+      "precio": 644990,
+      "precio_original": 822347,
+      "descuento": "21% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1784843018/zerch/melila1YvTsQs_1784843016/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BOEpogFQCZWpZKTByxaDDhlAIiH6xWNOKFEFdWCdiH%2B%2FISGqV2kA%2BQ%2BYx9pNAbmW2JNeDfcMtNBaL57uqFCOijiY%2BGLDs98qjMUddGofDK0LbSzU5gpqfSV%2Fk8CWPvzUXnqtmrYGgpT3x4EPVIicGhSLUG%2F3ANLxJfyWJcLncvnJUOkPiSlquau64l8wQJn3JG72AtWLOqocRVfsVIpG%2BxO%2FTrRLzTCyA8%2FuCw%3D%3D",
+      "categoria_id": "tech",
+      "categoria_label": "📱 TECH",
+      "fecha_publicacion": "2026-07-23T21:43:43.423Z",
+      "instagram_post_id": null,
+      "short": "notebook-asus",
+      "slug": "notebook-asus-vivobook-15-m1502naq-bq073w-amd-ryzen-7-16gb-ram-512gb-s"
+    },
     {
       "id": "melila2QxFDPh",
       "source": "mercadolibre",
