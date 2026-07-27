@@ -3,9 +3,31 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-23T21:43:43.423Z"
+    "last_updated": "2026-07-27T22:04:01.456Z"
   },
   "productos": [
+    {
+      "id": "melila1L71b9A",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "55 Crystal Uhd U8500h 4k Smart Tv (2026)",
+      "precio": 379990,
+      "precio_original": 539990,
+      "descuento": "29% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1785189836/zerch/melila1L71b9A_1785189835/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BHLDi0rS%2FMQDtvgA0cpyai5AwyNvClVcAul04cOuG%2FIFQOY9Bnzv6ClEQfb7D8sN21oavkwL5GXZGHZHWZL8xIWCoGykkfGhewu8M%2FfQ2ETR7zvW4luZ1wJltmx3dVDxHGvgIF2cWkCphBsVejPq1b3%2BjdFscJEvqbLoxXC94g2HrWF0Gyug11HmXVodYZpcuYQpScP7JjNDV3L%2BTp21jEcRjwVR9UCOs02Fo7ScY91v4wfa",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-07-27T22:04:01.456Z",
+      "instagram_post_id": null,
+      "short": "crystal-uhd",
+      "slug": "55-crystal-uhd-u8500h-4k-smart-tv-2026"
+    },
     {
       "id": "melila1YvTsQs",
       "source": "mercadolibre",
@@ -291,29 +313,6 @@
       "instagram_post_id": null,
       "short": "estante-librero",
       "slug": "estante-librero-repisas-de-6-niveles-174cm-by-lubabycas-cafe"
-    },
-    {
-      "id": "melila2pXiVDc",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Kindle Basic 2024 Amazon 11va Generacion 16gb Pantalla 6 Color Verde Claro",
-      "titulo_display": "Kindle Basic 2024 Amazon 11va Generacion 16gb Pantalla",
-      "precio": 139990,
-      "precio_original": 169990,
-      "descuento": "17% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783341176/zerch/melila2pXiVDc_1783340807/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2pXiVDc",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-07-06T12:26:54.659Z",
-      "instagram_post_id": null,
-      "short": "kindle-basic",
-      "slug": "kindle-basic-2024-amazon-11va-generacion-16gb-pantalla-6-color-verde-c"
     },
     {
       "id": "melila1Gix7Fs",
