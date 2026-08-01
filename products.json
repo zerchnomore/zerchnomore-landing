@@ -3,9 +3,32 @@
     "site": "ZERCH NO MORE",
     "url": "https://zerchnomore.app",
     "instagram": "@zerch_nomore",
-    "last_updated": "2026-07-27T22:31:48.114Z"
+    "last_updated": "2026-08-01T15:29:51.092Z"
   },
   "productos": [
+    {
+      "id": "melila2qy1ArP",
+      "source": "mercadolibre",
+      "source_label": "Mercado Libre",
+      "source_emoji": "🛒",
+      "titulo": "Berger Reclinable Norman Terciopelo Elephant Café 98060r Color Marrón Diseño de la tela Big freshness",
+      "titulo_display": "Berger Reclinable Norman Terciopelo Elephant Café…",
+      "precio": 199990,
+      "precio_original": 499990,
+      "descuento": "60% OFF",
+      "moneda": "CLP",
+      "rating": null,
+      "reviews_count": 0,
+      "vendidos": null,
+      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1785598186/zerch/melila2qy1ArP_1785598185/carrusel/slide_02_hero.png",
+      "link": "https://www.mercadolibre.cl/social/poseitron?matt_word=poseitron&matt_tool=88312422&forceInApp=true&ref=BJzBWUQH3h%2Bodudu77wk2iUn%2Fl3KD4cbEXx0LgWnOXuRwMhbGFUT1oZ6eyM9zhiPBk6Q%2FBCyhtS0KktB1He505KrSdIaXTehinIO8QPwbtya8GdA%2Fu8cL3o%2BkOu7Xe89UKU0bZ7X26AbL6CNv1XmKsNz8tgu9tghZq8fwmXMBbxjgfdk7M4MotZbhIPjq6s1cMyQfKeGgdBbTebcpBc3hLdziBEsLt9qPZXvsA%3D%3D",
+      "categoria_id": "hogar",
+      "categoria_label": "🏠 HOGAR",
+      "fecha_publicacion": "2026-08-01T15:29:51.092Z",
+      "instagram_post_id": null,
+      "short": "berger-reclinable",
+      "slug": "berger-reclinable-norman-terciopelo-elephant-cafe-98060r-color-marron"
+    },
     {
       "id": "melila1L71b9A",
       "source": "mercadolibre",
@@ -291,28 +314,6 @@
       "instagram_post_id": null,
       "short": "rasuradora-corporal",
       "slug": "rasuradora-corporal-masculina-mycocos-4-0-azul"
-    },
-    {
-      "id": "melila2EwmSY4",
-      "source": "mercadolibre",
-      "source_label": "Mercado Libre",
-      "source_emoji": "🛒",
-      "titulo": "Estante Librero Repisas De 6 Niveles 174cm By Lubabycas Café",
-      "precio": 79990,
-      "precio_original": 129990,
-      "descuento": "38% OFF",
-      "moneda": "CLP",
-      "rating": null,
-      "reviews_count": 0,
-      "vendidos": null,
-      "imagen": "https://res.cloudinary.com/dpcmhdhfy/image/upload/v1783681057/zerch/melila2EwmSY4_1783681040/carrusel/slide_02_hero.png",
-      "link": "https://meli.la/2EwmSY4",
-      "categoria_id": "hogar",
-      "categoria_label": "🏠 HOGAR",
-      "fecha_publicacion": "2026-07-10T10:57:27.813Z",
-      "instagram_post_id": null,
-      "short": "estante-librero",
-      "slug": "estante-librero-repisas-de-6-niveles-174cm-by-lubabycas-cafe"
     },
     {
       "id": "melila1Gix7Fs",
